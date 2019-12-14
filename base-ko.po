@@ -401,8 +401,8 @@ msgstr "1:5"
 msgid "1x"
 msgstr "1배"
 
-msgid "2x"
-msgstr "2배"
+msgid "2 x"
+msgstr "2 배"
 
 msgid "200%"
 msgstr "200%"
@@ -413,8 +413,8 @@ msgstr "2배"
 msgid "3D"
 msgstr "3D"
 
-msgid "4x"
-msgstr "4배"
+msgid "4 x"
+msgstr "4 배"
 
 msgid "4x"
 msgstr "4배"
