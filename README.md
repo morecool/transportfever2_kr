@@ -26,3 +26,9 @@
 
  - 설치된 경로의 hlm.ini 파일내에 language부분 수정
  - 다운로드 받은 파일 동일 경로에 복사
+
+
+## 관련링크
+ - mo-to-po : https://ezgif.com/mo-to-po
+ - web poeditor : https://localise.biz/free/poeditor
+ - POEdit : https://poedit.net/
