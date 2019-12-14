@@ -1,4 +1,4 @@
-# Transport Fever 2 Korean Translation
+# Transport Fever 2 Hangeul Translation
 ## Transport Fever 2 한글화 패치
  - 제작 : 삼류개발자 (coolseed@hotmail.com)
  - 버전 : v0.99 (2019-12-14) Build 27401
