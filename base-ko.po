@@ -2670,7 +2670,7 @@ msgid "Only show lines and depots that are visible in the main view"
 msgstr "현재 화면에 보이는 노선과 차량기지만 표시"
 
 msgid "Only show lines that are visible in the main view"
-msgstr "현제 화면에 보이는 노선만 표시
+msgstr "현제 화면에 보이는 노선만 표시"
 
 msgid "Only show railroad lines and depots"
 msgstr "철도의 노선과 차량기지만 표시"
