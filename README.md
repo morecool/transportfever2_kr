@@ -1,14 +1,14 @@
 # Transport Fever 2 Hangeul Translation
 ## Transport Fever 2 한글화 패치
  - 제작 : 삼류개발자 (coolseed@hotmail.com)
- - 버전 : v0.99 (2019-12-14) Build 27401
+ - 버전 : v0.99-7 (2019-12-15) Build 27401
  - 배포 : 디시인사이드 트랜스포트피버 마이너 갤러리 (https://gall.dcinside.com/mgallery/board/lists?id=fever)
  - 소스 : https://github.com/morecool/transportfever2_kr
 
 ## 패치방법
 ### 정품 사용자
- - 일단 게임 및 스팀 클라이언트 종료
-   **C:\Program Files (x86)\Steam\steamapps\appmanifest_1066780.acf** 파일을 편집기로 열어 아래 부분 수정
+ - 일단 게임 및 스팀 클라이언트 종료하세요 <- 주의!!
+ - **C:\Program Files (x86)\Steam\steamapps\appmanifest_1066780.acf** 파일을 편집기로 열어 아래 부분 수정
  
  ```
 	"UserConfig"
