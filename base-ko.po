@@ -1025,7 +1025,7 @@ msgid "Cargo types"
 msgstr "화물의 종류"
 
 msgid "Catenary"
-msgstr "카테나리"
+msgstr "전차선로"
 
 msgid "Change date"
 msgstr "날짜 변경"
@@ -1357,7 +1357,7 @@ msgid "Delete subtitle"
 msgstr "자막 삭제"
 
 msgid "Deliver every product to every city that requires it."
-msgstr "모든 상품을, 그것이 필요한 모든 거리로 운반한다."
+msgstr "모든 상품을 필요한 모든 도시로 운반한다."
 
 msgid "Depot"
 msgstr "차량기지"
@@ -1613,7 +1613,7 @@ msgid "First bus stop"
 msgstr "첫 정거장"
 
 msgid "First cargo item on board"
-msgstr "첫번째 화물을 탑재"
+msgstr "첫번째 화물을 실었습니다"
 
 msgid "First cargo item waiting"
 msgstr "첫번째 화물이 대기중"
@@ -1679,7 +1679,7 @@ msgid "Freq."
 msgstr "주사율"
 
 msgid "Frequence"
-msgstr "주사율"
+msgstr "배차 간격"
 
 msgid "Full load (all)"
 msgstr "최대적재(모두)"
@@ -2074,10 +2074,10 @@ msgid "Jobs"
 msgstr "일"
 
 msgid "Keep"
-msgstr "키프"
+msgstr "유지"
 
 msgid "Keep a train built before 1900 running until the year 2000."
-msgstr "1900년 이전에 제조된 열차를 2000년까지 뛴다."
+msgstr "1900년 이전에 제조된 열차를 2000년까지 운행시킨다."
 
 msgid "Keep assets"
 msgstr "어셋을 킵"
@@ -2086,19 +2086,19 @@ msgid "Keep existing industries"
 msgstr "기존 산업을 킵"
 
 msgid "Keep existing streets"
-msgstr "기존의 가로 유지"
+msgstr "기존 거리 유지"
 
 msgid "Keep existing towns"
-msgstr "기존 마을을 유지"
+msgstr "기존 마을 유지"
 
 msgid "Keep heightmap"
-msgstr "하이트맵을 킵"
+msgstr "맵 높이 유지"
 
 msgid "Keep resolution?"
 msgstr "해상도를 유지합니까?"
 
 msgid "Keep trees and rocks"
-msgstr "나무와 돌을 킵"
+msgstr "나무와 돌을 유지"
 
 msgid "Key mapping"
 msgstr "키매핑"
@@ -2170,13 +2170,13 @@ msgid "Line Usage"
 msgstr "노선 사용량"
 
 msgid "Line contains too few stations"
-msgstr "노선에 역이 너무 적어요"
+msgstr "노선에 역이 너무 적음"
 
 msgid "Line has no stops"
-msgstr "노선에 정류장이 없어요"
+msgstr "노선에 정류장이 없음"
 
 msgid "Line manager"
-msgstr "노선 매니저"
+msgstr "노선 관리자"
 
 msgid "Line must contain at least one stop"
 msgstr "노선에는 정류장이 하나 이상 필요합니다"
@@ -3440,10 +3440,10 @@ msgid "Show/hide street traffic layer"
 msgstr "도로교통 레이어 표시/비표시"
 
 msgid "Show/hide street waypoints menu"
-msgstr "가로웨이 포인트 메뉴 표시/비표시"
+msgstr "거리 경유지 메뉴 표시/비표시"
 
 msgid "Show/hide streets menu"
-msgstr "가로메뉴 표시/비표시"
+msgstr "거리 메뉴 표시/비표시"
 
 msgid "Show/hide terrain paint tools menu"
 msgstr "지형 페인트 툴 메뉴 표시/비표시"
@@ -3464,13 +3464,13 @@ msgid "Show/hide track speed limits layer"
 msgstr "선로 속도제한 레이어 표시/비표시"
 
 msgid "Show/hide track waypoints menu"
-msgstr "선로웨이 포인트 메뉴 표시/비표시"
+msgstr "선로 경유지 메뉴 표시/비표시"
 
 msgid "Show/hide tracks menu"
-msgstr "선로메뉴 표시/비표시"
+msgstr "선로 메뉴 표시/비표시"
 
 msgid "Show/hide vehicle manager"
-msgstr "차량매니저 표시/비표시"
+msgstr "차량 관리자 표시/비표시"
 
 msgid "Show/hide vehicle statistics"
 msgstr "차량통계 표시/비표시"
