@@ -760,7 +760,7 @@ msgstr ""
 "하는 노선을 구축하십시오."
 
 msgid "Build the company headquarters."
-msgstr "회사 본부를 만든다."
+msgstr "회사 본부 건설."
 
 msgid "Build town not possible"
 msgstr "마을을 건설할 수 없어요"
