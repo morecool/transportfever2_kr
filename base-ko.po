@@ -844,7 +844,7 @@ msgid "Cadet"
 msgstr "연수생"
 
 msgid "Camera Manager"
-msgstr "카메라 매니저"
+msgstr "카메라 관리자"
 
 msgid "Camera focal length"
 msgstr "카메라 초점거리"
@@ -2691,7 +2691,7 @@ msgid "Open advanced game settings dialog"
 msgstr "게임 상세설정 대화상자만 열기"
 
 msgid "Open vehicle manager"
-msgstr "차량매니저 열기"
+msgstr "차량 관리자 열기"
 
 msgid "Open vehicle store to buy vehicles"
 msgstr "차량샵을 차려서 차량을 구입"
@@ -3386,7 +3386,7 @@ msgid "Show/hide land use layer"
 msgstr "토지사용 레이어 표시/비표시"
 
 msgid "Show/hide line manager"
-msgstr "노선매니저 표시/비표시"
+msgstr "노선 관리자 표시/비표시"
 
 msgid "Show/hide line statistics"
 msgstr "노선통계 표시/비표시"
@@ -4103,7 +4103,7 @@ msgid "Vehicle lifetime"
 msgstr "차량수명"
 
 msgid "Vehicle manager"
-msgstr "차량 매니저"
+msgstr "차량 관리자"
 
 msgid "Vehicle statistics"
 msgstr "차량 통계"

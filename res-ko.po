@@ -1073,7 +1073,7 @@ msgstr ""
 
 msgid "HELP_MANAGER_VEHICLES"
 msgstr ""
-"차량매니저에 의해, 차량의 구입과 관리를 실행할 수 있습니다.\n"
+"차량 관리자에 의해, 차량의 구입과 관리를 실행할 수 있습니다.\n"
 "차량을 구입하려면 목록에서 차량기지를 선택하고 \"차량을 구입\" 버튼을 누르세"
 "요.\n"
 "선택 내용에 따른 조작이 표시됩니다.차량에는 노선으로의 할당, 판매, 카피, 배"
@@ -1278,7 +1278,7 @@ msgid "Limo"
 msgstr "리무진"
 
 msgid "Line manager"
-msgstr "노선 매니저"
+msgstr "노선 관리자"
 
 msgid "Line statistics"
 msgstr "노선통계"
@@ -2823,7 +2823,7 @@ msgstr "대단한 용량"
 
 msgid "MISSION_COLONIALISM_TASK_CAPACITY_SIGNAL_HINT"
 msgstr ""
-"노선은 설치된 신호기에 자동으로 적응합니다.노선 매니저를 열고, 신호기가 어떻"
+"노선은 설치된 신호기에 자동으로 적응합니다.노선 관리자를 열고, 신호기가 어떻"
 "게 노선에 작용하는지 확인합시다."
 
 msgid "MISSION_COLONIALISM_TASK_CAPACITY_SIGNAL_NAME"
@@ -12319,7 +12319,7 @@ msgid "TIP_VEHICLES_4"
 msgstr "노선의 이용 빈도는 차량간의 시간 간격을 나타내고 있습니다."
 
 msgid "TIP_VEHICLES_5"
-msgstr "루트매니저에서는 각 정거장에서의 화물 적하를 선택할 수 있습니다."
+msgstr "경로 관리자에서는 각 정거장에서의 화물 적하를 선택할 수 있습니다."
 
 msgid "TIP_VEHICLES_6"
 msgstr "보수 레벨이 높은 차량은 공해 레벨이 낮아지지만, 보수 코스트가 듭니다."
@@ -14831,7 +14831,7 @@ msgid "VEHICLE_WAGGON_WAGEN_BAYRISCH_1865_NAME"
 msgstr "바이에른의 객차"
 
 msgid "Vehicle manager"
-msgstr "차량 매니저"
+msgstr "차량 관리자"
 
 msgid "Vehicle statistics"
 msgstr "차량 통계"
