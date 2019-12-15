@@ -1251,25 +1251,25 @@ msgid "Landing direction"
 msgstr "착륙 방향"
 
 msgid "Large"
-msgstr "대"
+msgstr "대형"
 
 msgid "Large airport runway"
-msgstr "대규모 공항 활주로"
+msgstr "대형 공항 활주로"
 
 msgid "Large airport runway with a speed limit of %2%."
 msgstr "제한 속도 %2%의 대규모 공항 활주로."
 
 msgid "Large country road"
-msgstr "큰 시골길"
+msgstr "대형 시골길"
 
 msgid "Large highway"
 msgstr "대형 고속도로"
 
 msgid "Large one-way street"
-msgstr "큰 일방통행 거리"
+msgstr "대형 일방통행 거리"
 
 msgid "Large street"
-msgstr "넓"
+msgstr "대형 도로"
 
 msgid "Left"
 msgstr "왼쪽"
@@ -11850,31 +11850,31 @@ msgid "Maximal"
 msgstr "최대"
 
 msgid "Medium"
-msgstr "중정도"
+msgstr "중형"
 
 msgid "Medium airport runway"
-msgstr "중규모 공항활주로"
+msgstr "중형 공항활주로"
 
 msgid "Medium airport runway with a speed limit of %2%."
 msgstr "제한 속도 %2% 중간급 규모 공항 활주로."
 
 msgid "Medium airport taxiway"
-msgstr "중규모 공항 유도로"
+msgstr "중형 공항 유도로"
 
 msgid "Medium airport taxiway with a speed limit of %2%."
-msgstr "제한 속도 %2% 중간급 규모 공항 유도로."
+msgstr "제한 속도 %2% 중형 공항 유도로."
 
 msgid "Medium country road"
-msgstr "보통 시골길"
+msgstr "중형 시골길"
 
 msgid "Medium highway"
 msgstr "중형 고속도로"
 
 msgid "Medium one-way street"
-msgstr "보통 일방통행 도로"
+msgstr "중형 일방통행 도로"
 
 msgid "Medium street"
-msgstr "보통 도로"
+msgstr "중형 도로"
 
 msgid "Mesas"
 msgstr "메사"
@@ -12111,10 +12111,10 @@ msgid "Scree"
 msgstr "하라"
 
 msgid "Scree 2"
-msgstr " 벗겨진 2"
+msgstr "벗겨진 2"
 
 msgid "Second street connection"
-msgstr " 제2도로 연결"
+msgstr "제2도로 연결"
 
 msgid "Shape"
 msgstr "셰이프"
@@ -12150,19 +12150,19 @@ msgid "Size"
 msgstr "사이즈"
 
 msgid "Small"
-msgstr "작은"
+msgstr "소형"
 
 msgid "Small bus/tram stop for passengers, to be placed on the sidewalk."
-msgstr "길가에 설치하는 여객용 작은 버스/트램 정류장"
+msgstr "길가에 설치하는 여객용 소형 버스/트램 정류장"
 
 msgid "Small country road"
-msgstr "작은 시골길"
+msgstr "소형 시골길"
 
 msgid "Small one-way street"
-msgstr "작은 일방통행 도로"
+msgstr "소형 일방통행 도로"
 
 msgid "Small street"
-msgstr "작은 도로"
+msgstr "소형 도로"
 
 msgid "Snow 01"
 msgstr "눈 01"
