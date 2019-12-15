@@ -1067,10 +1067,10 @@ msgid "Clear key frame list"
 msgstr "키프레임 리스트를 클리어"
 
 msgid "Click on icons to select residents"
-msgstr "아이콘을 클릭하여 주민 선택"
+msgstr "주민 아이콘을 클릭하여 선택하세요"
 
 msgid "Click on stations to add"
-msgstr "역을 클릭해서 추가합시다"
+msgstr "역을 클릭해서 추가하세요"
 
 msgid ""
 "Click on the icon to jump to the first point where the path couldn't "
@@ -1273,7 +1273,7 @@ msgstr ""
 "여유 공간과 권한을 확인하십시오."
 
 msgid "Create New Game"
-msgstr "새로운 게임을 작성"
+msgstr "새로운 게임 만들기"
 
 msgid "Create New Map"
 msgstr "새로운 맵 작성"
@@ -1664,7 +1664,7 @@ msgid "Folder:"
 msgstr "폴더:"
 
 msgid "For experts:"
-msgstr "상급자용 :"
+msgstr "상급자용:"
 
 msgid "Force units"
 msgstr "힘 단위"
@@ -1676,10 +1676,10 @@ msgid "Free Game"
 msgstr "자유 게임"
 
 msgid "Freq."
-msgstr "주사율"
+msgstr "배차 간격"
 
 msgid "Frequence"
-msgstr "배차 간격"
+msgstr "빈도"
 
 msgid "Full load (all)"
 msgstr "최대적재(모두)"
@@ -2182,10 +2182,10 @@ msgid "Line must contain at least one stop"
 msgstr "노선에는 정류장이 하나 이상 필요합니다"
 
 msgid "Line statistics"
-msgstr "노선통계"
+msgstr "노선 통계"
 
 msgid "Lines passing:"
-msgstr "노선통과:"
+msgstr "노선 통과:"
 
 msgid "Lines report following problems:"
 msgstr "노선부터 다음 문제가 보고되고 있습니다:"
@@ -2209,13 +2209,13 @@ msgid "Load a map"
 msgstr "맵을 로드"
 
 msgid "Load an existing game"
-msgstr "기존의 게임을 로드"
+msgstr "기존 게임 불러오기"
 
 msgid "Load an existing map"
-msgstr "기존 맵을 로드"
+msgstr "기존 지도 불러오기"
 
 msgid "Load game"
-msgstr "게임을 로드"
+msgstr "게임 불러오기"
 
 msgid "Load if available"
 msgstr "가능한 경우 싣는다"
@@ -2236,7 +2236,7 @@ msgid "Loading order, click to change"
 msgstr "로드할 차례, 클릭해서 변경"
 
 msgid "Loading speed"
-msgstr "탑재속도"
+msgstr "탑재 속도"
 
 msgid "Loading..."
 msgstr "로드 중..."
@@ -2598,7 +2598,7 @@ msgid "No vehicles to replace!"
 msgstr "교체할 차량이 없습니다!!"
 
 msgid "Node locked"
-msgstr "점이 잠겨있음"
+msgstr "초점이 잠겨있음"
 
 msgid "None"
 msgstr "없음"
@@ -2667,10 +2667,10 @@ msgid "Only show air lines and hangars"
 msgstr "항공기 노선과 격납고만 표시"
 
 msgid "Only show lines and depots that are visible in the main view"
-msgstr "메인뷰로 표시하고 있는 노선과 차량기지만 표시"
+msgstr "현재 화면에 보이는 노선과 차량기지만 표시"
 
 msgid "Only show lines that are visible in the main view"
-msgstr "메인뷰로 표시하고 있는 노선만 표시"
+msgstr "현제 화면에 보이는 노선만 표시
 
 msgid "Only show railroad lines and depots"
 msgstr "철도의 노선과 차량기지만 표시"
@@ -2679,13 +2679,13 @@ msgid "Only show road lines and depots"
 msgstr "도로와 차량기지만 표시"
 
 msgid "Only show ship lines and shipyards"
-msgstr "배의 노선과 조선소만 표시"
+msgstr "배의 항로와 조선소만 표시"
 
 msgid "Only show tram lines and depots"
 msgstr "트램 노선과 차량기지만 표시"
 
 msgid "Only show vehicles that are visible in the main view"
-msgstr "메인뷰로 표시하고 있는 차량만 표시"
+msgstr "현재 화면에 보이는 차량만 표시"
 
 msgid "Open advanced game settings dialog"
 msgstr "게임 상세설정 대화상자만 열기"
@@ -2694,7 +2694,7 @@ msgid "Open vehicle manager"
 msgstr "차량 관리자 열기"
 
 msgid "Open vehicle store to buy vehicles"
-msgstr "차량샵을 차려서 차량을 구입"
+msgstr "선택된 차량 기지에서 차량을 구매"
 
 msgid "Open vehicle window on purchase"
 msgstr "구입시 차량 윈도우 열기"
@@ -2715,7 +2715,7 @@ msgid "Output resolution"
 msgstr "출력 해상도"
 
 msgid "Overload"
-msgstr "혼잡"
+msgstr "혼잡도"
 
 msgid "Overloaded stations"
 msgstr "혼잡한 역"
@@ -3073,16 +3073,16 @@ msgid "Reset vehicle"
 msgstr "차량을 리셋"
 
 msgid "Residential"
-msgstr "주거"
+msgstr "거주자"
 
 msgid "Residential area"
-msgstr "주거지역"
+msgstr "거주 지역"
 
 msgid "Residential building"
-msgstr "주거건축물"
+msgstr "주거용 건물"
 
 msgid "Residents"
-msgstr "주거"
+msgstr "거주지"
 
 msgid "Resolution"
 msgstr "해상도"
@@ -3165,7 +3165,7 @@ msgid "Save camera config"
 msgstr "카메라 설정 저장"
 
 msgid "Save game"
-msgstr "게임을 세이브"
+msgstr "게임 저장"
 
 msgid "Save key frames"
 msgstr "키프레임 저장"
@@ -3314,7 +3314,7 @@ msgid "Ship %1%"
 msgstr "선박 %1%"
 
 msgid "Shipment"
-msgstr "수송"
+msgstr "수송품"
 
 msgid "Shipped"
 msgstr "선적"
@@ -3323,7 +3323,7 @@ msgid "Shipping"
 msgstr "출하"
 
 msgid "Ships"
-msgstr ""
+msgstr "선박"
 
 msgid "Shipyard"
 msgstr "조선소"
@@ -3335,7 +3335,7 @@ msgid "Shopping"
 msgstr "쇼핑"
 
 msgid "Shopping facilities"
-msgstr "상업시설"
+msgstr "쇼핑 시설"
 
 msgid "Show advanced options"
 msgstr "상세옵션 표시"
@@ -3518,7 +3518,7 @@ msgid ""
 "Some DLCs and/or mods could not be found. Please install them first in order "
 "to load this savegame."
 msgstr ""
-"DLC나 MOD에서 찾을 수 없는 것이 있습니다.이 세이브 게임을 로드하려면, 먼저필"
+"DLC나 MOD에서 찾을 수 없는 것이 있습니다.저장된 게임을 불러오려면, 먼저필"
 "요한 DLC/MOD를 설치해 주세요."
 
 msgid "Some cargo items are lost because station is overloaded."
@@ -3666,7 +3666,7 @@ msgid "Successfully connected all stations"
 msgstr "모든 역을 연결할 수 있었습니다"
 
 msgid "Suppliers"
-msgstr "구입처"
+msgstr "공급자"
 
 msgid "Supply"
 msgstr "물자"
@@ -3684,7 +3684,7 @@ msgid "Tags"
 msgstr "태그"
 
 msgid "Target population"
-msgstr "타겟 인구"
+msgstr "대상 인구"
 
 msgid "Task completed"
 msgstr "작업클리어"
@@ -3935,40 +3935,40 @@ msgid "Trans-Siberian Railway"
 msgstr "시베리아철도"
 
 msgid "Transport"
-msgstr "수송"
+msgstr "운송"
 
 msgid "Transport belt"
-msgstr "수송벨트"
+msgstr "운송 벨트"
 
 msgid "Transport corporation"
-msgstr "수송회사"
+msgstr "운송 회사"
 
 msgid "Transport master"
-msgstr "수송의 달인"
+msgstr "운송의 달인"
 
 msgid "Transport millionaire"
-msgstr "수송의 억만장자"
+msgstr "운송의 억만장자"
 
 msgid "Transport shark"
-msgstr "수송의 명인"
+msgstr "운송의 명인"
 
 msgid "Transport shark (Hard mode)"
-msgstr "수송의 명인(하드웨어 모드)"
+msgstr "운송의 명인(하드웨어 모드)"
 
 msgid "Transport tycoon"
-msgstr "수송의 대가"
+msgstr "운송의 대가"
 
 msgid "Transport tycoon (Hard mode)"
-msgstr "수송의 거물 사업가(하드웨어 모드)"
+msgstr "운송의 거물 사업가(어려운 모드)"
 
 msgid "Transported"
-msgstr "수송제"
+msgstr "운송됨"
 
 msgid "Truck"
 msgstr "트럭"
 
 msgid "Truck Fever"
-msgstr "트랙 사랑"
+msgstr "트럭 열정"
 
 msgid "Truck station"
 msgstr "트럭 정류장"
@@ -4085,7 +4085,7 @@ msgid "Using the time control, go back in time."
 msgstr "시간을 조작하여 과거로 돌아간다."
 
 msgid "Vacant"
-msgstr "빈 곳"
+msgstr "빈 일자리"
 
 msgid "Value"
 msgstr "가치"
@@ -4204,7 +4204,7 @@ msgstr "중량단위"
 msgid ""
 "When waiting for full load, depart after the specified period of inactivity"
 msgstr ""
-"화물을 가득 채우기 위해 기다릴 때는, 활동이 특정 기간 없는 후에 출발합니다"
+"화물을 가득 채우는동안 설정된 시간내에 더이상 특이점이 없으면 출발합니다"
 
 msgid "Window settings"
 msgstr "창 설정"
@@ -4216,7 +4216,7 @@ msgid "With lines"
 msgstr "노선으로"
 
 msgid "Work"
-msgstr "일"
+msgstr "노동"
 
 msgid "Workplaces"
 msgstr "직장"
