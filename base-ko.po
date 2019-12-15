@@ -543,20 +543,20 @@ msgid "Advanced settings"
 msgstr "상세설정"
 
 msgid "Age"
-msgstr "연수"
+msgstr "년식"
 
 msgid "Air"
 msgstr "공역"
 
 msgid "Aircraft"
 msgid_plural "Aircraft"
-msgstr[0] "비행기"
+msgstr[0] "항공기"
 
 msgid "Aircraft %1%"
-msgstr "비행기 %1%"
+msgstr "항공기 %1%"
 
 msgid "Aircraft entrepreneur"
-msgstr "비행기의 기업가"
+msgstr "항공기의 기업가"
 
 msgid "All"
 msgstr "모두 다"
@@ -690,10 +690,10 @@ msgid "Bank balance"
 msgstr "은행 잔고"
 
 msgid "Big aircraft"
-msgstr "대형 비행기"
+msgstr "대형 항공기"
 
 msgid "Big aircraft is incompatible with small airport"
-msgstr "대형 비행기는 작은 공항에 대응할 수 없습니다"
+msgstr "대형 항공기는 작은 공항에 대응할 수 없습니다"
 
 msgid "Big ship"
 msgstr "대형배"
@@ -760,7 +760,7 @@ msgstr ""
 "하는 노선을 구축하십시오."
 
 msgid "Build the company headquarters."
-msgstr "회사 본부를 만든다."
+msgstr "회사 본부 ."
 
 msgid "Build town not possible"
 msgstr "마을을 건설할 수 없어요"
@@ -772,7 +772,7 @@ msgid "Buildings"
 msgstr "건물"
 
 msgid "Buildings must be removed first"
-msgstr "먼저 건물 삭제하세요"
+msgstr "먼저 건물을 철거하세요"
 
 msgid "Bulldozer"
 msgstr "불도저"
@@ -781,55 +781,55 @@ msgid "Bus"
 msgstr "버스"
 
 msgid "Bus and tram stops"
-msgstr "버스와 트램 정거장"
+msgstr "버스 및 트램 정거장"
 
 msgid "Bus lane"
-msgstr "버스레인"
+msgstr "버스 차선"
 
 msgid "Bus lane tool"
-msgstr "버스레인 툴"
+msgstr "버스 차선 도구"
 
 msgid "Bus/Tram station"
 msgstr "버스/트램역"
 
 msgid "Bus/truck not compatible"
-msgstr "버스/트럭은 비대응입니다"
+msgstr "버스/트럭 미포함"
 
 msgid "Buy a bus and run a line."
-msgstr "버스를 구입하여 노선을 달리게 한다."
+msgstr "버스를 구입하여 노선을 운행하십시오."
 
 msgid "Buy a ship and run a line."
-msgstr "배를 구매하여 노선을 달리게 한다."
+msgstr "선박을 구매하여 노선을 운행하십시오."
 
 msgid "Buy a steam train and run a line."
-msgstr "증기기관차를 구입하여 노선을 달리게 한다."
+msgstr "증기기관차를 구입하여 노선을 운행하십시오."
 
 msgid "Buy aircraft"
-msgstr "비행기를 구매"
+msgstr "항공기 구매"
 
 msgid "Buy an aircraft and run a line."
-msgstr "비행기를 구매해서 노선을 날린다."
+msgstr "항공기를 구입하여 노선을 운행하십시오.."
 
 msgid "Buy an electric train and run a line."
-msgstr "전차를 구입하여 노선을 달리게 한다."
+msgstr "전차를 구입하여 노선을 운행하십시오."
 
 msgid "Buy for "
 msgstr "다음으로 구매: "
 
 msgid "Buy road vehicles"
-msgstr "도로 운송차량 구매"
+msgstr "도로 차량 구매"
 
 msgid "Buy ships"
-msgstr "배를 구매"
+msgstr "선박 구매"
 
 msgid "Buy trains"
-msgstr "열차 구입"
+msgstr "열차 구매"
 
 msgid "Buy trams"
-msgstr "트램을 구매"
+msgstr "트램 구매"
 
 msgid "Buy vehicles"
-msgstr "차량을 구매"
+msgstr "차량 구매"
 
 msgid "By car"
 msgstr "차로"
@@ -952,7 +952,7 @@ msgid "Cannot get enough"
 msgstr "아직 부족해"
 
 msgid "Capacity"
-msgstr "정원"
+msgstr "용량"
 
 msgid "Capture image"
 msgstr "화상을 캡쳐"
@@ -1115,7 +1115,7 @@ msgid "Collision"
 msgstr "충돌"
 
 msgid "Color"
-msgstr "색깔"
+msgstr "색상"
 
 msgid "Commercial"
 msgstr "상업"
@@ -1456,7 +1456,7 @@ msgid "E.P.E.C."
 msgstr "E.P.E.C."
 
 msgid "Earn 1 million with airplanes within a month."
-msgstr "한달 이내에 비행기로 100만 벌이."
+msgstr "한달 이내에 항공기로 100만 벌이."
 
 msgid "Earn 1 million with ships within a month."
 msgstr "한달 이내에 배에서 100만 벌이."
@@ -1604,7 +1604,7 @@ msgid "First"
 msgstr "첫번째"
 
 msgid "First aircraft arrived"
-msgstr "첫번째 비행기가 도착"
+msgstr "첫번째 항공기가 도착"
 
 msgid "First bus arrived"
 msgstr "첫 번째 버스가 도착"
@@ -1787,7 +1787,7 @@ msgid "HUD icon filter"
 msgstr "HUD 아이콘 필터"
 
 msgid "HUD: Toggle aircraft"
-msgstr "HUD: 비행기 전환"
+msgstr "HUD: 항공기 전환"
 
 msgid "HUD: Toggle bus/tram stops"
 msgstr "HUD: 버스/트램 정류장 전환"
@@ -2368,7 +2368,7 @@ msgid "Mediocre"
 msgstr "평범"
 
 msgid "Medium"
-msgstr "보통"
+msgstr "중형"
 
 msgid "Megalomaniac"
 msgstr "초거대"
@@ -2518,22 +2518,22 @@ msgid "No construction set!"
 msgstr "설정된 건설이 없어요!"
 
 msgid "No country for old trains"
-msgstr "오래된 열차에 볼일없음"
+msgstr "고물 기차를 위한 나라는 없다"
 
 msgid "No depot found"
-msgstr "차량기지를 못찾겠어요"
+msgstr "차량기지를 찾을 수 없습니다"
 
 msgid "No electric path"
 msgstr "전력화된 길이 없습니다"
 
 msgid "No filter currently set"
-msgstr "설정된 필터는 없어요"
+msgstr "설정된 필터는 없습니다"
 
 msgid "No free seats"
 msgstr "빈자리 없음"
 
 msgid "No line passing"
-msgstr "노선이 다니지 않아요"
+msgstr "사용할 수 있는 노선 없음"
 
 msgid "No logo"
 msgstr "로고 없음"
@@ -2559,58 +2559,58 @@ msgstr ""
 "맵은 맵 에디터로 작성할 수 있습니다."
 
 msgid "No parameters"
-msgstr "파라미터가 없ㅇ"
+msgstr "한도 없음"
 
 msgid "No path"
-msgstr "길 없음"
+msgstr "노선 없음"
 
 msgid "No path (Big aircraft)"
-msgstr "길없음(대형비행기"
+msgstr "노선 없음(대형 항공기)"
 
 msgid "No path (Big ship)"
-msgstr "길없음(대형배)"
+msgstr "노선 없음(대형 )"
 
 msgid "No path (Electric)"
-msgstr "길없음(전기)"
+msgstr "노선 없음(전기)"
 
 msgid "No path for big airplanes"
-msgstr "대형 비행기가 들어갈 길이 없습니다"
+msgstr "대형 항공기가 들어갈 길이 없습니다"
 
 msgid "No path for big ships"
-msgstr "대형배가 들어갈 길이 없습니다"
+msgstr "대형 선박이 들어갈 길이 없습니다"
 
 msgid "No path found between %1% and %2%"
 msgstr "%1% 과 %2% 사이에 길이 없습니다"
 
 msgid "No saved games available."
-msgstr "이용 가능한 세이브 게임은 없습니다."
+msgstr "이용 가능한 세이브 게임이 없습니다."
 
 msgid "No segment removable"
-msgstr "삭제할 수 있는 세그먼트가 없어요"
+msgstr "분리 가능한 부분이 없습니다."
 
 msgid "No tasks available"
-msgstr "이용 가능한 작업는 없습니다"
+msgstr "이용 가능한 작업이 없습니다"
 
 msgid "No tunnel"
 msgstr "터널 없음"
 
 msgid "No vehicles to replace!"
-msgstr "교환할 차량이 없어요!"
+msgstr "교체할 차량이 없습니다!!"
 
 msgid "Node locked"
-msgstr "노드가 잠겨있어요"
+msgstr "점이 잠겨있음"
 
 msgid "None"
 msgstr "없음"
 
 msgid "Normal"
-msgstr "노멀"
+msgstr "보통"
 
 msgid "Not assigned to a terminal"
 msgstr "터미널로 지정되지 않았습니다"
 
 msgid "Not contained by any line as waypoint"
-msgstr "노선을 웨이포인트에 포함하지 않았습니다"
+msgstr "노선에 경유지가 선택되지 않았습니다"
 
 msgid "Not enough money"
 msgstr "자금이 부족합니다"
@@ -2640,10 +2640,10 @@ msgid "Number of items currently in stock"
 msgstr "현재 재고가 있는 아이템 수"
 
 msgid "Number of lines"
-msgstr "노선수"
+msgstr "노선 수"
 
 msgid "Number of towns"
-msgstr "가의 수"
+msgstr "마을 수"
 
 msgid "Number of towns:"
 msgstr "마을 수:"
@@ -2652,16 +2652,16 @@ msgid "OK"
 msgstr "OK"
 
 msgid "Off"
-msgstr "오프"
+msgstr "꺼짐"
 
 msgid "Old timer"
 msgstr "베테랑"
 
 msgid "Oldest vehicle"
-msgstr "최고의 차량"
+msgstr "가장 오래된 차량"
 
 msgid "One-way"
-msgstr " 일방통행"
+msgstr "일방통행"
 
 msgid "Only show air lines and hangars"
 msgstr "항공기 노선과 격납고만 표시"
@@ -2835,10 +2835,10 @@ msgid "Power"
 msgstr "파워"
 
 msgid "Power rating"
-msgstr "출력정격"
+msgstr "출력 등급"
 
 msgid "Power units"
-msgstr "파워단위"
+msgstr "동력 장치"
 
 msgid "Preparing game..."
 msgstr "게임 준비중"
@@ -2864,10 +2864,10 @@ msgstr "생산제"
 msgid "Product"
 msgstr "상품"
 
-msgid "Product Management"
-msgstr "프로덕트 매니지먼트"
+msgid "roduct Management"
+msgstr "상품 관리"
 
-msgid "Product Management Assistant"
+msgid "상품 관리 "
 msgstr "프로덕트 매니지먼트 어시스턴트"
 
 msgid "Production"
@@ -3150,7 +3150,7 @@ msgid "Running"
 msgstr "주행 중"
 
 msgid "Running costs"
-msgstr "런닝 코스트"
+msgstr "유지비"
 
 msgid "Running costs: +%1%%%"
 msgstr "런닝 코스트:+%1%%%"
@@ -3311,19 +3311,19 @@ msgid_plural "Ships"
 msgstr[0] "배"
 
 msgid "Ship %1%"
-msgstr "배 %1%"
+msgstr "선박 %1%"
 
 msgid "Shipment"
 msgstr "수송"
 
 msgid "Shipped"
-msgstr "출하제"
+msgstr "선적"
 
 msgid "Shipping"
 msgstr "출하"
 
 msgid "Ships"
-msgstr "배"
+msgstr ""
 
 msgid "Shipyard"
 msgstr "조선소"
@@ -3812,10 +3812,10 @@ msgid "Toggle traffic light"
 msgstr "신호 전환"
 
 msgid "Too much curvature"
-msgstr "커브가 너무 많아요"
+msgstr "커브가 너무 많음"
 
 msgid "Too much slope"
-msgstr "언덕이 너무 많아요"
+msgstr "언덕이 너무 많음"
 
 msgid "Top length (rail)"
 msgstr "최장거리(철도)"
