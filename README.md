@@ -17,11 +17,12 @@
 		"language"		"koreana"   <<<<<< 이렇게 수정 (오타 주의 korean 아님 koreana)
 	}
 ```
-
- - 이후 다운로드 받은 base.mo, res.mo 파일을 아래 경로에 덮어씌움 
- 
+ - **base-ko.mo, res-ko.mo** 다운로드
  - base-ko.mo -> base.mo로 파일명 변경하세요!
  - res-ko.mo -> res.mo로 파일명 변경하세요!
+
+- base.mo, res.mo 파일을 아래 경로에 덮어씌움 
+
  - **C:\Program Files (x86)\Steam\steamapps\common\Transport Fever 2\res\strings\ko\LC_MESSAGES** 디렉토리로 복사
 
 
