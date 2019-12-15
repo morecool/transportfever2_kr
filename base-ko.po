@@ -543,7 +543,7 @@ msgid "Advanced settings"
 msgstr "상세설정"
 
 msgid "Age"
-msgstr "연수"
+msgstr "년식"
 
 msgid "Air"
 msgstr "공역"
@@ -760,7 +760,7 @@ msgstr ""
 "하는 노선을 구축하십시오."
 
 msgid "Build the company headquarters."
-msgstr "회사 본부를 만든다."
+msgstr "회사 본부 ."
 
 msgid "Build town not possible"
 msgstr "마을을 건설할 수 없어요"
@@ -772,7 +772,7 @@ msgid "Buildings"
 msgstr "건물"
 
 msgid "Buildings must be removed first"
-msgstr "먼저 건물 삭제하세요"
+msgstr "먼저 건물을 철거하세요"
 
 msgid "Bulldozer"
 msgstr "불도저"
@@ -781,55 +781,55 @@ msgid "Bus"
 msgstr "버스"
 
 msgid "Bus and tram stops"
-msgstr "버스와 트램 정거장"
+msgstr "버스 및 트램 정거장"
 
 msgid "Bus lane"
-msgstr "버스레인"
+msgstr "버스 차선"
 
 msgid "Bus lane tool"
-msgstr "버스레인 툴"
+msgstr "버스 차선 도구"
 
 msgid "Bus/Tram station"
 msgstr "버스/트램역"
 
 msgid "Bus/truck not compatible"
-msgstr "버스/트럭은 비대응입니다"
+msgstr "버스/트럭 미포함"
 
 msgid "Buy a bus and run a line."
-msgstr "버스를 구입하여 노선을 달리게 한다."
+msgstr "버스를 구입하여 노선을 운행하십시오."
 
 msgid "Buy a ship and run a line."
-msgstr "배를 구매하여 노선을 달리게 한다."
+msgstr "선박을 구매하여 노선을 운행하십시오."
 
 msgid "Buy a steam train and run a line."
-msgstr "증기기관차를 구입하여 노선을 달리게 한다."
+msgstr "증기기관차를 구입하여 노선을 운행하십시오."
 
 msgid "Buy aircraft"
-msgstr "비행기를 구매"
+msgstr "항공기 구매"
 
 msgid "Buy an aircraft and run a line."
-msgstr "비행기를 구매해서 노선을 날린다."
+msgstr "항공기를 구입하여 노선을 운행하십시오.."
 
 msgid "Buy an electric train and run a line."
-msgstr "전차를 구입하여 노선을 달리게 한다."
+msgstr "전차를 구입하여 노선을 운행하십시오."
 
 msgid "Buy for "
 msgstr "다음으로 구매: "
 
 msgid "Buy road vehicles"
-msgstr "도로 운송차량 구매"
+msgstr "도로 차량 구매"
 
 msgid "Buy ships"
-msgstr "배를 구매"
+msgstr "선박 구매"
 
 msgid "Buy trains"
-msgstr "열차 구입"
+msgstr "열차 구매"
 
 msgid "Buy trams"
-msgstr "트램을 구매"
+msgstr "트램 구매"
 
 msgid "Buy vehicles"
-msgstr "차량을 구매"
+msgstr "차량 구매"
 
 msgid "By car"
 msgstr "차로"
@@ -952,7 +952,7 @@ msgid "Cannot get enough"
 msgstr "아직 부족해"
 
 msgid "Capacity"
-msgstr "정원"
+msgstr "용량"
 
 msgid "Capture image"
 msgstr "화상을 캡쳐"
@@ -1115,7 +1115,7 @@ msgid "Collision"
 msgstr "충돌"
 
 msgid "Color"
-msgstr "색깔"
+msgstr "색상"
 
 msgid "Commercial"
 msgstr "상업"
@@ -2368,7 +2368,7 @@ msgid "Mediocre"
 msgstr "평범"
 
 msgid "Medium"
-msgstr "보통"
+msgstr "중형"
 
 msgid "Megalomaniac"
 msgstr "초거대"
@@ -2604,7 +2604,7 @@ msgid "None"
 msgstr "없음"
 
 msgid "Normal"
-msgstr "노멀"
+msgstr "보통"
 
 msgid "Not assigned to a terminal"
 msgstr "터미널로 지정되지 않았습니다"
@@ -3150,7 +3150,7 @@ msgid "Running"
 msgstr "주행 중"
 
 msgid "Running costs"
-msgstr "런닝 코스트"
+msgstr "유지비"
 
 msgid "Running costs: +%1%%%"
 msgstr "런닝 코스트:+%1%%%"
