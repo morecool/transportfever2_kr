@@ -1,0 +1,4573 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TransportFever\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-10 16:34+0100\n"
+"PO-Revision-Date: 2019-12-12 14:48+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 2.2.2\n"
+
+msgid "  - activate your dedicated graphics card (if available)"
+msgstr "  - активируйте соответствующую видеокарту (если есть)"
+
+msgid ""
+"  - install the latest graphics drivers (https://downloadcenter.intel.com)"
+msgstr ""
+"  - установите новейшие графические драйверы (https://downloadcenter.intel."
+"com)"
+
+msgid " (terminal %1%)"
+msgstr " (терминал %1%)"
+
+msgid "%1%"
+msgstr "%1%"
+
+msgid "%1% %2%"
+msgstr "%1% %2%"
+
+msgid "%1% %2% #%3%"
+msgstr "%1% %2% #%3%"
+
+msgid "%1% %2% %3% %4%"
+msgstr "%1% %2% %3% %4%"
+
+msgid "%1% + %2%%% (Maintenance)"
+msgstr "%1% + %2%%% (Техобслуживание)"
+
+msgid "%1% - %2%"
+msgstr "%1% - %2%"
+
+msgid "%1% Annex"
+msgstr "%1% — отделение"
+
+msgid "%1% Branch"
+msgstr "%1% — ответвление"
+
+msgid "%1% Central"
+msgstr "%1% — центр"
+
+msgid "%1% Destinations"
+msgstr "Пункты назначения: %1%"
+
+msgid "%1% East"
+msgstr "%1% — восток"
+
+msgid "%1% Exchange"
+msgstr "%1% — пересадка"
+
+msgid "%1% Halt"
+msgstr "%1% — остановка"
+
+msgid "%1% North"
+msgstr "%1% — север"
+
+msgid "%1% Sidings"
+msgstr "%1% — боковой путь"
+
+msgid "%1% Signal #%2%"
+msgstr "%1% Сигнал № %2%"
+
+msgid "%1% South"
+msgstr "%1% — юг"
+
+msgid "%1% Transfer"
+msgstr "%1% — трансфер"
+
+msgid "%1% Transport"
+msgstr "%1% Транспорт"
+
+msgid "%1% Vehicle"
+msgid_plural "%1% Vehicles"
+msgstr[0] "%1% транспортное средство"
+msgstr[1] "%1% транспортных средства"
+msgstr[2] "%1% транспортных средств"
+
+msgid "%1% Vehicle selected"
+msgid_plural "%1% Vehicles selected"
+msgstr[0] "Выбрано %1% транспортное средство"
+msgstr[1] "Выбрано %1% транспортных средства"
+msgstr[2] "Выбрано %1% транспортных средств"
+
+msgid "%1% Waypoint #%2%"
+msgstr "%1% Путевая точка № %2%"
+
+msgid "%1% West"
+msgstr "%1% — запад"
+
+msgid "%1% capacity"
+msgstr "%1% вместимость"
+
+msgid "%1% deg field of view"
+msgstr "Поле зрения %1% гр."
+
+msgid "%1% fps"
+msgstr "%1% к/сек"
+
+msgid "%1% ft"
+msgstr "%1% футов"
+
+msgid "%1% has died!"
+msgstr "%1% умирает!"
+
+msgid "%1% hp"
+msgstr "%1% лс"
+
+msgid "%1% industry"
+msgid_plural "%1% industries"
+msgstr[0] "%1% промышленность"
+msgstr[1] "%1% промышленности"
+msgstr[2] "%1% промышленностей"
+
+msgid "%1% kN"
+msgstr "%1% кН"
+
+msgid "%1% kW"
+msgstr "%1% кВ"
+
+msgid "%1% kg"
+msgstr "%1% кг"
+
+msgid "%1% kgf"
+msgstr "%1% кгс"
+
+msgid "%1% km"
+msgstr "%1% км"
+
+msgid "%1% km/h"
+msgstr "%1% км/ч"
+
+msgid "%1% lb"
+msgstr "%1% фунтов"
+
+msgid "%1% lbf"
+msgstr "%1% фс"
+
+msgid "%1% m"
+msgstr "%1% м"
+
+msgid "%1% mi"
+msgstr "%1% миль"
+
+msgid "%1% min"
+msgstr "%1% мин."
+
+msgid "%1% min %2% s"
+msgstr "%1% мин. %2% сек."
+
+msgid "%1% mission"
+msgid_plural "%1% missions"
+msgstr[0] "%1% задание"
+msgstr[1] "%1% задания"
+msgstr[2] "%1% заданий"
+
+msgid "%1% mod available"
+msgid_plural "%1% mods available"
+msgstr[0] "Доступна %1% модификация"
+msgstr[1] "Доступно %1% модификации"
+msgstr[2] "Доступно %1% модификаций"
+
+msgid "%1% mod enabled"
+msgid_plural "%1% mods enabled"
+msgstr[0] "Включена %1% модификация"
+msgstr[1] "Включено %1% модификации"
+msgstr[2] "Включено %1% модификаций"
+
+msgid "%1% month"
+msgid_plural "%1% months"
+msgstr[0] "%1% месяц"
+msgstr[1] "%1% месяца"
+msgstr[2] "%1% месяцев"
+
+msgid "%1% mph"
+msgstr "%1% миль/ч"
+
+msgid "%1% new vehicles are available!"
+msgstr "Доступны новые транспортные средства: %1%"
+
+msgid "%1% per vehicle"
+msgstr "%1% на каждое транспортное средство"
+
+msgid "%1% s"
+msgstr "%1% сек."
+
+msgid "%1% signal will be removed"
+msgid_plural "%1% signals will be removed"
+msgstr[0] "%1% светофор будет удалён"
+msgstr[1] "%1% светофора будут удалены"
+msgstr[2] "%1% светофоров будут удалены"
+
+msgid "%1% stop will be removed"
+msgid_plural "%1% stops will be removed"
+msgstr[0] "%1% остановка будет удалена"
+msgstr[1] "%1% остановки будут удалены"
+msgstr[2] "%1% остановок будут удалены"
+
+msgid "%1% t"
+msgstr "%1% тонн"
+
+msgid "%1% to %2%"
+msgstr "%1% - %2%"
+
+msgid "%1% town"
+msgid_plural "%1% towns"
+msgstr[0] "%1% город"
+msgstr[1] "%1% города"
+msgstr[2] "%1% городов"
+
+msgid "%1% variant"
+msgid_plural "%1% variants"
+msgstr[0] "%1% вариант"
+msgstr[1] "%1% варианта"
+msgstr[2] "%1% вариантов"
+
+msgid "%1% x %2%"
+msgstr "%1% x %2%"
+
+msgid "%1% x %2% km, %3%, %4%"
+msgstr "%1% x %2% км, %3%, %4%"
+
+msgid "%1% yd"
+msgstr "%1% ярдов"
+
+msgid "%1% year"
+msgid_plural "%1% years"
+msgstr[0] "%1% год"
+msgstr[1] "%1% года"
+msgstr[2] "%1% лет"
+
+msgid "%1%%% of %2%"
+msgstr "%1%%% из %2%"
+
+msgid "%1%%% of lifetime (%2% remaining)"
+msgstr "%1%%% от срока службы (осталось %2%)"
+
+msgid "%1%%2%%%"
+msgstr "%1%%2%%%"
+
+msgid "%1%, %2%"
+msgstr "%1%, %2%"
+
+msgid "%1%-%2%"
+msgstr "%1%-%2%"
+
+msgid "%1%/%2%"
+msgstr "%1%/%2%"
+
+msgid "%1%/%2% %3%"
+msgstr "%1%/%2% %3%"
+
+msgid "%1%/m²"
+msgstr "%1%/м²"
+
+msgid "%1%/year"
+msgstr "%1%/год"
+
+msgid "%1%: %2%"
+msgstr "%1%: %2%"
+
+msgid "%1%: %2% (in %3% or %4%)"
+msgstr "%1%: %2% (через %3% или %4%)"
+
+msgid "%1%: %2%x"
+msgstr "%1%: %2%x"
+
+msgid "%1%: not enough power!"
+msgstr "%1%: недостаточно мощности!"
+
+msgid "%1%m to %2%m"
+msgstr "%1% м - %2% м"
+
+msgid "%1%x"
+msgstr "%1%x"
+
+msgid "%d"
+msgstr "%d"
+
+msgid "%d Year"
+msgid_plural "%d Years"
+msgstr[0] "%d год"
+msgstr[1] "%d года"
+msgstr[2] "%d лет"
+
+msgid "%d building will be moved"
+msgid_plural "%d buildings will be moved"
+msgstr[0] "%d здание будет удалено"
+msgstr[1] "%d здания будут удалены"
+msgstr[2] "%d зданий будут удалены"
+
+msgid "%d building will be removed"
+msgid_plural "%d buildings will be removed"
+msgstr[0] "%d здание будет удалено"
+msgstr[1] "%d здания будут удалены"
+msgstr[2] "%d зданий будут удалены"
+
+msgid "%d field will be removed"
+msgid_plural "%d fields will be removed"
+msgstr[0] "%d поле будет удалено"
+msgstr[1] "%d поля будут удалены"
+msgstr[2] "%d полей будут удалены"
+
+msgid "%d for having a fast vehicle"
+msgstr "Очки за владение быстрым транспортным средством: %d"
+
+msgid "%d for having a profit of at least $10M"
+msgstr "%d за прибыль как минимум в размере 10 млн. $"
+
+msgid "%d for having a very long vehicle"
+msgstr "Очки за владение очень длинным транспортным средством: %d"
+
+msgid "%d for having transported at least 100000 passengers"
+msgstr "%d за перевозку не менее 100 000 пассажиров"
+
+msgid "%d for having transported at least 100000 units of cargo"
+msgstr "%d за перевозку не менее 100 000 ед. груза"
+
+msgid "%d for high-speed rail network"
+msgstr "%d за высокоскоростную железную дорогу"
+
+msgid "%d for rail network bridges"
+msgstr "%d за железнодорожные мосты"
+
+msgid "%d for rail network electrification"
+msgstr "%d за электрификацию железной дороги"
+
+msgid "%d for rail network length"
+msgstr "%d за протяженность железной дороги"
+
+msgid "%d for rail network tunnels"
+msgstr "%d за железнодорожные туннели"
+
+msgid "%d module will be removed"
+msgid_plural "%d modules will be removed"
+msgstr[0] "%d модуль будет удалён"
+msgstr[1] "%d модуля будут удалены"
+msgstr[2] "%d модулей будут удалены"
+
+msgid "%d of %d"
+msgstr "%d из %d"
+
+msgid "%d point(s) for company value"
+msgstr "Очки за стоимость компании: %d"
+
+msgid "%d point(s) for having more than 10 trains"
+msgstr "Очки за владение более чем 10 поездами: %d"
+
+msgid "%d point(s) for having more than 100 road vehicles"
+msgstr "Очки за владение более чем 100 дорожными транспортными средствами: %d"
+
+msgid "%d point(s) for having more than 20 trams"
+msgstr "Очки за владение более, чем 20 трамваями: %d"
+
+msgid "%d point(s) for having more than 5 aircraft"
+msgstr "Очки за владение более, чем 5 аэропланами: %d"
+
+msgid "%d point(s) for having more than 5 ships"
+msgstr "Очки за владение более чем 5 кораблями: %d"
+
+msgid "%d point(s) for maximum vehicle age"
+msgstr "Очки за максимальный возраст транспортного средства: %d"
+
+msgid "%s overlength: travel time is %d s, %d s allowed!"
+msgstr "%s избыточная длина: время в пути %d с, разрешается %d с!"
+
+msgid "(%1% compartment)"
+msgid_plural "(%1% compartments)"
+msgstr[0] " (%1% отсек)"
+msgstr[1] " (%1% отсека)"
+msgstr[2] " (%1% отсеков)"
+
+msgid "(No target)"
+msgstr "(Нет цели)"
+
+msgid "(stopped)"
+msgstr "(остановлено)"
+
+msgid "+"
+msgstr "+"
+
+msgid "-"
+msgstr "-"
+
+msgid "1 x"
+msgstr "1 x"
+
+msgid "1/2x"
+msgstr "1/2x"
+
+msgid "1/4x"
+msgstr "1/4x"
+
+msgid "100%"
+msgstr "100%"
+
+msgid "125%"
+msgstr "125%"
+
+msgid "150%"
+msgstr "150%"
+
+msgid "16-bit grayscale"
+msgstr "16-бит, черно-белая"
+
+msgid "175%"
+msgstr "175%"
+
+msgid "1:1"
+msgstr "1:1"
+
+msgid "1:2"
+msgstr "1:2"
+
+msgid "1:3"
+msgstr "1:3"
+
+msgid "1:4"
+msgstr "1:4"
+
+msgid "1:5"
+msgstr "1:5"
+
+msgid "1x"
+msgstr "1x"
+
+msgid "2 x"
+msgstr "2 x"
+
+msgid "200%"
+msgstr "200%"
+
+msgid "2x"
+msgstr "2x"
+
+msgid "3D"
+msgstr "3D"
+
+msgid "4 x"
+msgstr "4 x"
+
+msgid "4x"
+msgstr "4x"
+
+msgid "75%"
+msgstr "75%"
+
+msgid "< 0"
+msgstr "< 0"
+
+msgid "<unknown artist>"
+msgstr "<неизвестный исполнитель>"
+
+msgid "<unknown title>"
+msgstr "<неизвестное название>"
+
+msgid ">5000 years"
+msgstr ">5000 лет"
+
+msgid ">= 0"
+msgstr ">= 0"
+
+msgid "A new Steam Workshop item will be created"
+msgstr "В Steam Workshop будет создан новый объект"
+
+msgid "A new vehicle is available!"
+msgstr "Доступно новое транспортное средство!"
+
+msgid "A one-way street can't have stops or waypoints on both sides"
+msgstr ""
+"Остановка или вейпоинт не могут располагаться по обе стороны односторонней "
+"улицы"
+
+msgid ""
+"A path has been found, but one or more sections of the path are not "
+"electrified. The vehicle requires electrification. Use the electrification "
+"tool to modify the sections."
+msgstr ""
+"Путь найден, но один или несколько участков пути не электрифицированы. "
+"Транспортное средство требует электрификации. Используйте инструмент "
+"электрификации, чтобы изменить секции."
+
+msgid ""
+"A path has been found, but one or more sections of the path do not have tram "
+"tracks. The vehicle requires tram tracks. Use the tram track tool to modify "
+"the sections."
+msgstr ""
+"Путь был найден, но один или несколько участков пути не имеют трамвайных "
+"путей. Транспортное средство требует трамвайных путей. Используйте "
+"инструмент трамвайного пути, чтобы изменить разделы."
+
+msgid ""
+"A path has been found, but only small aircraft are allowed on this path. "
+"Consider using small aircraft or large airports."
+msgstr ""
+"Путь был найден, но на него допускаются только небольшие самолеты. "
+"Рассмотрите возможность использования небольших самолётов или крупных "
+"аэропортов."
+
+msgid ""
+"A path has been found, but only small ships are allowed on this path. "
+"Consider using small ships or large docks."
+msgstr ""
+"Путь найден, но на этот путь допускаются только небольшие корабли. Подумайте "
+"об использовании небольших кораблей или больших доков."
+
+msgid "A station appears consecutively twice"
+msgstr "Станция последовательно появляется дважды"
+
+msgid "Accept!"
+msgstr "Принять!"
+
+msgid "Account"
+msgstr "Счет"
+
+msgid "Accumulate a fortune of 1 billion (without debt) in Hard mode."
+msgstr "Накопите состояние в 1 миллиард (без долгов) в сложном режиме."
+
+msgid "Accumulate a fortune of 1 billion (without debt)."
+msgstr "Накопите состояние в 1 миллиард (без долгов)."
+
+msgid "Accumulate a fortune of 1 million (without debt)."
+msgstr "Накопите состояние в 1 миллион (без долгов)."
+
+msgid "Accumulate a fortune of 10 millions (without debt)."
+msgstr "Накопите состояние в 10 миллионов (без долгов)."
+
+msgid "Accumulate a fortune of 100 millions (without debt) in Hard mode."
+msgstr "Накопите состояние в 100 миллионов (без долгов) в сложном режиме."
+
+msgid "Accumulate a fortune of 100 millions (without debt)."
+msgstr "Накопите состояние в 100 миллионов (без долгов)."
+
+msgid "Achievement earned:"
+msgstr "Получено достижение:"
+
+msgid "Achievements"
+msgstr "Достижения"
+
+msgid ""
+"Achievements cannot be earned in this game because mods are or have been "
+"active."
+msgstr ""
+"В этой игре нельзя зарабатывать достижения, так как в ней задействованы (или "
+"были задействованы) модификации."
+
+msgid "Activate/deactivate bulldozer"
+msgstr "Активировать/деактивировать бульдозер"
+
+msgid "Add"
+msgstr "Добавить"
+
+msgid "Add a fade"
+msgstr "Добавить угасание"
+
+msgid "Add a key frame"
+msgstr "Добавить ключевой кадр"
+
+msgid "Add a subtitle"
+msgstr "Добавить субтитр"
+
+msgid "Add station"
+msgstr "Добавить станцию"
+
+msgid "Advanced"
+msgstr "Расширенный"
+
+msgid "Advanced Game Settings"
+msgstr "Расширенные настройки игры"
+
+msgid "Advanced settings"
+msgstr "Расширенные настройки"
+
+msgid "Age"
+msgstr "Возраст"
+
+msgid "Air"
+msgstr "Авиатранспорт"
+
+msgid "Aircraft"
+msgid_plural "Aircraft"
+msgstr[0] "Самолёт"
+msgstr[1] "Самолёт"
+msgstr[2] "Самолёт"
+
+msgid "Aircraft %1%"
+msgstr "Самолёт: %1%"
+
+msgid "Aircraft entrepreneur"
+msgstr "Владелец самолётов"
+
+msgid "All"
+msgstr "Все"
+
+msgid "All cargo"
+msgstr "Весь груз"
+
+msgid "All missions completed!"
+msgstr "Все задания выполнены!"
+
+msgid ""
+"All unsaved progress will be lost.\n"
+"Where to go next?"
+msgstr ""
+"Несохраненный игровой прогресс будет потерян.\n"
+"Куда дальше?"
+
+msgid "Ambient occlusion (SSAO)"
+msgstr "Фоновое затенение (SSAO)"
+
+msgid "American vehicles"
+msgstr "Американский транспорт"
+
+msgid ""
+"An Intel HD Graphics chip is active. For best performance, make sure to:"
+msgstr "Активирован чип Intel HD Graphics. Для оптимальной производительности:"
+
+msgid "Anti-aliasing"
+msgstr "Сглаживание"
+
+msgid "Antique"
+msgstr "Антиквариат"
+
+msgid "Apply"
+msgstr "Применить"
+
+msgid "Approximate annual throughput per station"
+msgstr "Приблизительная годовая пропускная способность на станцию"
+
+msgid "Art"
+msgstr "Графика"
+
+msgid "Artists"
+msgstr "Художники"
+
+msgid "Asia"
+msgstr "Азия"
+
+msgid "Asian vehicles"
+msgstr "Азиатский транспорт"
+
+msgid "Assets"
+msgstr "Объекты"
+
+msgid "Assign to %1%"
+msgstr "Назначить на %1%"
+
+msgid "At home"
+msgstr "Дома"
+
+msgid "At least %1% GB of graphics memory are recommended for these settings."
+msgstr ""
+"Для этих настроек рекомендуется по меньшей мере %1% Гб памяти видеокарты."
+
+msgid "At work"
+msgstr "На работе"
+
+msgid "Audio"
+msgstr "Аудио"
+
+msgid "Audio settings"
+msgstr "Настройки звука"
+
+msgid "Authors"
+msgstr "Авторы"
+
+msgid "Auto set speed"
+msgstr "Автоматически заданная скорость"
+
+msgid "Automatic"
+msgstr "Автоматическое"
+
+msgid ""
+"Automatically send crash dump files (not including personal data) to the "
+"developers"
+msgstr ""
+"Автоматически отправлять аварийные дампы (без персональных данных) "
+"разработчикам"
+
+msgid "Autosave interval (minutes)"
+msgstr "Интервал автосохранения (минуты)"
+
+msgid "Autosave..."
+msgstr "Автосохранение..."
+
+msgid "Autosaves to keep"
+msgstr "Автосохранение"
+
+msgid "Available heightmaps:"
+msgstr "Доступные карты высот:"
+
+msgid "Average"
+msgstr "Средний"
+
+msgid "Average emission reaching residential buildings: %1%"
+msgstr "Средний уровень шума, достигающий жилых зданий: %1%"
+
+msgid ""
+"Average number of shoppings facilities and jobs the residents of %1% can "
+"reach"
+msgstr ""
+"Среднее количество покупательских услуг и рабочих мест, которые могут "
+"достичь жители %1%"
+
+msgid "BONUS TASKS"
+msgstr "БОНУСНЫЕ ЗАДАНИЯ"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Back to the future"
+msgstr "Назад в будущее"
+
+msgid "Bad"
+msgstr "Плохо"
+
+msgid "Balance"
+msgstr "Баланс"
+
+msgid "Balance:"
+msgstr "Баланс:"
+
+msgid "Bank balance"
+msgstr "Банковский счёт"
+
+msgid "Big aircraft"
+msgstr "Большой аэроплан"
+
+msgid "Big aircraft is incompatible with small airport"
+msgstr "Большой аэроплан несовместим с маленьким аэропортом"
+
+msgid "Big ship"
+msgstr "Большой корабль"
+
+msgid "Big ship is incompatible with small harbour"
+msgstr "Большой корабль несовместим с маленьким портом"
+
+msgid "Big spender"
+msgstr "Транжира"
+
+msgid "Bit depth must be 1, 8 or 16."
+msgstr "Разрядность цвета должна составлять 1, 8 или 16."
+
+msgid "Bob Ross"
+msgstr "Боб Росс"
+
+msgid "Bonus task completed"
+msgstr "Бонусное задание выполнено"
+
+msgid "Bonus tasks"
+msgstr "Бонусные задания"
+
+msgid "Borrow %1%"
+msgstr "Занять %1%"
+
+msgid "Bridge"
+msgstr "Мост"
+
+msgid "Bridge pillar collision"
+msgstr "Пересечение опор моста"
+
+msgid "Brush"
+msgstr "Кисть"
+
+msgid "Brush size"
+msgstr "Размер кисти"
+
+msgid "Build"
+msgstr "Построить"
+
+msgid "Build a bus stop."
+msgstr "Постройте автобусную остановку."
+
+msgid "Build a passenger train station."
+msgstr "Постройте станцию для пассажирского поезда."
+
+msgid "Build a town"
+msgstr "Построить город"
+
+msgid "Build a train line with at least 10 trains in motion."
+msgstr "Постройте поездную магистраль как минимум с 10 действующими поездами."
+
+msgid "Build date"
+msgstr "Дата постройки"
+
+msgid "Build high bridges over rivers so that ships can pass under."
+msgstr ""
+"Стройте высокие мосты через реки, чтобы под ними могли проплывать корабли."
+
+msgid ""
+"Build one line containing at least one of every passenger road vehicle that "
+"was available between 1850 and 2020."
+msgstr ""
+"Постройте маршрут с как минимум одним видом каждого типа пассажирского "
+"дорожного транспорта, доступного между 1850 и 2020 годами."
+
+msgid "Build the company headquarters."
+msgstr "Постройте головную контору компании."
+
+msgid "Build town not possible"
+msgstr "Построить город нельзя"
+
+msgid "Building town..."
+msgstr "Строительство города..."
+
+msgid "Buildings"
+msgstr "Постройки"
+
+msgid "Buildings must be removed first"
+msgstr "Сперва нужно удалить здания"
+
+msgid "Bulldozer"
+msgstr "Бульдозер"
+
+msgid "Bus"
+msgstr "Автобус"
+
+msgid "Bus and tram stops"
+msgstr "Автобусные и трамвайные остановки"
+
+msgid "Bus lane"
+msgstr "Автобусная полоса"
+
+msgid "Bus lane tool"
+msgstr "Инструмент «Автобусная полоса»"
+
+msgid "Bus/Tram station"
+msgstr "Автобусно-трамвайная станция"
+
+msgid "Bus/truck not compatible"
+msgstr "Несовместимый автобус/грузовик"
+
+msgid "Buy a bus and run a line."
+msgstr "Купите автобус и запустите маршрут."
+
+msgid "Buy a ship and run a line."
+msgstr "Купите корабль и запустите маршрут."
+
+msgid "Buy a steam train and run a line."
+msgstr "Купите паровоз и запустите маршрут."
+
+msgid "Buy aircraft"
+msgstr "Купить аэроплан"
+
+msgid "Buy an aircraft and run a line."
+msgstr "Купите самолёт и запустите маршрут."
+
+msgid "Buy an electric train and run a line."
+msgstr "Купите электропоезд и запустите маршрут."
+
+msgid "Buy for "
+msgstr "Купить "
+
+msgid "Buy road vehicles"
+msgstr "Купить дорожный транспорт"
+
+msgid "Buy ships"
+msgstr "Купить корабли"
+
+msgid "Buy trains"
+msgstr "Купить поезда"
+
+msgid "Buy trams"
+msgstr "Купить трамваи"
+
+msgid "Buy vehicles"
+msgstr "Купить транспортные средства"
+
+msgid "By car"
+msgstr "На машине"
+
+msgid "By foot"
+msgstr "Пешком"
+
+msgid "By submitting this item, you agree to the workshop terms of service."
+msgstr ""
+"Предоставляя этот объект, вы соглашаетесь на условия использования Workshop."
+
+msgid "Cadet"
+msgstr "Кадет"
+
+msgid "Camera Manager"
+msgstr "Управление камерой"
+
+msgid "Camera focal length"
+msgstr "Фокусное расстояние камеры"
+
+msgid "Camera move down"
+msgstr "Переместить камеру вниз"
+
+msgid "Camera move left"
+msgstr "Переместить камеру влево"
+
+msgid "Camera move right"
+msgstr "Переместить камеру вправо"
+
+msgid "Camera move up"
+msgstr "Переместить камеру вверх"
+
+msgid "Camera rotate left"
+msgstr "Повернуть камеру влево"
+
+msgid "Camera rotate right"
+msgstr "Повернуть камеру вправо"
+
+msgid "Camera tilt down"
+msgstr "Наклонить камеру вниз"
+
+msgid "Camera tilt up"
+msgstr "Наклонить камеру вверх"
+
+msgid "Camera tool"
+msgstr "Инструмент «Камера»"
+
+msgid "Camera tool: Add keyframe"
+msgstr "Инструмент камеры: добавить опорный кадр"
+
+msgid "Camera tool: Capture"
+msgstr "Инструмент камеры: захватить"
+
+msgid "Camera tool: Clear keyframes"
+msgstr "Инструмент камеры: удалить опорные кадры"
+
+msgid "Camera tool: Load"
+msgstr "Инструмент камеры: загрузить"
+
+msgid "Camera tool: Pause"
+msgstr "Инструмент камеры: пауза"
+
+msgid "Camera tool: Play"
+msgstr "Инструмент камеры: воспроизвести"
+
+msgid "Camera tool: Save"
+msgstr "Инструмент камеры: сохранить"
+
+msgid "Camera tool: Start recording"
+msgstr "Инструмент камеры: начать запись"
+
+msgid "Camera tool: Stop"
+msgstr "Инструмент камеры: остановить"
+
+msgid "Camera tool: Toggle play/pause"
+msgstr "Инструмент камеры: переключить воспроизведение/паузу"
+
+msgid "Camera tool: Toggle play/stop"
+msgstr "Инструмент камеры: переключить воспроизведение/остановку"
+
+msgid "Camera zoom in"
+msgstr "Приблизить камеру"
+
+msgid "Camera zoom out"
+msgstr "Отдалить камеру"
+
+msgid "Campaign"
+msgstr "Кампания"
+
+msgid "Campaign \"%1%\", mission \"%2%\""
+msgstr "Кампания «%1%», задание «%2%»"
+
+msgid "Campaign design"
+msgstr "Разработка кампании"
+
+msgid "Campaign expert"
+msgstr "Эксперт кампании"
+
+msgid "Campaign shark"
+msgstr "Акула кампании"
+
+msgid "Campaign tycoon"
+msgstr "Магнат кампании"
+
+msgid "Campaigns"
+msgstr "Кампании"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Cancel and leave store"
+msgstr "Отменить и выйти из магазина"
+
+msgid "Cancel publishing"
+msgstr "Отменить публикацию"
+
+msgid "Cannot bulldoze headquarters, use relocate instead!"
+msgstr "Снести головную контору нельзя, попробуйте переместить ее!"
+
+msgid "Cannot get enough"
+msgstr "Всё больше и больше"
+
+msgid "Capacity"
+msgstr "Вместимость"
+
+msgid "Capture image"
+msgstr "Сделать снимок"
+
+msgid "Capture images"
+msgstr "Создание снимков"
+
+msgid "Capture latlong"
+msgstr "Записать широту и долготу"
+
+msgid "Capture videos"
+msgstr "Запись видео"
+
+msgid "Car owner"
+msgstr "Владелец машины"
+
+msgid "Cargo"
+msgstr "Груз"
+
+msgid "Cargo filter is set"
+msgstr "Установлен фильтр грузов"
+
+msgid "Cargo hub"
+msgstr "Грузовой центр"
+
+msgid "Cargo items consumed by this building"
+msgstr "Груз, потребляемый этим зданием"
+
+msgid "Cargo items produced by this building"
+msgstr "Груз, производимый этим зданием"
+
+msgid "Cargo layer"
+msgstr "Грузовой слой"
+
+msgid "Cargo needs"
+msgstr "Потребности в грузе"
+
+msgid "Cargo production"
+msgstr "Производство груза"
+
+msgid "Cargo production rating (average of last twelve months)"
+msgstr ""
+"Грузовая норма производства (в среднем за последние двенадцать месяцев)"
+
+msgid "Cargo station"
+msgstr "Грузовая станция"
+
+msgid "Cargo stations"
+msgstr "Грузовые станции"
+
+msgid "Cargo stop can not used by passenger vehicles"
+msgstr "Грузовая остановка не может использоваться пассажирским транспортом"
+
+msgid "Cargo supply of %1%"
+msgstr "Обеспеченность грузами %1%"
+
+msgid "Cargo supply rating (average of last twelve months)"
+msgstr "Грузовая норма снабжения (в среднем за последние двенадцать месяцев)"
+
+msgid "Cargo transported (last 12 months)"
+msgstr "Грузоперевозки (последние 12 месяцев)"
+
+msgid "Cargo transported (total)"
+msgstr "Грузоперевозки (всего)"
+
+msgid "Cargo type"
+msgid_plural "Cargo types"
+msgstr[0] "Тип груза"
+msgstr[1] "Типы грузов"
+msgstr[2] "Типы грузов"
+
+msgid "Cargo types"
+msgstr "Типы грузов"
+
+msgid "Catenary"
+msgstr "Контактная сеть"
+
+msgid "Change date"
+msgstr "Изменить дату"
+
+msgid "Change note:"
+msgstr "Заметки об изменениях:"
+
+msgid "Change type"
+msgstr "Изменить тип"
+
+msgid "Charles Alton Ellis"
+msgstr "Чарльз Альтон Эллис"
+
+msgid "Chart"
+msgstr "Диаграмма"
+
+msgid "Charts"
+msgstr "Диаграммы"
+
+msgid "Choose heightmap"
+msgstr "Выбрать карту высот"
+
+msgid "Choose the game's difficulty"
+msgstr "Выбрать уровень сложности игры"
+
+msgid "Choose the game's start year"
+msgstr "Выбрать стартовый год игры"
+
+msgid "City"
+msgstr "Город"
+
+msgid "Clear"
+msgstr "Очистить"
+
+msgid "Clear all key frames?"
+msgstr "Удалить все ключевые кадры?"
+
+msgid "Clear key frame list"
+msgstr "Очистить список ключевых кадров"
+
+msgid "Click on icons to select residents"
+msgstr "Нажмите на значки, чтобы выбрать жителей"
+
+msgid "Click on stations to add"
+msgstr "Щёлкните по станциям, чтобы добавить"
+
+msgid ""
+"Click on the icon to jump to the first point where the path couldn't "
+"continue."
+msgstr ""
+"Нажмите на значок, чтобы перейти к первой точке, где путь не может "
+"продолжаться."
+
+msgid "Click to change date speed"
+msgstr "Щелкните, чтобы изменить скорость течения дня"
+
+msgid "Click to choose a logo..."
+msgstr "Щёлкните, чтобы выбрать логотип..."
+
+msgid "Click to modify balance"
+msgstr "Щёлкните, чтобы изменить баланс"
+
+msgid "Climate"
+msgstr "Климат"
+
+msgid "Climate change"
+msgstr "Изменение климата"
+
+msgid "Clone all vehicles"
+msgstr "Клонировать все транспортные средства"
+
+msgid "Clone all vehicles?"
+msgstr "Клонировать все транспортные средства?"
+
+msgid "Clone selected vehicle"
+msgid_plural "Clone selected vehicles"
+msgstr[0] "Клонировать выбранное транспортное средство"
+msgstr[1] "Клонировать выбранные транспортные средства"
+msgstr[2] "Клонировать выбранные транспортные средства"
+
+msgid "Clone vehicle"
+msgstr "Клонировать транспортное средство"
+
+msgid "Close all"
+msgstr "Закрыть все"
+
+msgid "Collapse"
+msgstr "Свернуть"
+
+msgid "Collision"
+msgstr "Столкновение"
+
+msgid "Color"
+msgstr "Цвет"
+
+msgid "Commercial"
+msgstr "Коммерческий"
+
+msgid "Commercial area"
+msgstr "Коммерческая зона"
+
+msgid "Commercial building"
+msgstr "Коммерческое здание"
+
+msgid "Commercial supply"
+msgstr "Коммерческие поставки"
+
+msgid "Community management"
+msgstr "Связь с общественностью"
+
+msgid "Company"
+msgstr "Компания "
+
+msgid "Company finances"
+msgstr "Финансы компании"
+
+msgid "Company score"
+msgstr "Рейтинг компании"
+
+msgid "Complete campaign \"%1%\" to unlock"
+msgstr "Завершить кампанию «%1%», чтобы получить доступ"
+
+msgid "Complete the entire campaign."
+msgstr "Пройдите всю кампанию."
+
+msgid "Complete the first and second era of the campaign."
+msgstr "Завершите первую и вторую эпохи кампании."
+
+msgid "Complete the first era of the campaign."
+msgstr "Завершите первую эпоху кампании."
+
+msgid "Complete the first mission of the campaign."
+msgstr "Выполните первое задание кампании."
+
+msgid "Condition"
+msgstr "Состояние"
+
+msgid "Configure"
+msgstr "Настроить"
+
+msgid "Configure construction"
+msgstr "Настроить конструкцию"
+
+msgid "Configure graphics and more"
+msgstr "Настроить графику и прочее"
+
+msgid "Configure maintenance for all vehicles"
+msgstr "Настроить техобслуживание всех транспортных средств"
+
+msgid "Configure maintenance for selected vehicle"
+msgid_plural "Configure maintenance for selected vehicles"
+msgstr[0] "Настроить техобслуживание выбранного транспортного средства"
+msgstr[1] "Настроить техобслуживание выбранных транспортных средств"
+msgstr[2] "Настроить техобслуживание выбранных транспортных средств"
+
+msgid "Confirm decommission"
+msgstr "Подтвердить списание"
+
+msgid "Confirm delete?"
+msgstr "Подтвердить удаление?"
+
+msgid "Confirm destruction"
+msgstr "Подтвердить снос"
+
+msgid "Confirm destruction?"
+msgstr "Подтвердить снос?"
+
+msgid "Confirm disposal"
+msgstr "Подтвердить удаление"
+
+msgid "Confirm mass clone"
+msgstr "Подтвердить клонирование нескольких объектов"
+
+msgid "Confirm unsubscribe?"
+msgstr "Подтвердить отмену подписки?"
+
+msgid "Congratulations"
+msgstr "Поздравления"
+
+msgid "Construction locked"
+msgstr "Строительство заблокировано"
+
+msgid "Construction not possible"
+msgstr "Строительство невозможно"
+
+msgid "Construction option 1"
+msgstr "Вид работ 1"
+
+msgid "Construction option 2"
+msgstr "Вид работ 2"
+
+msgid "Construction option 3"
+msgstr "Вид работ 3"
+
+msgid "Construction option 4"
+msgstr "Вид работ 4"
+
+msgid "Construction option 5"
+msgstr "Вид работ 5"
+
+msgid "Construction option 6"
+msgstr "Вид работ 6"
+
+msgid "Consumers"
+msgstr "Потребители"
+
+msgid "Consumption"
+msgstr "Потребление"
+
+msgid "Contained by following lines as waypoint"
+msgstr "Входит в следующие маршруты как путевая точка"
+
+msgid "Context help"
+msgstr "Контекстная справка"
+
+msgid "Continue"
+msgstr "Продолжить"
+
+msgid "Continue game"
+msgstr "Продолжить игру"
+
+msgid "Continue playing..."
+msgstr "Продолжить игру..."
+
+msgid "Contour lines layer"
+msgstr "Слой контурных линий"
+
+msgid "Contributors"
+msgstr "Соавторы"
+
+msgid "Controls"
+msgstr "Управление"
+
+msgid "Coord.sys."
+msgstr "Координаты в системе"
+
+msgid "Cosmocover"
+msgstr "Cosmocover"
+
+msgid "Costs"
+msgstr "Цены"
+
+msgid "Could not connect all stations"
+msgstr "Невозможно соединить все станции"
+
+msgid ""
+"Could not save game. Please check free\n"
+"disk space and/or folder permissions."
+msgstr ""
+"Не удалось сохранить игру. Пожалуйста, убедитесь, что на диске\n"
+"достаточно места и что вы обладаете достаточными правами для создания файлов."
+
+msgid "Create New Game"
+msgstr "Начать новую игру"
+
+msgid "Create New Map"
+msgstr "Создать новую карту"
+
+msgid "Create a line with at least two stops."
+msgstr "Создайте маршрут как минимум с двумя остановками."
+
+msgid "Create a new line"
+msgstr "Создать новый маршрут"
+
+msgid "Create map"
+msgstr "Создать карту"
+
+msgid "Create or edit a map"
+msgstr "Создать или редактировать карту"
+
+msgid "Creating fields..."
+msgstr "Создание полей..."
+
+msgid "Creating industries..."
+msgstr "Создание предприятий..."
+
+msgid "Creating streets..."
+msgstr "Создание улиц..."
+
+msgid "Creating towns..."
+msgstr "Создание городов..."
+
+msgid "Credits"
+msgstr "Авторы"
+
+msgid "Crowd in a train"
+msgstr "Толпа в поезде"
+
+msgid "Current"
+msgstr "Текущий"
+
+msgid "Current consumption rate"
+msgstr "Текущий уровень потребления"
+
+msgid "Custom"
+msgstr "По умолчанию"
+
+msgid "Cycle game speed"
+msgstr "След. скорость игры"
+
+msgid "DLCs:"
+msgstr "DLC:"
+
+msgid "Data layers"
+msgstr "Уровни инфографики"
+
+msgid "Date speed"
+msgstr "Скорость течения дня"
+
+msgid "Date:"
+msgstr "Дата:"
+
+msgid "Debt"
+msgstr "Долг"
+
+msgid "Debug mode"
+msgstr "Режим отладки"
+
+msgid "Default"
+msgstr "По умолчанию"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Delete fade"
+msgstr "Удалить угасание"
+
+msgid "Delete key frame"
+msgstr "Удалить ключевой кадр"
+
+msgid "Delete line"
+msgstr "Удалить маршрут"
+
+msgid "Delete subtitle"
+msgstr "Удалить субтитр"
+
+msgid "Deliver every product to every city that requires it."
+msgstr "Доставьте все продукты во все города, где они нужны."
+
+msgid "Depot"
+msgstr "Депо"
+
+msgid "Depot contains vehicles"
+msgstr "В депо находятся транспортные средства"
+
+msgid "Depots"
+msgstr "Депо"
+
+msgid "Describe changes..."
+msgstr "Опишите изменения..."
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Description:"
+msgstr "Описание:"
+
+msgid "Destination"
+msgstr "Пункт назначения"
+
+msgid "Destination: %1%"
+msgstr "Пункт назначения: %1%"
+
+msgid "Destination: %1% via %2%"
+msgstr "Пункт назначения: %1% через %2%"
+
+msgid "Destinations"
+msgstr "Пункты назначения"
+
+msgid "Destinations layer"
+msgstr "Слой пунктов назначения"
+
+msgid "Details"
+msgstr "Детали"
+
+msgid "Diesel"
+msgstr "Дизель"
+
+msgid "Diesel Train"
+msgstr "Дизель-поезд"
+
+msgid "Different cargo types transported"
+msgstr "Перевезено разных типов грузов"
+
+msgid "Difficulty:"
+msgstr "Сложность:"
+
+msgid "Directory:"
+msgstr "Директория:"
+
+msgid "Directory: %1%"
+msgstr "Директория: %1%"
+
+msgid "Disable all"
+msgstr "Отключить все"
+
+msgid "Disable all mods currently visible in the list"
+msgstr "Отключить все модификации, показанные в списке"
+
+msgid "Disable mod"
+msgstr "Отключить модификацию"
+
+msgid "Disabled"
+msgstr "Отключена"
+
+msgid "Disconnected!"
+msgstr "Разъединение!"
+
+msgid "Distance units"
+msgstr "Единицы расстояния"
+
+msgid "Do you wish to proceed?"
+msgstr "Хотите продолжить?"
+
+msgid "Docks outside of navigable waters"
+msgstr "Доки вне судоходных вод"
+
+msgid "Don't take any additional loan until the year 2050."
+msgstr "Не берите дополнительные займы до 2050 года."
+
+msgid "Double slip switch"
+msgstr "Двойной переключатель"
+
+msgid "Down"
+msgstr "Вниз"
+
+msgid "Drive backwards"
+msgstr "Сдать назад"
+
+msgid "Duration"
+msgstr "Продолжительность"
+
+msgid "E.P.E.C."
+msgstr "E.P.E.C."
+
+msgid "Earn 1 million with airplanes within a month."
+msgstr "Заработайте 1 миллион за месяц с помощью аэропланов."
+
+msgid "Earn 1 million with ships within a month."
+msgstr "Заработайте 1 миллион за месяц с помощью кораблей."
+
+msgid "Earn 50 millions not using any train."
+msgstr "Заработайте 50 миллионов, не используя поезда."
+
+msgid "Earn all medals in one of the missions."
+msgstr "Получите все медали за любое задание."
+
+msgid "Earn all medals of the entire campaign."
+msgstr "Получите все медали за всю кампанию."
+
+msgid "Easy"
+msgstr "Легк."
+
+msgid "Edge scrolling"
+msgstr "Перемещение камеры при удержании указателя на краю экрана"
+
+msgid "Edit vehicle"
+msgstr "Редактировать транспортное средство"
+
+msgid "Editor"
+msgstr "Редактор"
+
+msgid "Editor's note"
+msgstr "ПРИМЕЧАНИЕ РЕДАКТОРА"
+
+msgid "Electric"
+msgstr "Электрическ."
+
+msgid "Electric Train"
+msgstr "Электричка"
+
+msgid "Electrification tool"
+msgstr "Инструмент «Электрификация»"
+
+msgid "Emission"
+msgstr "Выбросы"
+
+msgid "Emission %1%"
+msgstr "Шум %1%"
+
+msgid "Emission %1% + %2% (%3% condition)"
+msgstr "Шум %1% + %2% (%3% состояние)"
+
+msgid "Emission at mouse cursor: %s"
+msgstr "Шум в точке курсора: %s"
+
+msgid "Emissions layer"
+msgstr "Слой вредных выбросов"
+
+msgid "Enable all"
+msgstr "Включить все"
+
+msgid "Enable all mods currently visible in the list"
+msgstr "Включить все модификации, показанные в списке"
+
+msgid "Enable camera tool"
+msgstr "Включить расширенные возможности камеры"
+
+msgid "Enable custom game settings"
+msgstr "Применить настройки по умолчанию"
+
+msgid "Enable guide system"
+msgstr "Включить подсказки"
+
+msgid "Enable mod"
+msgstr "Включить модификацию"
+
+msgid "Enabled"
+msgstr "Включить"
+
+msgid "Enabled mods"
+msgstr "Включенные модификации"
+
+msgid "Enabled/disabled mod(s) may lead to unexpected results."
+msgstr ""
+"Включение/выключение мода (модов) может привести к непредсказуемым "
+"результатам."
+
+msgid "Enabled/disabled mod(s) will likely cause the game to crash!"
+msgstr "Включение/выключение мода (модов) может привести к вылету игры!"
+
+msgid "Engine Type"
+msgid_plural "Engine Types"
+msgstr[0] "Тип двигателя"
+msgstr[1] "Типы двигателей"
+msgstr[2] "Типы двигателей"
+
+msgid "Enter a file name!"
+msgstr "Введите имя файла!"
+
+msgid "Enter cockpit"
+msgstr "Войти в кабину"
+
+msgid "Erase assets with a brush."
+msgstr "Стирать объекты кистью."
+
+msgid "Erase the terrain painting (restore the default material)."
+msgstr "Стирает раскраску ландшафта (восстанавливает исходный материал)."
+
+msgid "Eraser tool"
+msgstr "Инструмент «Ластик»"
+
+msgid "Error loading settings file"
+msgstr "Во время загрузки файла настроек произошла ошибка"
+
+msgid "Europe"
+msgstr "Европа"
+
+msgid "European vehicles"
+msgstr "Европейский транспорт"
+
+msgid "Excellent"
+msgstr "Великолепно"
+
+msgid "Exemplary student"
+msgstr "Образцовый ученик"
+
+msgid "Exit"
+msgstr "Выход"
+
+msgid "Exit and return to your operating system"
+msgstr "Выйти и вернуться в операционную систему"
+
+msgid "Expand"
+msgstr "Расширить"
+
+msgid "Expenditure"
+msgstr "Расходы"
+
+msgid "Export"
+msgstr "Экспорт"
+
+msgid "Export heightmap"
+msgstr "Экспортировать карту высот"
+
+msgid "Fade %1%"
+msgstr "Угасание %1%"
+
+msgid "Fades"
+msgstr "Угасания"
+
+msgid "File error"
+msgstr "Ошибка файла"
+
+msgid "Finances"
+msgstr "Финансы"
+
+msgid "First"
+msgstr "Первый"
+
+msgid "First aircraft arrived"
+msgstr "Первый самолёт прибыл"
+
+msgid "First bus arrived"
+msgstr "Первый автобус прибыл"
+
+msgid "First bus stop"
+msgstr "Первая автобусная остановка"
+
+msgid "First cargo item on board"
+msgstr "Первый груз на борту"
+
+msgid "First cargo item waiting"
+msgstr "Первый груз ждёт"
+
+msgid "First electric train arrived"
+msgstr "Первый электропоезд прибыл"
+
+msgid "First industry upgraded"
+msgstr "Первая промышленность улучшена"
+
+msgid "First line"
+msgstr "Первый маршрут"
+
+msgid "First passenger on board"
+msgstr "Первый пассажир на борту"
+
+msgid "First passenger waiting"
+msgstr "Первый пассажир ждёт"
+
+msgid "First ship arrived"
+msgstr "Первый корабль прибыл"
+
+msgid "First steam train arrived"
+msgstr "Первый паровоз прибыл"
+
+msgid "First train station"
+msgstr "Первый вокзал"
+
+msgid "First-time texture compression..."
+msgstr "Первое сжатие текстур..."
+
+msgid "Fix slope"
+msgstr "Изменить наклон"
+
+msgid "Flat"
+msgstr "Плоско"
+
+msgid "Flatten the terrain."
+msgstr "Выравнивает ландшафт."
+
+msgid "Flatten tool"
+msgstr "Инструмент «Выравнивание»"
+
+msgid "Foc."
+msgstr "Фокусировка"
+
+msgid "Folder:"
+msgstr "Папка:"
+
+msgid "For experts:"
+msgstr "Для экспертов:"
+
+msgid "Force units"
+msgstr "Единицы силы"
+
+msgid "Frame rate"
+msgstr "Частота кадров"
+
+msgid "Free Game"
+msgstr "Свободная игра"
+
+msgid "Freq."
+msgstr "Интервал"
+
+msgid "Frequence"
+msgstr "Частота"
+
+msgid "Full load (all)"
+msgstr "Полная загрузка (вся)"
+
+msgid "Full load (any)"
+msgstr "Полная загрузка (любая)"
+
+msgid "Game"
+msgstr "Игра"
+
+msgid "Game design"
+msgstr "Гейм-дизайн"
+
+msgid "Game initialization failed"
+msgstr "Не удалось начать игру"
+
+msgid "Game paused"
+msgstr "Игра на паузе"
+
+msgid "Game settings"
+msgstr "Настройки игры"
+
+msgid "Game speed up"
+msgstr "Ускорить игру"
+
+msgid "Generate"
+msgstr "Создать"
+
+msgid "Generate a random seed"
+msgstr "Генерировать случайное число"
+
+msgid "Generate heightmap"
+msgstr "Генерировать карту высот"
+
+msgid "Generate industries"
+msgstr "Генерировать предприятия"
+
+msgid "Generate streets"
+msgstr "Генерация улиц"
+
+msgid "Generate towns"
+msgstr "Генерировать города"
+
+msgid "Generating industries..."
+msgstr "Генерация предприятий..."
+
+msgid "Generating map..."
+msgstr "Генерация карты..."
+
+msgid "Generating preview..."
+msgstr "Создание предварительного просмотра..."
+
+msgid "Generating streets..."
+msgstr "Генерация улиц..."
+
+msgid "Generating terrain..."
+msgstr "Генерация рельефа..."
+
+msgid "Generating towns..."
+msgstr "Генерация городов..."
+
+msgid "Generator:"
+msgstr "Генератор:"
+
+msgid "Geometry"
+msgstr "Геометрия"
+
+msgid "Get more mods on"
+msgstr "Новые модификации можно найти здесь:"
+
+msgid "Glacier express"
+msgstr "Ледниковый экспресс"
+
+msgid "Go back to menu"
+msgstr "Вернуться в меню"
+
+msgid "Go to next page"
+msgstr "Перейти на следующую страницу"
+
+msgid "Go to station"
+msgstr "На станцию"
+
+msgid "Going to depot"
+msgstr "В депо"
+
+msgid "Good"
+msgstr "Хорошо"
+
+msgid "Graphics"
+msgstr "Графика"
+
+msgid "Graphics settings"
+msgstr "Настройки графики"
+
+msgid "Grass"
+msgstr "Трава"
+
+msgid "Growth"
+msgstr "Рост"
+
+msgid "Growth: %1% residents"
+msgstr "Рост: %1% граждан"
+
+msgid "HUD icon filter"
+msgstr "Фильтр по значкам интерфейса"
+
+msgid "HUD: Toggle aircraft"
+msgstr "Интерфейс: переключить самолёты"
+
+msgid "HUD: Toggle bus/tram stops"
+msgstr "Интерфейс: переключить автобусные/трамвайные остановки"
+
+msgid "HUD: Toggle costs labels"
+msgstr "Интерфейс: переключить метки расходов"
+
+msgid "HUD: Toggle depots"
+msgstr "Интерфейс: переключить депо"
+
+msgid "HUD: Toggle income labels"
+msgstr "Интерфейс: переключить метки дохода"
+
+msgid "HUD: Toggle industries"
+msgstr "Интерфейс: переключить промышленность"
+
+msgid "HUD: Toggle rail vehicles"
+msgstr "Интерфейс: переключить рельсовый транспорт"
+
+msgid "HUD: Toggle road vehicles"
+msgstr "Интерфейс: переключить дорожный транспорт"
+
+msgid "HUD: Toggle ships"
+msgstr "Интерфейс: переключить корабли"
+
+msgid "HUD: Toggle signals"
+msgstr "Интерфейс: переключить сигналы"
+
+msgid "HUD: Toggle stations"
+msgstr "Интерфейс: переключить станции"
+
+msgid "HUD: Toggle towns"
+msgstr "Интерфейс: переключить города"
+
+msgid "Hangar"
+msgstr "Ангар"
+
+msgid "Hard"
+msgstr "Сложн."
+
+msgid "Have 100km of tunnels."
+msgstr "Проройте 100 км туннелей."
+
+msgid "Have 400km of tracks."
+msgstr "Проложите 400 км железной дороги."
+
+msgid "Have 50km of bridges."
+msgstr "Постройте 50 км мостов."
+
+msgid "Have a cargo item transported with one of your vehicles."
+msgstr "Перевезите груз на своём транспорте."
+
+msgid "Have a cargo item waiting at a terminal."
+msgstr "Добейтесь того, чтобы на терминале появился груз."
+
+msgid "Have a monthly maintenance cost of 200 million."
+msgstr "Доведите ежемесячную стоимость обслуживания до 200 миллионов."
+
+msgid "Have a passenger on a vehicle."
+msgstr "Добейтесь того, чтобы пассажир сел в транспорт."
+
+msgid "Have a town with a population of at least 1500."
+msgstr "Создайте город с населением не менее 1500 человек."
+
+msgid "Have a town with a population of at least 750."
+msgstr "Создайте город с населением не менее 750 человек."
+
+msgid "Have a train filled with at least 100 passengers."
+msgstr "Добейтесь того, чтобы в поезд село не менее 100 пассажиров."
+
+msgid "Have a train filled with at least 200 passengers."
+msgstr "Добейтесь того, чтобы в поезд село не менее 200 пассажиров."
+
+msgid "Have a train filled with at least 250 cargo items."
+msgstr "Добейтесь того, чтобы в поезд было погружено не менее 250 ед. груза."
+
+msgid "Have a train longer than the longest possible station."
+msgstr "Добейтесь, чтобы длина поезда превышала максимальную длину станции."
+
+msgid "Have a train that reaches higher than 450 meters."
+msgstr "Добейтесь того, чтобы ваш поезд ехал на высоте больше 450 метров."
+
+msgid ""
+"Have all tracks electrified and high speed. Have at least 100km of tracks."
+msgstr ""
+"Проложите не менее 100 км электрифицированных и скоростных железных дорог."
+
+msgid "Have at least 300 cargo items waiting at a train station."
+msgstr "Добейтесь того, чтобы на станции поезда ждало не менее 300 ед. груза."
+
+msgid "Have at least 300 passengers waiting in a train station."
+msgstr "Добейтесь того, чтобы на станции поезда ждало не менее 300 пассажиров."
+
+msgid "Have every industry shipping items using your transport network."
+msgstr ""
+"Добейтесь того, чтобы вся промышленность использовала вашу транспортную сеть "
+"для доставки грузов."
+
+msgid "Have two trains stuck facing each other."
+msgstr "Добейтесь того, чтобы два поезда оказались обращёнными друг к другу."
+
+msgid "Head of PR & Community Management"
+msgstr "Глава отдела рекламы и связей с общественностью"
+
+msgid "Head of Product Management"
+msgstr "Глава отдела управления производством"
+
+msgid "Heading for %1%"
+msgstr "Пункт назначения: %1%"
+
+msgid "Heading for depot"
+msgstr "Пункт назначения: депо"
+
+msgid "Headquarters"
+msgstr "Головные конторы"
+
+msgid "Heavily loaded"
+msgstr "Полная загрузка"
+
+msgid "Height at mouse cursor: %s"
+msgstr "Высота в точке курсора: %s"
+
+msgid "Heightmap"
+msgstr "Карта высот"
+
+msgid "Heightmap height invalid. Valid heights: %1%."
+msgstr "Недопустимая высота карты высот. Допустимые параметры: %1%."
+
+msgid "Heightmap texture tool"
+msgstr "Инструмент «Текстура карты высот»"
+
+msgid "Heightmap too large. Number of pixels must not exceed %1%M."
+msgstr ""
+"Карта высот слишком большая. Количество пикселей не должно превышать %1%M."
+
+msgid "Heightmap width invalid. Valid widths: %1%."
+msgstr "Недопустимая ширина карты высот. Допустимые параметры: %1%."
+
+msgid "Help"
+msgstr "Помощь"
+
+msgid "Hide advanced options"
+msgstr "Скрыть расширенные настройки"
+
+msgid "High"
+msgstr "Выс."
+
+msgid "High speed"
+msgstr "Высокоскоростн."
+
+msgid "High-speed"
+msgstr "Высокоскоростн."
+
+msgid "High-speed track tool"
+msgstr "Инструмент «Высокоскоростные пути»"
+
+msgid "Horse"
+msgstr "Лошадь"
+
+msgid "Huge"
+msgstr "Огромный"
+
+msgid "Idle"
+msgstr "Бездействует"
+
+msgid "Image file too large (must be less than 1MB)"
+msgstr "Слишком большой файл изображения (нужно менее 1МБ)"
+
+msgid "Image type must be grayscale."
+msgstr "Тип изображения должен быть черно-белым."
+
+msgid "Import"
+msgstr "Импорт"
+
+msgid "Import heightmap"
+msgstr "Импортировать карту высот"
+
+msgid "Important note"
+msgstr "Важное примечание"
+
+msgid "In"
+msgstr "Вход"
+
+msgid "In depot"
+msgstr "В депо"
+
+msgid "Income"
+msgstr "Доходы"
+
+msgid "Incoming"
+msgstr "Входящие"
+
+msgid "Incoming vehicle(s)"
+msgstr "Входящее транспортное средство(а)"
+
+msgid "Indigo Pearl"
+msgstr "Indigo Pearl"
+
+msgid "Industrial"
+msgstr "Промышленный"
+
+msgid "Industrial area"
+msgstr "Промышленная зона"
+
+msgid "Industrial building"
+msgstr "Промышленное здание"
+
+msgid "Industrial supply"
+msgstr "Промышленные поставки"
+
+msgid "Industrialist"
+msgstr "Промышленник"
+
+msgid "Industries"
+msgstr "Промышленные объекты"
+
+msgid "Industries report following problems:"
+msgstr "Предприятия сообщают о следующих проблемах:"
+
+msgid "Industry"
+msgstr "Промышленность"
+
+msgid "Industry statistics"
+msgstr "Статистика промышленности"
+
+msgid "Infrastructure"
+msgstr "Инфраструктура"
+
+msgid "Insert fade after"
+msgstr "Вставить угасание после"
+
+msgid "Insert fade before"
+msgstr "Вставить угасание перед"
+
+msgid "Insert key frame after"
+msgstr "Вставить ключевой кадр после"
+
+msgid "Insert key frame before"
+msgstr "Вставить ключевой кадр перед"
+
+msgid "Insert subtitle after"
+msgstr "Вставить субтитр после"
+
+msgid "Insert subtitle before"
+msgstr "Вставить субтитр перед"
+
+msgid "Interface"
+msgstr "Интерфейс"
+
+msgid "Interface scaling"
+msgstr "Масштабирование интерфейса"
+
+msgid "Interns"
+msgstr "Интерны"
+
+msgid "Invalid UTF-8 encountered"
+msgstr "Обнаружен недопустимый UTF-8"
+
+msgid "Invalid configuration, %1% module will collide."
+msgid_plural "Invalid configuration, %1% modules will collide."
+msgstr[0] "Недопустимая конфигурация, %1% модуль сталкивается с ландшафтом."
+msgstr[1] "Недопустимая конфигурация, %1% модуля сталкиваются с ландшафтом."
+msgstr[2] "Недопустимая конфигурация, %1% модулей сталкиваются с ландшафтом."
+
+msgid "Inventory"
+msgstr "Запасы"
+
+msgid "Invert"
+msgstr "Инверсия"
+
+msgid "Invert panning"
+msgstr "Инвертировать вращение камеры"
+
+msgid "Invert rotation"
+msgstr "Инвертировать вращение"
+
+msgid "Invert rotation keys"
+msgstr "Инвертировать клавиши вращения"
+
+msgid "Invert tilting"
+msgstr "Инвертировать наклон"
+
+msgid "Invert zooming"
+msgstr "Инвертировать изменение масштаба"
+
+msgid "Investments"
+msgstr "Вложения"
+
+msgid "Jobs"
+msgstr "Вакансии"
+
+msgid "Keep"
+msgstr "Оставить"
+
+msgid "Keep a train built before 1900 running until the year 2000."
+msgstr ""
+"Добейтесь того, чтобы поезд, построенный в 1900 году, работал в 2000 году."
+
+msgid "Keep assets"
+msgstr "Сохранить объекты"
+
+msgid "Keep existing industries"
+msgstr "Оставить имеющиеся предприятия"
+
+msgid "Keep existing streets"
+msgstr "Оставить имеющиеся улицы"
+
+msgid "Keep existing towns"
+msgstr "Оставить имеющиеся города"
+
+msgid "Keep heightmap"
+msgstr "Сохранить карту высот"
+
+msgid "Keep resolution?"
+msgstr "Сохранить разрешение?"
+
+msgid "Keep trees and rocks"
+msgstr "Сохранить камни и деревья"
+
+msgid "Key mapping"
+msgstr "Ракладка клавиатуры"
+
+msgid "Key visuals"
+msgstr "Ключевой визуальный образ"
+
+msgid "KeyFrame %1%"
+msgstr "Ключевой кадр %1%"
+
+msgid "Keyframes"
+msgstr "Ключевые кадры"
+
+msgid "Land use"
+msgstr "Использование земель"
+
+msgid "Land use layer"
+msgstr "Слой землепользования"
+
+msgid "Lanes: %1%, Speed limit: %2%"
+msgstr "Полосы: %1%, макс. скорость: %2%"
+
+msgid "Language"
+msgstr "Язык"
+
+msgid "Large"
+msgstr "Большой"
+
+msgid "Last Image:"
+msgstr "Последнее изображение:"
+
+msgid "Last recording:"
+msgstr "Последняя запись:"
+
+msgid "Last savegame \"%1%\""
+msgstr "Последнее сохранение игры «%1%»"
+
+msgid "Lead artist"
+msgstr "Главный художник"
+
+msgid "Lead programmer"
+msgstr "Главный программист"
+
+msgid "Length"
+msgstr "Длина"
+
+msgid "Let a manufacturing industry upgrade."
+msgstr "Помогите улучшить обрабатывающую промышленность."
+
+msgid "Level"
+msgstr "Уровень"
+
+msgid "Liabilities"
+msgstr "Обязательства"
+
+msgid "Lifespan"
+msgstr "Срок эксплуатации"
+
+msgid "Lifetime reached"
+msgstr "Достигнут предел срока службы"
+
+msgid "Limit reached!\n"
+msgstr "Достигнут предел!\n"
+
+msgid "Line"
+msgstr "Линия"
+
+msgid "Line Usage"
+msgstr "Загрузка линии"
+
+msgid "Line contains too few stations"
+msgstr "На маршруте слишком мало станций"
+
+msgid "Line has no stops"
+msgstr "На маршруте нет остановок"
+
+msgid "Line manager"
+msgstr "Менеджер линий"
+
+msgid "Line must contain at least one stop"
+msgstr "На маршруте должна быть хотя бы одна остановка"
+
+msgid "Line statistics"
+msgstr "Статистика маршрутов"
+
+msgid "Lines passing:"
+msgstr "Переходы маршрутов:"
+
+msgid "Lines report following problems:"
+msgstr "На маршрутах возникли следующие проблемы:"
+
+msgid "Liquidity"
+msgstr "Ликвидность"
+
+msgid "Load"
+msgstr "Загрузить"
+
+msgid "Load Camera config"
+msgstr "Загрузить настройки камеры"
+
+msgid "Load Game"
+msgstr "Загрузить игру"
+
+msgid "Load Map"
+msgstr "Загрузить карту"
+
+msgid "Load a map"
+msgstr "Загрузить карту"
+
+msgid "Load an existing game"
+msgstr "Загрузить существующую игру"
+
+msgid "Load an existing map"
+msgstr "Загрузить существующую карту"
+
+msgid "Load game"
+msgstr "Загрузить игру"
+
+msgid "Load if available"
+msgstr "Загрузка, если доступна"
+
+msgid "Load key frames"
+msgstr "Загрузить ключевые кадры"
+
+msgid "Load map"
+msgstr "Загрузить карту"
+
+msgid "Load the map"
+msgstr "Загрузить карту"
+
+msgid "Loaded"
+msgstr "Загружен"
+
+msgid "Loading order, click to change"
+msgstr "Порядок загрузки, нажмите, чтобы изменить"
+
+msgid "Loading speed"
+msgstr "Скорость погрузки"
+
+msgid "Loading..."
+msgstr "Загрузка..."
+
+msgid "Loan"
+msgstr "Заем"
+
+msgid "Loan interest"
+msgstr "Проценты по займам"
+
+msgid "Loan to repay: %1%"
+msgstr "Оставшиеся выплаты: %1%"
+
+msgid "Localization"
+msgstr "Локализация"
+
+msgid "Locate"
+msgstr "Найти"
+
+msgid "Locomotives"
+msgstr "Локомотивы"
+
+msgid "Louis Favre"
+msgstr "Луи Фавр"
+
+msgid "Low"
+msgstr "Низк."
+
+msgid "Lower"
+msgstr "Опустить"
+
+msgid "Lower %1%"
+msgstr "Нижний %1%"
+
+msgid "Lower the terrain."
+msgstr "Опускает ландшафт."
+
+msgid "Lower tool"
+msgstr "Инструмент «Спуск»"
+
+msgid "Main connection will be interrupted"
+msgstr "Основной маршрут будет заблокирован"
+
+msgid "Main connections"
+msgstr "Основные дороги"
+
+msgid "Main connections:"
+msgstr "Основные дороги:"
+
+msgid "Maintenance"
+msgstr "Техобслуживание"
+
+msgid "Maintenance depots"
+msgstr "Депо техобслуживания"
+
+msgid "Maintenance infrastructure"
+msgstr "Обслуживание инфраструктуры"
+
+msgid "Maintenance other"
+msgstr "Др. техобслуживание"
+
+msgid "Maintenance roads"
+msgstr "Дороги для техобслуживания"
+
+msgid "Maintenance set to keep vehicle at %1% condition"
+msgstr "Обслуживание установлено для поддержания состояния: %1%"
+
+msgid "Maintenance stations"
+msgstr "Станции техобслуживания"
+
+msgid "Maintenance tracks"
+msgstr "Пути для техобслуживания"
+
+msgid "Maintenance vehicles"
+msgstr "Транспорт для техобслуживания"
+
+msgid "Manage line"
+msgstr "Управление линией"
+
+msgid "Manage vehicle"
+msgstr "Управление транспортным средством"
+
+msgid "Manage vehicles"
+msgstr "Управление транспортными средствами"
+
+msgid "Management"
+msgstr "Управление"
+
+msgid "Map Editor"
+msgstr "Редактор карт"
+
+msgid "Map format"
+msgstr "Формат карты"
+
+msgid "Map format:"
+msgstr "Формат карты:"
+
+msgid "Map generation failed"
+msgstr "Не удалось генерировать карту"
+
+msgid "Map size"
+msgstr "Размер карты"
+
+msgid "Map size:"
+msgstr "Размер карты:"
+
+msgid "Marchsreiter"
+msgstr "Marchsreiter"
+
+msgid "Marketing"
+msgstr "Маркетинг"
+
+msgid "Marketing Assistant"
+msgstr "Помощник по маркетингу"
+
+msgid "Mass production"
+msgstr "Серийное производство"
+
+msgid "Master"
+msgstr "Основн."
+
+msgid "Maximum loan: %1%"
+msgstr "Максимальный заем: %1%"
+
+msgid "Maximum waiting time"
+msgstr "Максимальное время ожидания"
+
+msgid "Mediocre"
+msgstr "Посредственно"
+
+msgid "Medium"
+msgstr "Средний"
+
+msgid "Megalomaniac"
+msgstr "Мания величия"
+
+msgid "Menu"
+msgstr "Меню"
+
+msgid "Menu music"
+msgstr "Музыка в меню"
+
+msgid "Metropolis"
+msgstr "Мегаполис"
+
+msgid "Minus old vehicle value"
+msgstr "Уменьшить привлекательность старого транспорта"
+
+msgid "Misc."
+msgstr "Разн."
+
+msgid "Miscellaneous"
+msgstr "Разное"
+
+msgid "Missing electric tracks"
+msgstr "Отсутствуют электрические пути"
+
+msgid "Missing tram tracks"
+msgstr "Отсутствуют трамвайные пути"
+
+msgid "Mission %1%"
+msgstr "Задание %1%"
+
+msgid "Mission %1% of %2%"
+msgstr "Задание %1% из %2%"
+
+msgid "Mission completed"
+msgstr "Задание выполнено"
+
+msgid "Mission failed"
+msgstr "Задание провалено"
+
+msgid "Mission tasks"
+msgstr "Этапы задания"
+
+msgid "Mission: %1%"
+msgstr "Задание: %1%"
+
+msgid "Mixed rocks"
+msgstr "Случайные камни"
+
+msgid "Mixed trees"
+msgstr "Смешанные деревья"
+
+msgid "Mod not installed"
+msgstr "Модификация не установлена"
+
+msgid "Modify for "
+msgstr "Изменить для "
+
+msgid "Modify the terrain with a heightmap texture."
+msgstr "Модифицирует ландшафт с помощью текстуры карты высот."
+
+msgid "Mods are active. Achievements cannot be earned!"
+msgstr "Моды активированы. Нельзя получать достижения!"
+
+msgid "Module bulldozer"
+msgstr "Снос модулей"
+
+msgid "Money number format"
+msgstr "Числовой формат денег"
+
+msgid "Mouse wheel sensitivity"
+msgstr "Чувствительность колесика мыши"
+
+msgid "Mouse/keyboard settings"
+msgstr "Настройки мыши/клавиатуры"
+
+msgid "Move mode"
+msgstr "Режим перемещения"
+
+msgid "Move vehicle left"
+msgstr "Подвинуть транспорт влево"
+
+msgid "Move vehicle right"
+msgstr "Подвинуть транспорт вправо"
+
+msgid "Multiple units"
+msgstr "Несколько единиц"
+
+msgid "Museum line"
+msgstr "Музейный маршрут"
+
+msgid "Music"
+msgstr "Музыка"
+
+msgid "Music era-dependent"
+msgstr "Музыка эпохи"
+
+msgid "Music player"
+msgstr "Музыкальный проигрыватель"
+
+msgid "Mute"
+msgstr "Отключить звук"
+
+msgid "N/A"
+msgstr "Нет"
+
+msgid "NOT FOUND (%1%)"
+msgstr "%1% — НЕ НАЙДЕНО"
+
+msgid "Name"
+msgstr "Название"
+
+msgid "Name:"
+msgstr "Название:"
+
+msgid "Narrow angle"
+msgstr "Узкий угол"
+
+msgid "Navigable waters"
+msgstr "Судоходные воды"
+
+msgid "Navigable waters layer"
+msgstr "Слой судоходных вод"
+
+msgid "Never"
+msgstr "Никогда"
+
+msgid "New line"
+msgstr "Новый маршрут"
+
+msgid "New vehicle"
+msgstr "Новый транспорт"
+
+msgid "Next"
+msgstr "Далее"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "No Line"
+msgstr "Нет маршрута"
+
+msgid "No bridge"
+msgstr "Нет моста"
+
+msgid "No construction set!"
+msgstr "Нет стройки!"
+
+msgid "No country for old trains"
+msgstr "Паровозам тут не место"
+
+msgid "No depot found"
+msgstr "Депо не найдено"
+
+msgid "No electric path"
+msgstr "Нет электрического пути"
+
+msgid "No filter currently set"
+msgstr "Фильтр не установлен"
+
+msgid "No free seats"
+msgstr "Свободных мест нет"
+
+msgid "No line passing"
+msgstr "Нет перехода маршрутов"
+
+msgid "No logo"
+msgstr "Нет логотипа"
+
+msgid ""
+"No maps available.\n"
+"\n"
+"Maps can be created with the map editor or\n"
+"downloaded from Steam Workshop."
+msgstr ""
+"Нет доступных карт.\n"
+"\n"
+"Карты могут быть созданы в Редакторе карт\n"
+"или скачаны из Steam Workshop."
+
+msgid ""
+"No maps available.\n"
+"\n"
+"Maps can be created with the map editor."
+msgstr ""
+"Нет доступных карт.\n"
+"\n"
+"Карты могут быть созданы в Редакторе карт."
+
+msgid "No parameters"
+msgstr "Нет параметров"
+
+msgid "No path"
+msgstr "Нет пути"
+
+msgid "No path (Big aircraft)"
+msgstr "Нет пути (Большой аэроплан)"
+
+msgid "No path (Big ship)"
+msgstr "Нет пути (Большой корабль)"
+
+msgid "No path (Electric)"
+msgstr "Нет пути (Электричество)"
+
+msgid "No path for big airplanes"
+msgstr "Нет пути для больших самолётов"
+
+msgid "No path for big ships"
+msgstr "Нет пути для больших кораблей"
+
+msgid "No path found between %1% and %2%"
+msgstr "Между %1% и %2% пути не обнаружено"
+
+msgid "No saved games available."
+msgstr "Нет доступных сохранений"
+
+msgid "No segment removable"
+msgstr "Нет сегментов, которые можно удалить"
+
+msgid "No tasks available"
+msgstr "Нет доступных заданий"
+
+msgid "No tunnel"
+msgstr "Нет туннеля"
+
+msgid "No vehicles to replace!"
+msgstr "Нет подходящего транспорта для замены!"
+
+msgid "Node locked"
+msgstr "Узел заблокирован"
+
+msgid "None"
+msgstr "Нет"
+
+msgid "Normal"
+msgstr "Нормально"
+
+msgid "Not assigned to a terminal"
+msgstr "Нет привязки к терминалу"
+
+msgid "Not contained by any line as waypoint"
+msgstr "Не входит в маршруты как путевая точка"
+
+msgid "Not enough money"
+msgstr "Не хватает средств"
+
+msgid "Not enough money."
+msgstr "Не хватает средств."
+
+msgid "Not in my backyard"
+msgstr "Не у меня дома"
+
+msgid "Nothing waiting"
+msgstr "Нет ожидающего транспорта"
+
+msgid "Notifications"
+msgstr "Уведомления"
+
+msgid "Now what?"
+msgstr "Что теперь?"
+
+msgid "Number of industries"
+msgstr "Количество промышленных предприятий"
+
+msgid "Number of industries:"
+msgstr "Количество промышленных предприятий:"
+
+msgid "Number of items currently in stock"
+msgstr "Число предметов в ассортименте на данный момент"
+
+msgid "Number of lines"
+msgstr "Количество линий"
+
+msgid "Number of towns"
+msgstr "Количество городов"
+
+msgid "Number of towns:"
+msgstr "Количество городов:"
+
+msgid "OK"
+msgstr "ОК"
+
+msgid "Off"
+msgstr "Выкл."
+
+msgid "Old timer"
+msgstr "Старик"
+
+msgid "Oldest vehicle"
+msgstr "Самый старый транспорт"
+
+msgid "One-way"
+msgstr "Одностороннее движение"
+
+msgid "Only show air lines and hangars"
+msgstr "Показывать только воздушные линии и ангары"
+
+msgid "Only show lines and depots that are visible in the main view"
+msgstr "Показывать только маршруты и депо, отображающиеся в основном просмотре"
+
+msgid "Only show lines that are visible in the main view"
+msgstr "Показывать только маршруты, отображающиеся в основном просмотре"
+
+msgid "Only show railroad lines and depots"
+msgstr "Показывать только железнодорожные линии и депо"
+
+msgid "Only show road lines and depots"
+msgstr "Показывать только дорожные линии и депо"
+
+msgid "Only show ship lines and shipyards"
+msgstr "Показывать только корабельные линии и верфи"
+
+msgid "Only show tram lines and depots"
+msgstr "Показывать только трамвайные линии и депо"
+
+msgid "Only show vehicles that are visible in the main view"
+msgstr "Показывать только транспорт, видимый на экране"
+
+msgid "Open advanced game settings dialog"
+msgstr "Показать диалог расширенных настроек"
+
+msgid "Open vehicle manager"
+msgstr "Открыть менеджер транспорта"
+
+msgid "Open vehicle store to buy vehicles"
+msgstr "Откройте магазин транспорта, чтобы купить транспортные средства"
+
+msgid "Open vehicle window on purchase"
+msgstr "Открывать окно транспортных средств при покупке"
+
+msgid "OpenGL context creation failed"
+msgstr "Не удалось создать контекст OpenGL"
+
+msgid "Other"
+msgstr "Другое"
+
+msgid "Other infrastructure"
+msgstr "Прочая инфраструктура"
+
+msgid "Out"
+msgstr "Выход"
+
+msgid "Output resolution"
+msgstr "Итоговое разрешение"
+
+msgid "Overload"
+msgstr "Перегрузка"
+
+msgid "Overloaded stations"
+msgstr "Перегруженные станции"
+
+msgid "Overview"
+msgstr "Обзор"
+
+msgid "Overwrite heightmap?"
+msgstr "Перезаписать карту высот?"
+
+msgid "Overwrite savegame?"
+msgstr "Перезаписать сохраненную игру?"
+
+msgid "Ownership test failed"
+msgstr "Не удалось подтвердить принадлежность"
+
+msgid "PR & Community Management"
+msgstr "Реклама и связи с общественностью"
+
+msgid "PR Assistant"
+msgstr "Помощник по связям с общественностью"
+
+msgid "Paint tools"
+msgstr "Инструменты для рисования"
+
+msgid "Passenger"
+msgstr "Пассажир"
+
+msgid "Passenger stations"
+msgstr "Пассажирские станции"
+
+msgid "Passenger stop can not be used by cargo vehicles"
+msgstr "Пассажирская остановка не может использоваться грузовым транспортом"
+
+msgid "Passenger stops can not be used by cargo vehicles"
+msgstr "Пассажирские остановки не могут использоваться грузовым транспортом"
+
+msgid "Passengers"
+msgstr "Пассажиры"
+
+msgid "Passengers transported (last 12 months)"
+msgstr "Пассажирские перевозки (последние 12 месяцев)"
+
+msgid "Passengers transported (total)"
+msgstr "Пассажиров перевезено (всего)"
+
+msgid "Pause"
+msgstr "Пауза"
+
+msgid "Pause preview"
+msgstr "Поставить предварительный просмотр на паузу"
+
+msgid "Paused"
+msgstr "Пауза"
+
+msgid "Penny pincher"
+msgstr "Скряга"
+
+msgid "Perspective panning"
+msgstr "Вращение камеры в перспективе"
+
+msgid "Picture"
+msgstr "Изображение"
+
+msgid "Pin"
+msgstr "Закрепить"
+
+msgid "Place random rocks with a brush."
+msgstr "Размещать кистью случайные камни."
+
+msgid "Place random trees with a brush."
+msgstr "Размещать кистью случайные деревья."
+
+msgid "Play Map"
+msgstr "Играть на карте"
+
+msgid "Play a campaign"
+msgstr "Играть в кампанию"
+
+msgid "Play a game in all three climates."
+msgstr "Сыграйте по игре с каждыми из трёх климатических условий."
+
+msgid "Play a map"
+msgstr "Играть на карте"
+
+msgid "Play map"
+msgstr "Выбрать карту"
+
+msgid "Play next song"
+msgstr "Включить следующую песню"
+
+msgid "Play or pause current song"
+msgstr "Включить или поставить на паузу текущую песню"
+
+msgid "Play previous song"
+msgstr "Включить предыдущую песню"
+
+msgid "Player Owned"
+msgstr "Во владении игрока"
+
+msgid "Player owned"
+msgstr "Во владении игрока"
+
+msgid "Please try installing the latest drivers for your graphics card."
+msgstr "Пожалуйста, установите самые последние драйвера для вашей видеокарты."
+
+msgid "Point to the terrain"
+msgstr "Укажите на ландшафт"
+
+msgid "Poor"
+msgstr "Слабо"
+
+msgid "Population"
+msgstr "Население"
+
+msgid "Power"
+msgstr "Мощность"
+
+msgid "Power rating"
+msgstr "Номинальная мощность"
+
+msgid "Power units"
+msgstr "Единицы мощности"
+
+msgid "Preparing game..."
+msgstr "Подготовка игры..."
+
+msgid "Presets"
+msgstr "Предустановленные настройки"
+
+msgid "Press any key"
+msgstr "Нажмите любую клавишу"
+
+msgid "Preview image:"
+msgstr "Превью:"
+
+msgid "Previous resolution setting will be restored in %2d seconds!"
+msgstr "Предыдущие настройки разрешения будут восстановлены через %2d сек."
+
+msgid "Private transport"
+msgstr "Частный транспорт"
+
+msgid "Produced"
+msgstr "Произведено"
+
+msgid "Product"
+msgstr "Продукт"
+
+msgid "Product Management"
+msgstr "Управление производством"
+
+msgid "Product Management Assistant"
+msgstr "Помощник отдела управления производством"
+
+msgid "Production"
+msgstr "Производство"
+
+msgid "Production rating"
+msgstr "Норма производства"
+
+msgid "Profit last 12 months"
+msgstr "Прибыль за последние 12 месяцев"
+
+msgid "Programmers"
+msgstr "Программисты"
+
+msgid "Prohibited area"
+msgstr "Запрещенная зона"
+
+msgid "Project lead"
+msgstr "Глава проекта"
+
+msgid "Public transport"
+msgstr "Общественный транспорт"
+
+msgid "Publish"
+msgstr "Опубликовать"
+
+msgid "Publish Map"
+msgstr "Опубликовать карту"
+
+msgid "Publish Mod"
+msgstr "Опубликовать мод"
+
+msgid "Publish Savegame"
+msgstr "Опубликовать сохраненную игру"
+
+msgid "Publishing..."
+msgstr "Публикация..."
+
+msgid "Quality"
+msgstr "Качество"
+
+msgid "Quality assurance"
+msgstr "Тестирование"
+
+msgid "Quality of life in %1%"
+msgstr "Качество жизни в %1%"
+
+msgid "Quantity"
+msgstr "Количество"
+
+msgid "Quit"
+msgstr "Выйти"
+
+msgid "Quit game"
+msgstr "Выйти из игры"
+
+msgid "Quit to main menu or desktop"
+msgstr "Выйти в главное меню или рабочий стол"
+
+msgid "Rail"
+msgstr "Рельсы"
+
+msgid "Railroad"
+msgstr "Железная дорога"
+
+msgid "Railroad crossing"
+msgstr "Железнодорожный переезд"
+
+msgid "Raise"
+msgstr "Поднять"
+
+msgid "Raise the terrain."
+msgstr "Поднимает ландшафт."
+
+msgid "Raise tool"
+msgstr "Инструмент «Подъем»"
+
+msgid "Random"
+msgstr "Случайный"
+
+msgid "Random seed"
+msgstr "Случайный источник"
+
+msgid "Randomize rotation"
+msgstr "Случайная ротация"
+
+msgid "Range:"
+msgstr "Диапазон:"
+
+msgid "Rate"
+msgstr "Норма"
+
+msgid "Rating from \"%1%\" to \"%2%\""
+msgstr "Рейтинг от «%1%» до «%2%»"
+
+msgid "Reach 400 production at a manufacturing industry."
+msgstr "Достигните объёма производства обрабатывающей промышленности в 400 ед."
+
+msgid "Reach a top speed of 120 km/h."
+msgstr "Достигните максимальной скорости в 120 км/ч."
+
+msgid "Reach a top speed of 300 km/h."
+msgstr "Достигните максимальной скорости в 300 км/ч."
+
+msgid "Reach an emission value of 80 in a town."
+msgstr "Достигните 80 дБ уровня шума в городе."
+
+msgid "Reach the maximum headquarters level."
+msgstr "Достигните максимального уровня головной конторы."
+
+msgid "Reach the present."
+msgstr "Достигните настоящего времени."
+
+msgid "Reach the year 2050 using only trains."
+msgstr "Достигните 2050 года, используя только поезда."
+
+msgid "Reading heightmap..."
+msgstr "Чтение карты высот..."
+
+msgid "Real estate"
+msgstr "Недвижимость"
+
+msgid "Record key frame"
+msgstr "Создать ключевой кадр"
+
+msgid "Refittable"
+msgstr "Возможно переоснастить"
+
+msgid "Reflection"
+msgstr "Отражение"
+
+msgid "Refresh"
+msgstr "Обновить"
+
+msgid "Relative mode"
+msgstr "Режим относительности"
+
+msgid "Relocate"
+msgstr "Переместить"
+
+msgid "Remove all"
+msgstr "Убрать все"
+
+msgid "Remove all connections"
+msgstr "Убрать все основные дороги"
+
+msgid "Remove all stations and waypoints"
+msgstr "Убрать все станции и путевые точки"
+
+msgid "Remove all stations?"
+msgstr "Убрать все станции?"
+
+msgid "Remove attachment"
+msgstr "Убрать приложение"
+
+msgid "Remove station or waypoint"
+msgstr "Убрать станцию или путевую точку"
+
+msgid "Remove vehicle"
+msgstr "Убрать транспорт"
+
+msgid "Rename"
+msgstr "Переименовать"
+
+msgid "Repay %1%"
+msgstr "Вернуть %1%"
+
+msgid "Replace all vehicles"
+msgstr "Заменить все транспортные средства"
+
+msgid "Replace for "
+msgstr "Заменить на "
+
+msgid "Replace selected vehicle"
+msgid_plural "Replace selected vehicles"
+msgstr[0] "Заменить выбранное транспортное средство"
+msgstr[1] "Заменить выбранные транспортные средства"
+msgstr[2] "Заменить выбранные транспортные средства"
+
+msgid "Replace vehicle"
+msgstr "Заменить транспорт"
+
+msgid "Replace vehicles"
+msgstr "Заменить транспорт"
+
+msgid "Replacement vehicle not set"
+msgstr "Не указан транспорт для замены"
+
+msgid "Replacing vehicle"
+msgstr "Заменяем транспорт"
+
+msgid "Requirements"
+msgstr "Требования"
+
+msgid "Reset color"
+msgstr "Сбросить цвет"
+
+msgid "Reset key mapping to default?"
+msgstr "Установить раскладку клавиатуры по умолчанию?"
+
+msgid "Reset to default"
+msgstr "Установить по умолчанию"
+
+msgid "Reset vehicle"
+msgstr "Сбросить транспорт"
+
+msgid "Residential"
+msgstr "Жилой район"
+
+msgid "Residential area"
+msgstr "Жилая зона"
+
+msgid "Residential building"
+msgstr "Жилое здание"
+
+msgid "Residents"
+msgstr "Жители"
+
+msgid "Resolution"
+msgstr "Разрешение"
+
+msgid "Restart"
+msgstr "Начать заново"
+
+msgid "Restart game and apply settings"
+msgstr "Перезапустить игру и применить настройки"
+
+msgid "Restart the mission"
+msgstr "Начать задание заново"
+
+msgid "Resume"
+msgstr "Продолжить"
+
+msgid "Resume game"
+msgstr "Продолжить игру"
+
+msgid "Return to campaign menu"
+msgstr "Вернуться в меню кампании"
+
+msgid "Return to main menu"
+msgstr "Вернуться в главное меню"
+
+msgid "Return to previous page"
+msgstr "Вернуться на предыдущую страницу"
+
+msgid "Reverse"
+msgstr "Отменить действие"
+
+msgid "Road"
+msgstr "Дорога"
+
+msgid "Road depot"
+msgstr "Дорожное депо"
+
+msgid "Road vehicle"
+msgid_plural "Road vehicles"
+msgstr[0] "Дорожный транспорт"
+msgstr[1] "Дорожный транспорт"
+msgstr[2] "Дорожный транспорт"
+
+msgid "Road vehicle %1%"
+msgstr "Дорожный транспорт: %1%"
+
+msgid "Road vehicles"
+msgstr "Дорожный транспорт"
+
+msgid "Roads"
+msgstr "Дороги"
+
+msgid ""
+"Rotate construction with <%1%> and <%2%> keys.\n"
+"Lower/raise construction with <%3%> and <%4%> keys."
+msgstr ""
+"Вращайте конструкцию с помощью клавиш <%1%> и <%2%>.\n"
+"Поднимайте и опускайте конструкцию с помощью клавиш <%3%> и <%4%>."
+
+msgid "Rotation"
+msgstr "Вращение"
+
+msgid "Rule"
+msgstr "Правило"
+
+msgid "Running"
+msgstr "Движется"
+
+msgid "Running costs"
+msgstr "Текущие расходы"
+
+msgid "Running costs: +%1%%%"
+msgstr "Текущие расходы: +%1%%%"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Save and apply settings"
+msgstr "Сохранить и применить настройки"
+
+msgid "Save camera config"
+msgstr "Сохранить настройки камеры"
+
+msgid "Save game"
+msgstr "Сохранить игру"
+
+msgid "Save key frames"
+msgstr "Сохранить ключевые кадры"
+
+msgid "Save map"
+msgstr "Сохранить карту"
+
+msgid "Save the settings"
+msgstr "Сохранить настройки"
+
+msgid "Saved game \"%1%\""
+msgstr "Сохранённая игра «%1%»"
+
+msgid "Saving..."
+msgstr "Сохранение..."
+
+msgid "Scale"
+msgstr "Масштабирование"
+
+msgid "Sculpturer"
+msgstr "Скульптор"
+
+msgid "Search for line..."
+msgstr "Поиск маршрута..."
+
+msgid "Search for mod..."
+msgstr "Поиск модификаций..."
+
+msgid "Search for modules..."
+msgstr "Поиск модулей..."
+
+msgid "Search for vehicle..."
+msgstr "Поиск транспорта..."
+
+msgid "Search..."
+msgstr "Поиск..."
+
+msgid "See your achievements"
+msgstr "Просмотреть достижения"
+
+msgid "Seed:"
+msgstr "Источник:"
+
+msgid "Select"
+msgstr "Выбрать"
+
+msgid "Select Campaign"
+msgstr "Выбор кампании"
+
+msgid "Select bit depth of grayscale image"
+msgstr "Выберите разрядность черно-белого изображения"
+
+msgid "Select generator"
+msgstr "Выбрать генератор"
+
+msgid "Select generator:"
+msgstr "Выбрать генератор:"
+
+msgid "Select options"
+msgstr "Выберите настройки"
+
+msgid "Select terminal for this stop"
+msgstr "Выбрать терминал для этой остановки"
+
+msgid "Select the campaign"
+msgstr "Выбрать кампанию"
+
+msgid "Select vehicle"
+msgstr "Выбрать транспортное средство"
+
+msgid "Sell"
+msgstr "Продать"
+
+msgid "Sell all vehicles"
+msgstr "Продать весь транспорт"
+
+msgid "Sell all vehicles?"
+msgstr "Продать все транспортные средства?"
+
+msgid "Sell selected vehicle"
+msgid_plural "Sell selected vehicles"
+msgstr[0] "Продать выбранное транспортное средство"
+msgstr[1] "Продать выбранные транспортные средства"
+msgstr[2] "Продать выбранные транспортные средства"
+
+msgid "Sell selected vehicle?"
+msgid_plural "Sell selected vehicles?"
+msgstr[0] "Продать выбранное транспортное средство?"
+msgstr[1] "Продать выбранные транспортные средства?"
+msgstr[2] "Продать выбранные транспортные средства?"
+
+msgid "Sell vehicle"
+msgstr "Продать транспортное средство"
+
+msgid "Send all vehicles to depot"
+msgstr "Отправить весь транспорт в депо"
+
+msgid "Send all vehicles to depot?"
+msgstr "Отправить весь транспорт в депо?"
+
+msgid "Send crash reports"
+msgstr "Отправить отчёты о вылетах игры"
+
+msgid "Send selected vehicle to depot"
+msgid_plural "Send selected vehicles to depot"
+msgstr[0] "Отправить выбранное транспортное средство в депо"
+msgstr[1] "Отправить выбранные транспортные средства в депо"
+msgstr[2] "Отправить выбранные транспортные средства в депо"
+
+msgid "Send to depot"
+msgstr "Отослать в депо"
+
+msgid "Set color for all vehicles"
+msgstr "Назначить цвет всем транспортным средствам"
+
+msgid "Set color for selected vehicle"
+msgid_plural "Set color for selected vehicles"
+msgstr[0] "Назначить цвет выбранному транспортному средству"
+msgstr[1] "Назначить цвет выбранным транспортным средствам"
+msgstr[2] "Назначить цвет выбранным транспортным средствам"
+
+msgid "Set line"
+msgstr "Задать маршрут"
+
+msgid "Set output frame rate to %1% fps"
+msgstr "Установить итоговую частоту кадров: %1% к/сек"
+
+msgid "Set output game speed up to %1%"
+msgstr "Установить итоговую скорость игры: %1%"
+
+msgid "Set output resolution to %1% x %2%"
+msgstr "Установить итоговое разрешение: %1% x %2%"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Settings..."
+msgstr "Настройки..."
+
+msgid "Settled down"
+msgstr "Начало положено"
+
+msgid "Setup a line so that town residents use your vehicles."
+msgstr ""
+"Создайте маршрут, чтобы жители города смогли воспользоваться вашим "
+"транспортом."
+
+msgid "Shadows"
+msgstr "Тени"
+
+msgid "Share"
+msgstr "Опубликовать"
+
+msgid "Ship"
+msgid_plural "Ships"
+msgstr[0] "Корабль"
+msgstr[1] "Корабли"
+msgstr[2] "Корабли"
+
+msgid "Ship %1%"
+msgstr "Корабль: %1%"
+
+msgid "Shipment"
+msgstr "Доставка"
+
+msgid "Shipped"
+msgstr "Поставлено"
+
+msgid "Shipping"
+msgstr "Доставка"
+
+msgid "Ships"
+msgstr "Корабли"
+
+msgid "Shipyard"
+msgstr "Верфь"
+
+msgid "Shop"
+msgstr "Магазин"
+
+msgid "Shopping"
+msgstr "В магазине"
+
+msgid "Shopping facilities"
+msgstr "Торговые предприятия"
+
+msgid "Show advanced options"
+msgstr "Показать расширенные настройки"
+
+msgid "Show all"
+msgstr "Показать все"
+
+msgid "Show loading order"
+msgstr "Показать порядок загрузки"
+
+msgid "Show only visible lines"
+msgstr "Показывать только видимые маршруты"
+
+msgid "Show the mod loading order so that it can be specified manually"
+msgstr ""
+"Показать порядок загрузки модификаций, чтобы при необходимости изменить его "
+"вручную"
+
+msgid "Show unsupported hardware warning"
+msgstr ""
+"Показать предупреждение об отсутствии поддержки аппаратного оборудования"
+
+msgid "Show/hide HUD icon filter menu"
+msgstr "Показать/скрыть меню фильтра по значкам интерфейса"
+
+msgid "Show/hide air menu"
+msgstr "Показать/скрыть воздушное меню"
+
+msgid "Show/hide assets menu"
+msgstr "Показать/скрыть меню объектов"
+
+msgid "Show/hide cargo layer"
+msgstr "Показать/скрыть слой грузов"
+
+msgid "Show/hide contour lines layer"
+msgstr "Показать/скрыть слой контурных линий"
+
+msgid "Show/hide data layers menu"
+msgstr "Показать/скрыть меню информационных слоёв"
+
+msgid "Show/hide destinations layer"
+msgstr "Показать/скрыть слой пунктов назначения"
+
+msgid "Show/hide emission layer"
+msgstr "Показать/скрыть слой шумового загрязнения"
+
+msgid "Show/hide industry statistics"
+msgstr "Показать/скрыть статистику промышленности"
+
+msgid "Show/hide land use layer"
+msgstr "Показать/скрыть слой землепользования"
+
+msgid "Show/hide line manager"
+msgstr "Показать/скрыть менеджер линий"
+
+msgid "Show/hide line statistics"
+msgstr "Показать/скрыть статистику маршрутов"
+
+msgid "Show/hide list of achievements"
+msgstr "Показать/скрыть список достижений"
+
+msgid "Show/hide load game dialog"
+msgstr "Показать/скрыть диалог загрузки игры"
+
+msgid "Show/hide music player"
+msgstr "Показать/скрыть музыкальный проигрыватель"
+
+msgid "Show/hide navigable waters layer"
+msgstr "Показать/скрыть слой судоходных вод"
+
+msgid "Show/hide options panel"
+msgstr "Показать/скрыть панель настроек"
+
+msgid "Show/hide quit dialog"
+msgstr "Показать/скрыть диалог выхода"
+
+msgid "Show/hide save game dialog"
+msgstr "Показать/скрыть диалог сохранения игры"
+
+msgid "Show/hide settings dialog"
+msgstr "Показать/скрыть диалог настроек"
+
+msgid "Show/hide station statistics"
+msgstr "Показать/скрыть статистику станций"
+
+msgid "Show/hide stations layer"
+msgstr "Показать/скрыть слой станций"
+
+msgid "Show/hide statistics window"
+msgstr "Показать/скрыть окно статистики"
+
+msgid "Show/hide street constructions menu"
+msgstr "Показать/скрыть меню строительства улиц"
+
+msgid "Show/hide street modification tools menu"
+msgstr "Показать/скрыть меню инструментов для изменения улиц"
+
+msgid "Show/hide street traffic layer"
+msgstr "Показать/скрыть слой уличного движения"
+
+msgid "Show/hide street waypoints menu"
+msgstr "Показать/скрыть меню путевых точек улиц"
+
+msgid "Show/hide streets menu"
+msgstr "Показать/скрыть меню улиц"
+
+msgid "Show/hide terrain paint tools menu"
+msgstr "Показать/скрыть меню инструментов для раскраски рельефа"
+
+msgid "Show/hide terrain tools menu"
+msgstr "Показать/скрыть меню инструментов для изменения рельефа"
+
+msgid "Show/hide town statistics"
+msgstr "Показать/скрыть статистику городов"
+
+msgid "Show/hide track modification tools menu"
+msgstr "Показать/скрыть меню инструментов для изменения путей"
+
+msgid "Show/hide track signals menu"
+msgstr "Показать/скрыть меню сигналов путей"
+
+msgid "Show/hide track speed limits layer"
+msgstr "Показать/скрыть слой ограничений скорости"
+
+msgid "Show/hide track waypoints menu"
+msgstr "Показать/скрыть меню путевых точек путей"
+
+msgid "Show/hide tracks menu"
+msgstr "Показать/скрыть меню путей"
+
+msgid "Show/hide vehicle manager"
+msgstr "Показать/скрыть менеджер транспорта"
+
+msgid "Show/hide vehicle statistics"
+msgstr "Показать/скрыть статистику транспорта"
+
+msgid "Show/hide warnings window"
+msgstr "Показать/скрыть окошко с предупреждениями"
+
+msgid "Show/hide water menu"
+msgstr "Показать/скрыть водное меню"
+
+msgid "Signal #%1%"
+msgstr "Сигнал № %1%"
+
+msgid "Signals"
+msgstr "Сигналы"
+
+msgid "Signals must be removed first"
+msgstr "Сперва нужно удалить светофоры"
+
+msgid "Single"
+msgstr "Одиночная"
+
+msgid "Size"
+msgstr "Размер"
+
+msgid "Skip collision"
+msgstr "Игнорировать столкновения"
+
+msgid "Sky"
+msgstr "Небо"
+
+msgid "Slope threshold"
+msgstr "Граница наклона"
+
+msgid "Small"
+msgstr "Маленький"
+
+msgid "Smooth the terrain."
+msgstr "Сглаживает ландшафт."
+
+msgid "Smooth tool"
+msgstr "Инструмент «Сглаживание»"
+
+msgid ""
+"Some DLCs and/or mods could not be found. Please install them first in order "
+"to load this savegame."
+msgstr ""
+"Не удалось найти некоторые %s и/или моды. Установите их прежде чем загружать "
+"эту сохраненную игру."
+
+msgid "Some cargo items are lost because station is overloaded."
+msgstr "Некоторые грузы теряются из-за перегруженности станций."
+
+msgid "Some passengers leave because station is overloaded."
+msgstr "Некоторые пассажиры покидают перегруженные станции."
+
+msgid "Sound effects"
+msgstr "Звуковые эффекты"
+
+msgid "Source"
+msgstr "Источник"
+
+msgid "Spawning animals..."
+msgstr "Создание животных..."
+
+msgid "Specify vehicle"
+msgstr "Назначить транспорт"
+
+msgid "Speed"
+msgstr "Скорость"
+
+msgid "Speed of light"
+msgstr "Скорость света"
+
+msgid "Speed units"
+msgstr "Единицы скорости"
+
+msgid "Speed: 1x"
+msgstr "Скорость: 1x"
+
+msgid "Speed: 2x"
+msgstr "Скорость: 2x"
+
+msgid "Speed: 4x"
+msgstr "Скорость: 4x"
+
+msgid "Start"
+msgstr "Начать"
+
+msgid "Start a new game"
+msgstr "Начать новую игру"
+
+msgid "Start mission"
+msgstr "Начать задание"
+
+msgid "Start preview"
+msgstr "Начать предварительный просмотр"
+
+msgid "Start recording"
+msgstr "Начать запись"
+
+msgid "Start the game"
+msgstr "Начать игру"
+
+msgid "Start upload"
+msgstr "Начать загрузку в сеть"
+
+msgid "Start year:"
+msgstr "Стартовый год:"
+
+msgid "Station"
+msgstr "Станция"
+
+msgid "Station %1% appears consecutively twice"
+msgstr "Станция %1% последовательно появляется дважды"
+
+msgid "Station appears consecutively twice"
+msgstr "Станция последовательно появляется дважды"
+
+msgid "Station statistics"
+msgstr "Статистика станций"
+
+msgid "Station types don't match (e.g. bus stop and train station)"
+msgstr ""
+"Типы станций не совпадают (напр., остановка автобуса и станция железной "
+"дороги)"
+
+msgid "Stations"
+msgstr "Станции"
+
+msgid "Stations layer"
+msgstr "Слой станций"
+
+msgid "Stations report the following problems:"
+msgstr "На станциях возникли следующие проблемы:"
+
+msgid "Steam"
+msgstr "Пар"
+
+msgid "Steam API init failed"
+msgstr "Не удалось инициализировать Steam API"
+
+msgid "Steam Train"
+msgstr "Паровоз"
+
+msgid "Stocks"
+msgstr "Запасы"
+
+msgid "Stop"
+msgstr "Стоп"
+
+msgid "Stop #%1%"
+msgstr "Остановка № %1%"
+
+msgid "Stop can not be used with current vehicles"
+msgstr "Остановка не может использоваться с текущими транспортными средствами"
+
+msgid "Stop preview"
+msgstr "Остановить предварительный просмотр"
+
+msgid "Stopped"
+msgstr "Остановился"
+
+msgid "Stopping"
+msgstr "Останавливается"
+
+msgid "Stops must be removed first"
+msgstr "Сперва нужно удалить остановки"
+
+msgid "Stored"
+msgstr "В запасе"
+
+msgid "Street constructions"
+msgstr "Уличные конструкции"
+
+msgid "Street modification tools"
+msgstr "Инструменты для изменения улиц"
+
+msgid "Street traffic layer"
+msgstr "Слой уличного движения"
+
+msgid "Streets"
+msgstr "Улицы"
+
+msgid "Strength"
+msgstr "Сила"
+
+msgid "Subtitle %1%"
+msgstr "Субтитр %1%"
+
+msgid "Subtitles"
+msgstr "Субтитры"
+
+msgid "Successfully connected all stations"
+msgstr "Все станции успешно соединены"
+
+msgid "Suppliers"
+msgstr "Поставщики"
+
+msgid "Supply"
+msgstr "Обеспеченность"
+
+msgid "Supply rating"
+msgstr "Норма снабжения"
+
+msgid "Table"
+msgstr "Таблица"
+
+msgid "Tag(s):"
+msgstr "Метка (метки):"
+
+msgid "Tags"
+msgstr "Тэги"
+
+msgid "Target population"
+msgstr "Прогнозируемая численность населения"
+
+msgid "Task completed"
+msgstr "Задание выполнено"
+
+msgid "Tasks"
+msgstr "Задания"
+
+msgid "Team"
+msgstr "Команда"
+
+msgid "Terminal %1%"
+msgstr "Терминал %1%"
+
+msgid "Terminals"
+msgstr "Терминалы"
+
+msgid "Terrain"
+msgstr "Ландшафт"
+
+msgid "Terrain tools"
+msgstr "Инструмент для изменения рельефа"
+
+msgid "Text"
+msgstr "Текст"
+
+msgid "Textures"
+msgstr "Текстуры"
+
+msgid "The condition of %1% is very poor."
+msgstr "%1% в плохом состоянии."
+
+msgid "The condition of multiple vehicles is very poor."
+msgstr "Несколько транспортных средств находятся в плохом состоянии."
+
+msgid "The existing Steam Workshop item will be updated"
+msgstr "Существующий объект в Steam Workshop будет изменен"
+
+msgid "The future is now, old man"
+msgstr "Будущее наступило, старик"
+
+msgid "The heightmap \"%1%\" already exists. Do you want to overwrite it?"
+msgstr "Карта высот «%1%» уже существует. Перезаписать её?"
+
+msgid "The initial size of %1%"
+msgstr "Первоначальный размер: %1%"
+
+msgid "The king of the sea"
+msgstr "Король морей"
+
+msgid "The number of jobs in %1%"
+msgstr "Число рабочих мест в городе %1%"
+
+msgid "The number of residents in %1% is growing"
+msgstr "Число жителей города %1% увеличивается"
+
+msgid "The number of residents in %1% is shrinking"
+msgstr "Число жителей города %1% уменьшается"
+
+msgid "The number of residents in %1% is stable"
+msgstr "Число жителей города %1% не меняется"
+
+msgid "The number of shopping facilities in %1%"
+msgstr "Число магазинов в городе %1%"
+
+msgid "The number or residents %1% will grow/shrink to"
+msgstr "Число граждан, на которое вырастет/уменьшится население %1%"
+
+msgid "The savegame \"%1%\" already exists. Do you want to overwrite it?"
+msgstr "Сохраненная игра «%1%» уже существует. Перезаписать её?"
+
+msgid "The total growth"
+msgstr "Общий рост"
+
+msgid "The ugly smell of success"
+msgstr "Вонь успеха"
+
+msgid "There are %1% vehicles to be replaced"
+msgstr "Можно заменить %1% транспортных средств"
+
+msgid "There are no warnings!"
+msgstr "Предупреждений нет!"
+
+msgid "There is one vehicle to be replaced"
+msgstr "Можно заменить один транспорт"
+
+msgid ""
+"This mod's format is deprecated. Please contact the author to obtain an up-"
+"to-date version."
+msgstr ""
+"Формат этого мода устарел. Пожалуйста, свяжитесь с его автором, чтобы "
+"получить последнюю версию."
+
+msgid "This warning can be deactivated in the settings Advanced tab."
+msgstr "Это предупреждение можно отключить во вкладке расширенных настроек."
+
+msgid "Thrust"
+msgstr "Тяга"
+
+msgid "Tickets"
+msgstr "Билеты"
+
+msgid "Time"
+msgstr "Время"
+
+msgid "Time scale"
+msgstr "Шкала времени"
+
+msgid "Tiny"
+msgstr "Крошечный"
+
+msgid "To Desktop"
+msgstr "На рабочий стол"
+
+msgid "To main menu"
+msgstr "В главное меню"
+
+msgid "Today, %1%"
+msgstr "Сегодня, %1%"
+
+msgid "Toggle camera positions with <Page Up> and <Page Down> keys"
+msgstr "Меняйте положение камеры с помощью кнопок <Page Up> и <Page Down>"
+
+msgid "Toggle precedence"
+msgstr "Переключить приоритет"
+
+msgid "Toggle traffic light"
+msgstr "Переключить светофоры"
+
+msgid "Too much curvature"
+msgstr "Слишком резкий изгиб"
+
+msgid "Too much slope"
+msgstr "Слишком сильный уклон"
+
+msgid "Top length (rail)"
+msgstr "Предельная длина (железная дорога)"
+
+msgid "Top speed"
+msgstr "Предельная скорость"
+
+msgid "Top speed for slopes:"
+msgstr "Максимальная скорость на склонах"
+
+msgid "Total"
+msgstr "Итого"
+
+msgid "Total bridges"
+msgstr "Всего мостов"
+
+msgid "Total electrified"
+msgstr "Всего электрифицировано"
+
+msgid "Total growth: %1% residents"
+msgstr "Общий рост: %1% граждан"
+
+msgid "Total high-speed"
+msgstr "Всего высокоскоростных"
+
+msgid "Total length of train is %s"
+msgstr "Полная длина поезда – %s"
+
+msgid "Total tracks"
+msgstr "Всего путей"
+
+msgid "Total tunnels"
+msgstr "Всего туннелей"
+
+msgid "Town"
+msgstr "Город"
+
+msgid ""
+"Town authorities complain about following interrupted street connections:"
+msgstr "Городские власти жалуются на следующие прерванные уличные связи:"
+
+msgid "Town builder"
+msgstr "Конструктор городов"
+
+msgid "Town statistics"
+msgstr "Статистика городов"
+
+msgid "Towns"
+msgstr "Города"
+
+msgid "Towns/industries"
+msgstr "Города/промышленные объекты"
+
+msgid "Track modification tool"
+msgstr "Инструмент для изменения путей"
+
+msgid "Track modification tools"
+msgstr "Инструменты для изменения путей"
+
+msgid "Track speed limits layer"
+msgstr "Слой ограничений скорости"
+
+msgid "Tracks"
+msgstr "Пути"
+
+msgid "Tractive effort"
+msgstr "Тяговое усилие"
+
+msgid "Traffic"
+msgstr "Трафик"
+
+msgid "Traffic lights"
+msgstr "Светофоры"
+
+msgid "Train"
+msgid_plural "Trains"
+msgstr[0] "Поезд"
+msgstr[1] "Поезда"
+msgstr[2] "Поезда"
+
+msgid "Train %1%"
+msgstr "Поезд: %1%"
+
+msgid "Train Fever"
+msgstr "Железнодорожная лихорадка"
+
+msgid "Train depot"
+msgstr "Железнодорожное депо"
+
+msgid "Train does not have a locomotive"
+msgstr "У состава нет локомотива"
+
+msgid "Trains"
+msgstr "Поезда"
+
+msgid "Trains mutually blocked"
+msgstr "Поезда взаимно заблокированы"
+
+msgid "Tram"
+msgid_plural "Trams"
+msgstr[0] "Трамвай"
+msgstr[1] "Трамвая"
+msgstr[2] "Трамваев"
+
+msgid "Tram %1%"
+msgstr "Трамвай: %1%"
+
+msgid "Tram depot"
+msgstr "Трамвайные депо"
+
+msgid "Tram track"
+msgstr "Трамвайные пути"
+
+msgid "Tram track tool"
+msgstr "Инструмент «Трамвайные пути»"
+
+msgid "Trams"
+msgstr "Трамваи"
+
+msgid "Trans-Siberian Railway"
+msgstr "Транссибирская магистраль"
+
+msgid "Transport"
+msgstr "Транспорт"
+
+msgid "Transport belt"
+msgstr "Транспортный пояс"
+
+msgid "Transport corporation"
+msgstr "Транспортная корпорация"
+
+msgid "Transport master"
+msgstr "Мастер по транспорту"
+
+msgid "Transport millionaire"
+msgstr "Транспортный миллионер"
+
+msgid "Transport shark"
+msgstr "Транспортная акула"
+
+msgid "Transport shark (Hard mode)"
+msgstr "Транспортная акула (сложный режим)"
+
+msgid "Transport tycoon"
+msgstr "Транспортный магнат"
+
+msgid "Transport tycoon (Hard mode)"
+msgstr "Транспортный магнат (сложный режим)"
+
+msgid "Transported"
+msgstr "Перевезено"
+
+msgid "Truck"
+msgstr "Грузовик"
+
+msgid "Truck Fever"
+msgstr "Дальнобойная лихорадка"
+
+msgid "Truck station"
+msgstr "Стоянка для грузовиков"
+
+msgid "Try to fix problem automatically"
+msgstr "Попытайтесь решить проблему автоматически"
+
+msgid "Try to ship more items"
+msgstr "Попытайтесь перевезти больше грузов"
+
+msgid "Tunnel"
+msgstr "Туннель"
+
+msgid "Turn music on"
+msgstr "Включить музыку"
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "Types of stations %1% and %2% don't match"
+msgstr "Типы станций %1% и %2% не совпадают"
+
+msgid "USA"
+msgstr "США"
+
+msgid "Unable to align terrain"
+msgstr "Невозможно выровнять местность"
+
+msgid "Unable to find path to depot"
+msgstr "Невозможно найти путь в депо"
+
+msgid "Unable to find path to stop"
+msgstr "Невозможно найти путь к остановке"
+
+msgid "Unconnected streets"
+msgstr "Несоединённые улицы"
+
+msgid "Unemployed"
+msgstr "Безработный"
+
+msgid "Unknown Entity"
+msgstr "Неизвестная сущность"
+
+msgid "Unload"
+msgstr "Разгрузить"
+
+msgid "Unload only"
+msgstr "Только разгрузка"
+
+msgid "Unloaded"
+msgstr "Разгружен"
+
+msgid "Unsubscribe"
+msgstr "Отменить подписку"
+
+msgid "Up"
+msgstr "Вверх"
+
+msgid "Update"
+msgstr "Обновить"
+
+msgid "Upgrade"
+msgstr "Улучшение"
+
+msgid "Upgrade streets with bus lanes."
+msgstr "Проложить по улице автобусную полосу."
+
+msgid "Upgrade streets with tram tracks."
+msgstr "Проложить по улице трамвайные пути."
+
+msgid "Upgrade tracks for higher speeds."
+msgstr "Улучшить рельсы для высокоскоростных поездов."
+
+msgid "Upgrade tracks with catenary."
+msgstr "Добавить контактную сеть"
+
+msgid "Upload"
+msgstr "Загрузить в сеть"
+
+msgid "Upload mod to Steam Workshop"
+msgstr "Загрузить мод в Steam Workshop"
+
+msgid "Upload successful"
+msgstr "Загрузка успешна"
+
+msgid "Upload to Steam Workshop"
+msgstr "Загрузить мод в Steam Workshop"
+
+msgid "Uploading..."
+msgstr "Загрузка в сеть..."
+
+msgid "Upper %1%"
+msgstr "Верхний %1%"
+
+msgid "Use <Alt> + <Enter> to toggle between full-screen and windowed mode."
+msgstr ""
+"Используйте <Alt> + <Enter> для переключения между полноэкранным и оконным "
+"режимом."
+
+msgid "Use default connections"
+msgstr "Использовать дороги по умолчанию"
+
+msgid "Use hardware mouse cursor"
+msgstr "Аппаратный курсор мыши"
+
+msgid "Use the paint tool to change the terrain."
+msgstr "Раскрасьте рельеф с помощью специального инструмента."
+
+msgid "Use the terrain tool to change the terrain."
+msgstr "Измените рельеф с помощью специального инструмента."
+
+msgid "User profile creation failed"
+msgstr "Не удалось создать профиль пользователя"
+
+msgid "Using the time control, go back in time."
+msgstr "Воспользуйтесь управлением временем, чтобы вернуть в прошлое."
+
+msgid "Vacant"
+msgstr "Свободно"
+
+msgid "Value"
+msgstr "Цена"
+
+msgid "Vehicle"
+msgstr "Транспорт"
+
+msgid "Vehicle condition %1%%%"
+msgstr "Состояние транспорта %1%%%"
+
+msgid "Vehicle in the way"
+msgstr "Дорога перекрыта транспортным средством"
+
+msgid "Vehicle lifetime"
+msgstr "Срок службы транспортных средств"
+
+msgid "Vehicle manager"
+msgstr "Менеджер транспорта"
+
+msgid "Vehicle statistics"
+msgstr "Статистика транспорта"
+
+msgid "Vehicle store"
+msgstr "Магазин транспортных средств"
+
+msgid "Vehicle will be sold on arrival"
+msgstr "Транспортное средство будет продано по прибытии"
+
+msgid "Vehicles"
+msgstr "Транспорт"
+
+msgid "Vehicles on line"
+msgstr "Транспорт на маршруте"
+
+msgid "Vehicles report following problems:"
+msgstr "С транспортом выявлены следующие проблемы:"
+
+msgid "Very Large"
+msgstr "Очень больш."
+
+msgid "Very bad"
+msgstr "Очень плохо"
+
+msgid "Very good"
+msgstr "Очень хорошо"
+
+msgid "Very high"
+msgstr "Очень выс."
+
+msgid "Very low"
+msgstr "Очень низк."
+
+msgid "Very poor"
+msgstr "Очень плохо"
+
+msgid "Video"
+msgstr "Видео"
+
+msgid "View terms"
+msgstr "Просмотреть условия"
+
+msgid "Voice-over"
+msgstr "Закадровый голос"
+
+msgid "Voice-over %1%"
+msgstr "Дубляж %1%"
+
+msgid "Volume settings"
+msgstr "Настройки громкости"
+
+msgid "Wagons"
+msgstr "Вагоны"
+
+msgid "Waiting for free path"
+msgstr "Ожидание свободного пути"
+
+msgid "Warning: Make sure %1% is connected to the street network!"
+msgstr "Предупреждение: Удостоверьтесь, что %1% подсоед. к уличной сети!"
+
+msgid "Warning: adding this mod may lead to unexpected results."
+msgstr ""
+"Предупреждение: добавление этой модификации может привести к непредвиденным "
+"последствиям."
+
+msgid "Warning: adding this mod will likely cause the game to crash."
+msgstr ""
+"Предупреждение: добавление этой модификации может привести к вылету игры."
+
+msgid "Warning: removing this mod may lead to unexpected results."
+msgstr ""
+"Предупреждение: удаление этой модификации может привести к непредвиденным "
+"последствиям."
+
+msgid "Warning: removing this mod will likely cause the game to crash."
+msgstr ""
+"Предупреждение: удаление этой модификации может привести к вылету игры."
+
+msgid "Warnings"
+msgstr "Предупреждения"
+
+msgid "Water"
+msgstr "Водный транспорт"
+
+msgid "Water level:"
+msgstr "Уровень воды:"
+
+msgid "Waypoint #%1%"
+msgstr "Путевая точка № %1%"
+
+msgid "Waypoints"
+msgstr "Путевые точки"
+
+msgid "Weight"
+msgstr "Вес"
+
+msgid "Weight %1% + %2% (Cargo)"
+msgstr "Вес %1% + %2% (Грузы)"
+
+msgid "Weight units"
+msgstr "Единицы веса"
+
+msgid ""
+"When waiting for full load, depart after the specified period of inactivity"
+msgstr ""
+"В ожидании полной загрузки уезжать после определенного периода бездействия"
+
+msgid "Window settings"
+msgstr "Настройки окна"
+
+msgid "Windowed"
+msgstr "Оконный"
+
+msgid "With lines"
+msgstr "С линиями"
+
+msgid "Work"
+msgstr "Работа"
+
+msgid "Workplaces"
+msgstr "Рабочие места"
+
+msgid "Write STL"
+msgstr "Записать STL"
+
+msgid "Write additional STL file with heightmap data"
+msgstr "Записать дополнительный STL-файл с данными карты высот"
+
+msgid "Wrong carrier"
+msgstr "Неверный перевозчик"
+
+msgid "Year built"
+msgstr "Год постройки"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "Yesterday, %1%"
+msgstr "Вчера, %1%"
+
+msgid "You can win"
+msgstr "Вы можете победить"
+
+msgid "You did it!"
+msgstr "Вы справились!"
+
+msgid "You have finished %s"
+msgstr "Вы завершили задание %s!"
+
+msgid "You have finished the %s campaign!"
+msgstr "Вы завершили кампанию %s!"
+
+msgid "You will be challenged"
+msgstr "Вам придется нелегко"
+
+msgid "You will go bankrupt"
+msgstr "Вы обанкротитесь"
+
+msgid "Zoom in to build"
+msgstr "Увеличьте масштаб, чтобы начать строительство"
+
+msgid "Zoom to cursor"
+msgstr "Приближать к курсору"
+
+msgid "[UserData]/"
+msgstr "[UserData]/"
+
+msgid "around %1%"
+msgstr "примерно %1%"
+
+msgid "can not reach next"
+msgstr "невозможно достичь следующ."
+
+msgctxt "depot-name"
+msgid "%1% %2%"
+msgstr "%1% %2%"
+
+msgctxt "depot-name"
+msgid "%1% %2% #%3%"
+msgstr "%1% %2% #%3%"
+
+msgctxt "destination"
+msgid "None"
+msgstr "Нет"
+
+msgctxt "distance-unit"
+msgid "Feet"
+msgstr "Фут"
+
+msgctxt "distance-unit"
+msgid "Mile"
+msgstr "Миля"
+
+msgctxt "distance-unit"
+msgid "Yard"
+msgstr "Ярд"
+
+msgctxt "distance-unit"
+msgid "km"
+msgstr "км"
+
+msgctxt "distance-unit"
+msgid "m"
+msgstr "м"
+
+msgctxt "dlc-name"
+msgid "Nordic"
+msgstr "Скандинавские страны"
+
+msgctxt "dlc-name"
+msgid "USA"
+msgstr "США"
+
+msgctxt "force-unit"
+msgid "kN"
+msgstr "кН"
+
+msgctxt "force-unit"
+msgid "kgf"
+msgstr "кгс"
+
+msgctxt "force-unit"
+msgid "lbf"
+msgstr "фунт-сила"
+
+msgid "from %1%"
+msgstr "от %1%"
+
+msgctxt "mod-state"
+msgid "Built-in mods"
+msgstr "Встроенные модификации"
+
+msgctxt "mod-state"
+msgid "Staging area"
+msgstr "Пункт сбора"
+
+msgctxt "mod-state"
+msgid "Uploaded to Steam Workshop"
+msgstr "Загружено в Steam Workshop"
+
+msgctxt "mod-state"
+msgid "User mods"
+msgstr "Пользовательские модификации"
+
+msgid "none"
+msgstr "нет"
+
+msgid "not combinable"
+msgstr "невозможно объединить"
+
+msgid "not reachable from previous"
+msgstr "недоступен из предыдущ."
+
+msgctxt "number-format"
+msgid "Full"
+msgstr "Полный"
+
+msgctxt "number-format"
+msgid "Short"
+msgstr "Короткий"
+
+msgctxt "plural"
+msgid "Aircraft"
+msgstr "Самолёт"
+
+msgctxt "power-unit"
+msgid "hp"
+msgstr "л.с."
+
+msgctxt "power-unit"
+msgid "kW"
+msgstr "квт"
+
+msgctxt "settings"
+msgid "Localization"
+msgstr "Локализация"
+
+msgctxt "speed-unit"
+msgid "km/h"
+msgstr "км/ч"
+
+msgctxt "speed-unit"
+msgid "mph"
+msgstr "ми/ч"
+
+msgctxt "station-name"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "station-name"
+msgid "%1% %2% #%3%"
+msgstr "%1% %2% #%3%"
+
+msgctxt "stats"
+msgid "Bulldozer"
+msgstr "Бульдозер"
+
+msgctxt "stats"
+msgid "Depots"
+msgstr "Депо"
+
+msgctxt "stats"
+msgid "Other"
+msgstr "Другое"
+
+msgctxt "stats"
+msgid "Roads"
+msgstr "Дороги"
+
+msgctxt "stats"
+msgid "Signals"
+msgstr "Сигналы"
+
+msgctxt "stats"
+msgid "Stations"
+msgstr "Станции"
+
+msgctxt "stats"
+msgid "Tracks"
+msgstr "Пути"
+
+msgctxt "steam"
+msgid "Steam Workshop"
+msgstr "Steam Workshop"
+
+msgctxt "stop-name"
+msgid "%1%"
+msgstr "%1%"
+
+msgid "to %1%"
+msgstr "до %1%"
+
+msgctxt "unemployed-persons"
+msgid "none"
+msgstr "нет"
+
+msgid "unknown error"
+msgstr "неизвестная ошибка"
+
+msgid "unlimited"
+msgstr "неограничено"
+
+msgctxt "vacant-jobs"
+msgid "none"
+msgstr "нет"
+
+msgid "via"
+msgstr "через"
+
+msgctxt "weight-unit"
+msgid "kg"
+msgstr "кг"
+
+msgctxt "weight-unit"
+msgid "lb"
+msgstr "фунт"
+
+msgctxt "weight-unit"
+msgid "t/short ton"
+msgstr "т/малая тонна"
+
+msgctxt "weight-unit"
+msgid "t/tonne"
+msgstr "т/тонна"
+
+msgctxt "worldsize"
+msgid "Medium"
+msgstr "Средн."

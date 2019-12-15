@@ -1,0 +1,4543 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TransportFever\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-10 16:42+0100\n"
+"PO-Revision-Date: 2019-12-10 14:31+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.2\n"
+
+msgid "  - activate your dedicated graphics card (if available)"
+msgstr "  - activez votre carte graphique dédiée (si disponible)"
+
+msgid ""
+"  - install the latest graphics drivers (https://downloadcenter.intel.com)"
+msgstr ""
+"  - installez les derniers pilotes graphiques (https://downloadcenter.intel."
+"com)"
+
+msgid " (terminal %1%)"
+msgstr " (terminal %1%)"
+
+msgid "%1%"
+msgstr "%1%"
+
+msgid "%1% %2%"
+msgstr "%1% %2%"
+
+msgid "%1% %2% #%3%"
+msgstr "%1% %2% #%3%"
+
+msgid "%1% %2% %3% %4%"
+msgstr "%1% %2% %3% %4%"
+
+msgid "%1% + %2%%% (Maintenance)"
+msgstr "%1% + %2%%% (Maintenance)"
+
+msgid "%1% - %2%"
+msgstr "%1% - %2%"
+
+msgid "%1% Annex"
+msgstr "Annexe de %1%"
+
+msgid "%1% Branch"
+msgstr "Embranchement de %1%"
+
+msgid "%1% Central"
+msgstr "Centrale de %1%"
+
+msgid "%1% Destinations"
+msgstr "%1% destinations"
+
+msgid "%1% East"
+msgstr "%1% Est"
+
+msgid "%1% Exchange"
+msgstr "Liaison de %1%"
+
+msgid "%1% Halt"
+msgstr "Halte de %1%"
+
+msgid "%1% North"
+msgstr "%1% Nord"
+
+msgid "%1% Sidings"
+msgstr "Voie d'évitement de %1%"
+
+msgid "%1% Signal #%2%"
+msgstr "%1% Signalisation #%2%"
+
+msgid "%1% South"
+msgstr "%1% Sud"
+
+msgid "%1% Transfer"
+msgstr "Transfert de %1%"
+
+msgid "%1% Transport"
+msgstr "%1% Transport"
+
+msgid "%1% Vehicle"
+msgid_plural "%1% Vehicles"
+msgstr[0] "%1% véhicule"
+msgstr[1] "%1% véhicules"
+
+msgid "%1% Vehicle selected"
+msgid_plural "%1% Vehicles selected"
+msgstr[0] "%1% véhicule sélectionné"
+msgstr[1] "%1% véhicules sélectionnés"
+
+msgid "%1% Waypoint #%2%"
+msgstr "%1% Pt. de cheminement #%2%"
+
+msgid "%1% West"
+msgstr "%1% Ouest"
+
+msgid "%1% capacity"
+msgstr "Capacité %1%"
+
+msgid "%1% deg field of view"
+msgstr "%1% degrés de champ de vision"
+
+msgid "%1% fps"
+msgstr "%1% ips"
+
+msgid "%1% ft"
+msgstr "%1% ft"
+
+msgid "%1% has died!"
+msgstr "%1% est hors service !"
+
+msgid "%1% hp"
+msgstr "%1% CV"
+
+msgid "%1% industry"
+msgid_plural "%1% industries"
+msgstr[0] "%1% industrie"
+msgstr[1] "%1% industries"
+
+msgid "%1% kN"
+msgstr "%1% nd"
+
+msgid "%1% kW"
+msgstr "%1% kW"
+
+msgid "%1% kg"
+msgstr "%1% kg"
+
+msgid "%1% kgf"
+msgstr "%1% kgf"
+
+msgid "%1% km"
+msgstr "%1% km"
+
+msgid "%1% km/h"
+msgstr "%1% km/h"
+
+msgid "%1% lb"
+msgstr "%1% lb"
+
+msgid "%1% lbf"
+msgstr "%1% lbf"
+
+msgid "%1% m"
+msgstr "%1% m"
+
+msgid "%1% mi"
+msgstr "%1% mi"
+
+msgid "%1% min"
+msgstr "%1% min"
+
+msgid "%1% min %2% s"
+msgstr "%1% min %2% s"
+
+msgid "%1% mission"
+msgid_plural "%1% missions"
+msgstr[0] "%1% mission"
+msgstr[1] "%1% missions"
+
+msgid "%1% mod available"
+msgid_plural "%1% mods available"
+msgstr[0] "%1% module disponible"
+msgstr[1] "%1% modules disponibles"
+
+msgid "%1% mod enabled"
+msgid_plural "%1% mods enabled"
+msgstr[0] "%1% module activé"
+msgstr[1] "%1% modules activés"
+
+msgid "%1% month"
+msgid_plural "%1% months"
+msgstr[0] "%1% mois"
+msgstr[1] "%1% mois"
+
+msgid "%1% mph"
+msgstr "%1% mph"
+
+msgid "%1% new vehicles are available!"
+msgstr "%1% nouveaux véhicules disponibles !"
+
+msgid "%1% per vehicle"
+msgstr "%1% par véhicule"
+
+msgid "%1% s"
+msgstr "%1% s"
+
+msgid "%1% signal will be removed"
+msgid_plural "%1% signals will be removed"
+msgstr[0] "%1% signal sera supprimé"
+msgstr[1] "%1% signaux seront supprimés"
+
+msgid "%1% stop will be removed"
+msgid_plural "%1% stops will be removed"
+msgstr[0] "%1% arrêt sera supprimé"
+msgstr[1] "%1% arrêts seront supprimés"
+
+msgid "%1% t"
+msgstr "%1% t"
+
+msgid "%1% to %2%"
+msgstr "%1% à %2%"
+
+msgid "%1% town"
+msgid_plural "%1% towns"
+msgstr[0] "%1% ville"
+msgstr[1] "%1% villes"
+
+msgid "%1% variant"
+msgid_plural "%1% variants"
+msgstr[0] "%1% variante"
+msgstr[1] "%1% variantes"
+
+msgid "%1% x %2%"
+msgstr "%1% x %2%"
+
+msgid "%1% x %2% km, %3%, %4%"
+msgstr "%1% x %2% km, %3%, %4%"
+
+msgid "%1% yd"
+msgstr "%1% yd"
+
+msgid "%1% year"
+msgid_plural "%1% years"
+msgstr[0] "%1% année"
+msgstr[1] "%1% années"
+
+msgid "%1%%% of %2%"
+msgstr "%1%%% sur %2%"
+
+msgid "%1%%% of lifetime (%2% remaining)"
+msgstr "Durée de vie : %1%%% (%2% restant)"
+
+msgid "%1%%2%%%"
+msgstr "%1%%2%%%"
+
+msgid "%1%, %2%"
+msgstr "%1%, %2%"
+
+msgid "%1%-%2%"
+msgstr "%1%-%2%"
+
+msgid "%1%/%2%"
+msgstr "%1%/%2%"
+
+msgid "%1%/%2% %3%"
+msgstr "%1%/%2% %3%"
+
+msgid "%1%/m²"
+msgstr "%1%/m²"
+
+msgid "%1%/year"
+msgstr "%1%/an"
+
+msgid "%1%: %2%"
+msgstr "%1% : %2%"
+
+msgid "%1%: %2% (in %3% or %4%)"
+msgstr "%1% : %2% (à %3% ou %4%)"
+
+msgid "%1%: %2%x"
+msgstr "%1% : %2%x"
+
+msgid "%1%: not enough power!"
+msgstr "%1% : puissance insuffisante"
+
+msgid "%1%m to %2%m"
+msgstr "de %1% m à %2% m"
+
+msgid "%1%x"
+msgstr "%1%x"
+
+msgid "%d"
+msgstr "%d"
+
+msgid "%d Year"
+msgid_plural "%d Years"
+msgstr[0] "%d an"
+msgstr[1] "%d ans"
+
+msgid "%d building will be moved"
+msgid_plural "%d buildings will be moved"
+msgstr[0] "%d construction sera déplacée"
+msgstr[1] "%d constructions seront déplacées"
+
+msgid "%d building will be removed"
+msgid_plural "%d buildings will be removed"
+msgstr[0] "%d construction sera supprimée"
+msgstr[1] "%d constructions seront supprimées"
+
+msgid "%d field will be removed"
+msgid_plural "%d fields will be removed"
+msgstr[0] "%d champ sera supprimé"
+msgstr[1] "%d champs seront supprimés"
+
+msgid "%d for having a fast vehicle"
+msgstr "%d pour un véhicule rapide"
+
+msgid "%d for having a profit of at least $10M"
+msgstr "%d pour un bénéfice supérieur ou égal à 10 M$"
+
+msgid "%d for having a very long vehicle"
+msgstr "%d pour un véhicule long"
+
+msgid "%d for having transported at least 100000 passengers"
+msgstr "%d pour avoir transporté au moins 100 000 passagers"
+
+msgid "%d for having transported at least 100000 units of cargo"
+msgstr "%d pour avoir transporté au moins 100 000 marchandises"
+
+msgid "%d for high-speed rail network"
+msgstr "%d pour un réseau ferroviaire à grande vitesse"
+
+msgid "%d for rail network bridges"
+msgstr "%d pour les ponts du réseau ferroviaire"
+
+msgid "%d for rail network electrification"
+msgstr "%d pour l'électrification du réseau ferroviaire"
+
+msgid "%d for rail network length"
+msgstr "%d pour la longueur du réseau ferroviaire"
+
+msgid "%d for rail network tunnels"
+msgstr "%d pour les tunnels du réseau ferroviaire"
+
+msgid "%d module will be removed"
+msgid_plural "%d modules will be removed"
+msgstr[0] "%d module sera supprimé"
+msgstr[1] "%d module seront supprimés"
+
+msgid "%d of %d"
+msgstr "%d sur %d"
+
+msgid "%d point(s) for company value"
+msgstr "%d point(s) pour la valeur de l'entreprise"
+
+msgid "%d point(s) for having more than 10 trains"
+msgstr "%d point(s) pour la possession de plus de 10 trains"
+
+msgid "%d point(s) for having more than 100 road vehicles"
+msgstr "%d point(s) pour la possession de plus de 100 véhicules routiers"
+
+msgid "%d point(s) for having more than 20 trams"
+msgstr "%d point(s) pour la possession de plus de 20 trams"
+
+msgid "%d point(s) for having more than 5 aircraft"
+msgstr "%d point(s) pour la possession de plus de 5 avions"
+
+msgid "%d point(s) for having more than 5 ships"
+msgstr "%d point(s) pour la possession de plus de 5 navires"
+
+msgid "%d point(s) for maximum vehicle age"
+msgstr "%d point(s) pour un véhicule de l'âge maximum"
+
+msgid "%s overlength: travel time is %d s, %d s allowed!"
+msgstr "%s trop long : temps de voyage de %d s, %d s permis !"
+
+msgid "(%1% compartment)"
+msgid_plural "(%1% compartments)"
+msgstr[0] " (%1% compartiment)"
+msgstr[1] " (%1% compartiments)"
+
+msgid "(No target)"
+msgstr "(Aucune cible)"
+
+msgid "(stopped)"
+msgstr "(arrêté)"
+
+msgid "+"
+msgstr "+"
+
+msgid "-"
+msgstr "-"
+
+msgid "1 x"
+msgstr "x 1"
+
+msgid "1/2x"
+msgstr "x1/2"
+
+msgid "1/4x"
+msgstr "x1/4"
+
+msgid "100%"
+msgstr "100 %"
+
+msgid "125%"
+msgstr "125 %"
+
+msgid "150%"
+msgstr "150 %"
+
+msgid "16-bit grayscale"
+msgstr "16 bits échelle de gris"
+
+msgid "175%"
+msgstr "175 %"
+
+msgid "1:1"
+msgstr "1:1"
+
+msgid "1:2"
+msgstr "1:2"
+
+msgid "1:3"
+msgstr "1:3"
+
+msgid "1:4"
+msgstr "1:4"
+
+msgid "1:5"
+msgstr "1:5"
+
+msgid "1x"
+msgstr "x1"
+
+msgid "2 x"
+msgstr "x 2"
+
+msgid "200%"
+msgstr "200 %"
+
+msgid "2x"
+msgstr "x2"
+
+msgid "3D"
+msgstr "3D"
+
+msgid "4 x"
+msgstr "x 4"
+
+msgid "4x"
+msgstr "x4"
+
+msgid "75%"
+msgstr "75 %"
+
+msgid "< 0"
+msgstr "< 0"
+
+msgid "<unknown artist>"
+msgstr "<artiste inconnu>"
+
+msgid "<unknown title>"
+msgstr "<titre inconnu>"
+
+msgid ">5000 years"
+msgstr "> 5 000 années"
+
+msgid ">= 0"
+msgstr ">= 0"
+
+msgid "A new Steam Workshop item will be created"
+msgstr "Un nouvel objet sera créé sur le Steam Workshop"
+
+msgid "A new vehicle is available!"
+msgstr "Nouveau véhicule disponible !"
+
+msgid "A one-way street can't have stops or waypoints on both sides"
+msgstr ""
+"Une rue à sens unique ne peut pas avoir d'arrêt ou d'étapes des deux côtés."
+
+msgid ""
+"A path has been found, but one or more sections of the path are not "
+"electrified. The vehicle requires electrification. Use the electrification "
+"tool to modify the sections."
+msgstr ""
+"Une voie a été trouvée, mais au moins un tronçon n'est pas électrifié. "
+"L'électrification est indispensable au bon fonctionnement du véhicule. "
+"Optimisez le tronçon à l'aide de l'outil d'électrification."
+
+msgid ""
+"A path has been found, but one or more sections of the path do not have tram "
+"tracks. The vehicle requires tram tracks. Use the tram track tool to modify "
+"the sections."
+msgstr ""
+"Une voie a été trouvée, mais au moins un tronçon n'a pas de rail. Les rails "
+"de tram sont indispensables au bon fonctionnement du véhicule. Optimisez le "
+"tronçon à l'aide de l'outil d'ajout de rails de tram."
+
+msgid ""
+"A path has been found, but only small aircraft are allowed on this path. "
+"Consider using small aircraft or large airports."
+msgstr ""
+"Une voie a été trouvée, mais seuls les petits avions y sont autorisés. Optez "
+"pour un petit appareil ou de grands aéroports."
+
+msgid ""
+"A path has been found, but only small ships are allowed on this path. "
+"Consider using small ships or large docks."
+msgstr ""
+"Une voie a été trouvée, mais seules les petites embarcations y sont "
+"autorisées. Optez pour une petite embarcation ou de grands ports."
+
+msgid "A station appears consecutively twice"
+msgstr "Une gare apparaît consécutivement deux fois"
+
+msgid "Accept!"
+msgstr "Accepter !"
+
+msgid "Account"
+msgstr "Compte"
+
+msgid "Accumulate a fortune of 1 billion (without debt) in Hard mode."
+msgstr "Devenez milliardaire (dettes déduites) en mode difficile."
+
+msgid "Accumulate a fortune of 1 billion (without debt)."
+msgstr "Devenez milliardaire (dettes déduites)."
+
+msgid "Accumulate a fortune of 1 million (without debt)."
+msgstr "Devenez millionnaire (dettes déduites)."
+
+msgid "Accumulate a fortune of 10 millions (without debt)."
+msgstr "Amassez 10 millions de dollars (dettes déduites)."
+
+msgid "Accumulate a fortune of 100 millions (without debt) in Hard mode."
+msgstr "Amassez 100 millions de dollars (dettes déduites) en mode difficile."
+
+msgid "Accumulate a fortune of 100 millions (without debt)."
+msgstr "Amassez 100 millions de dollars (dettes déduites)."
+
+msgid "Achievement earned:"
+msgstr "Objectifs remplis :"
+
+msgid "Achievements"
+msgstr "Objectifs"
+
+msgid ""
+"Achievements cannot be earned in this game because mods are or have been "
+"active."
+msgstr ""
+"Les objectifs ne peuvent pas être remplis pour cette partie, car des modules "
+"sont ou ont été actifs"
+
+msgid "Activate/deactivate bulldozer"
+msgstr "Activer/désactiver bulldozer"
+
+msgid "Add"
+msgstr "Ajouter"
+
+msgid "Add a fade"
+msgstr "Ajouter une estompe"
+
+msgid "Add a key frame"
+msgstr "Ajouter une image-clé"
+
+msgid "Add a subtitle"
+msgstr "Ajouter un sous-titre"
+
+msgid "Add station"
+msgstr "Ajouter une gare"
+
+msgid "Advanced"
+msgstr "Avancé"
+
+msgid "Advanced Game Settings"
+msgstr "Paramètres de jeu avancés"
+
+msgid "Advanced settings"
+msgstr "Paramètres avancés"
+
+msgid "Age"
+msgstr "Âge"
+
+msgid "Air"
+msgstr "Air"
+
+msgid "Aircraft"
+msgid_plural "Aircraft"
+msgstr[0] "Avion"
+msgstr[1] "Avions"
+
+msgid "Aircraft %1%"
+msgstr "Avion %1%"
+
+msgid "Aircraft entrepreneur"
+msgstr "Compagnie aérienne"
+
+msgid "All"
+msgstr "Tout"
+
+msgid "All cargo"
+msgstr "Toutes marchandises"
+
+msgid "All missions completed!"
+msgstr "Toutes les missions sont terminées !"
+
+msgid ""
+"All unsaved progress will be lost.\n"
+"Where to go next?"
+msgstr ""
+"Tous les progrès non sauvegardés seront perdus.\n"
+"Que voulez-vous faire ?"
+
+msgid "Ambient occlusion (SSAO)"
+msgstr "Occlusion lumière ambiante (SSAO)"
+
+msgid "American vehicles"
+msgstr "Véhicules américains"
+
+msgid ""
+"An Intel HD Graphics chip is active. For best performance, make sure to:"
+msgstr ""
+"Une puce Intel HD Graphics est active. Pour des performances optimales, "
+"assurez-vous de :"
+
+msgid "Anti-aliasing"
+msgstr "Anticrénelage"
+
+msgid "Antique"
+msgstr "Antiquité"
+
+msgid "Apply"
+msgstr "Appliquer"
+
+msgid "Approximate annual throughput per station"
+msgstr "Débit annuel moyen par station"
+
+msgid "Art"
+msgstr "Art"
+
+msgid "Artists"
+msgstr "Artistes"
+
+msgid "Asia"
+msgstr "Asie"
+
+msgid "Asian vehicles"
+msgstr "Véhicules asiatiques"
+
+msgid "Assets"
+msgstr "Éléments"
+
+msgid "Assign to %1%"
+msgstr "Assigner à %1%"
+
+msgid "At home"
+msgstr "Maison."
+
+msgid "At least %1% GB of graphics memory are recommended for these settings."
+msgstr ""
+"Pour fonctionner avec ces paramètres, il est recommandé d'avoir au moins "
+"%1% Gb de mémoire graphique."
+
+msgid "At work"
+msgstr "Au travail."
+
+msgid "Audio"
+msgstr "Audio"
+
+msgid "Audio settings"
+msgstr "Paramètres audio"
+
+msgid "Authors"
+msgstr "Auteurs"
+
+msgid "Auto set speed"
+msgstr "Vitesse auto."
+
+msgid "Automatic"
+msgstr "Automatique"
+
+msgid ""
+"Automatically send crash dump files (not including personal data) to the "
+"developers"
+msgstr ""
+"Envoyer automatiquement les fichiers de vidage de plantage (sans les "
+"informations personnelles) aux développeurs"
+
+msgid "Autosave interval (minutes)"
+msgstr "Intervalle de sauvegarde automatique (minutes)"
+
+msgid "Autosave..."
+msgstr "Sauvegarde automatique"
+
+msgid "Autosaves to keep"
+msgstr "Sauvegardes automatiques à conserver"
+
+msgid "Available heightmaps:"
+msgstr "Cartes de hauteur disponibles :"
+
+msgid "Average"
+msgstr "Moyenne"
+
+msgid "Average emission reaching residential buildings: %1%"
+msgstr "Émissions moyennes atteignant les bâtiments résidentiels : %1%"
+
+msgid ""
+"Average number of shoppings facilities and jobs the residents of %1% can "
+"reach"
+msgstr ""
+"Nombre moyen de commerces et de postes accessibles aux habitants de %1%"
+
+msgid "BONUS TASKS"
+msgstr "TÂCHES BONUS"
+
+msgid "Back"
+msgstr "Retour"
+
+msgid "Back to the future"
+msgstr "Retour vers le futur"
+
+msgid "Bad"
+msgstr "Mauvais"
+
+msgid "Balance"
+msgstr "Solde"
+
+msgid "Balance:"
+msgstr "Solde :"
+
+msgid "Bank balance"
+msgstr "Solde à la banque"
+
+msgid "Big aircraft"
+msgstr "Gros avion"
+
+msgid "Big aircraft is incompatible with small airport"
+msgstr "Gros avion incompatible avec la taille de l'aéroport"
+
+msgid "Big ship"
+msgstr "Grosse embarcation"
+
+msgid "Big ship is incompatible with small harbour"
+msgstr "Gros navire incompatible avec la taille du port"
+
+msgid "Big spender"
+msgstr "Panier percé"
+
+msgid "Bit depth must be 1, 8 or 16."
+msgstr "La résolution doit être de 1, 8 ou 16."
+
+msgid "Bob Ross"
+msgstr "Bob Ross"
+
+msgid "Bonus task completed"
+msgstr "Tâche bonus terminée"
+
+msgid "Bonus tasks"
+msgstr "Tâches bonus"
+
+msgid "Borrow %1%"
+msgstr "Emprunter %1%"
+
+msgid "Bridge"
+msgstr "Pont"
+
+msgid "Bridge pillar collision"
+msgstr "Pilier du pont percuté"
+
+msgid "Brush"
+msgstr "Pinceau"
+
+msgid "Brush size"
+msgstr "Taille du pinceau"
+
+msgid "Build"
+msgstr "Construire"
+
+msgid "Build a bus stop."
+msgstr "Ouvrir un arrêt de bus."
+
+msgid "Build a passenger train station."
+msgstr "Construire une gare ferroviaire."
+
+msgid "Build a town"
+msgstr "Construire une ville"
+
+msgid "Build a train line with at least 10 trains in motion."
+msgstr "Ouvrez une ligne avec au moins 10 trains en circulation."
+
+msgid "Build date"
+msgstr "Date de construction"
+
+msgid "Build high bridges over rivers so that ships can pass under."
+msgstr ""
+"Construire des ponts élevés au-dessus des rivières pour que les navires "
+"puissent passer en dessous."
+
+msgid ""
+"Build one line containing at least one of every passenger road vehicle that "
+"was available between 1850 and 2020."
+msgstr ""
+"Ouvrez une ligne contenant chaque type de transport en commun disponible "
+"entre 1850 et 2020."
+
+msgid "Build the company headquarters."
+msgstr "Construisez le siège de l'entreprise."
+
+msgid "Build town not possible"
+msgstr "Construction de la ville impossible"
+
+msgid "Building town..."
+msgstr "Construction de la ville..."
+
+msgid "Buildings"
+msgstr "Bâtiments"
+
+msgid "Buildings must be removed first"
+msgstr "Vous devez d'abord supprimer les bâtiments"
+
+msgid "Bulldozer"
+msgstr "Bulldozer"
+
+msgid "Bus"
+msgstr "Bus"
+
+msgid "Bus and tram stops"
+msgstr "Arrêts de bus et de tram"
+
+msgid "Bus lane"
+msgstr "Voie de bus"
+
+msgid "Bus lane tool"
+msgstr "Outils de voie de bus"
+
+msgid "Bus/Tram station"
+msgstr "Gare de bus/tram"
+
+msgid "Bus/truck not compatible"
+msgstr "Bus/camion non compatible"
+
+msgid "Buy a bus and run a line."
+msgstr "Acheter un bus et ouvrir une ligne."
+
+msgid "Buy a ship and run a line."
+msgstr "Acheter un navire et ouvrir une ligne."
+
+msgid "Buy a steam train and run a line."
+msgstr "Acheter un train à vapeur et ouvrir une ligne."
+
+msgid "Buy aircraft"
+msgstr "Acheter avion"
+
+msgid "Buy an aircraft and run a line."
+msgstr "Acheter un avion et ouvrir une ligne."
+
+msgid "Buy an electric train and run a line."
+msgstr "Acheter un train électrique et ouvrir une ligne."
+
+msgid "Buy for "
+msgstr "Prix à l'achat "
+
+msgid "Buy road vehicles"
+msgstr "Acheter véhicules routiers"
+
+msgid "Buy ships"
+msgstr "Acheter navires"
+
+msgid "Buy trains"
+msgstr "Acheter trains"
+
+msgid "Buy trams"
+msgstr "Acheter tramways"
+
+msgid "Buy vehicles"
+msgstr "Acheter véhicules"
+
+msgid "By car"
+msgstr "En voiture"
+
+msgid "By foot"
+msgstr "À pied"
+
+msgid "By submitting this item, you agree to the workshop terms of service."
+msgstr "En publiant cela, vous acceptez les conditions de service du Workshop."
+
+msgid "Cadet"
+msgstr "Bleusaille"
+
+msgid "Camera Manager"
+msgstr "Assistant de gestion de caméra"
+
+msgid "Camera focal length"
+msgstr "Distance focale de la caméra"
+
+msgid "Camera move down"
+msgstr "Baisser la caméra"
+
+msgid "Camera move left"
+msgstr "Caméra à gauche"
+
+msgid "Camera move right"
+msgstr "Caméra à droite"
+
+msgid "Camera move up"
+msgstr "Lever la caméra"
+
+msgid "Camera rotate left"
+msgstr "Caméra : rotation gauche"
+
+msgid "Camera rotate right"
+msgstr "Caméra : rotation droite"
+
+msgid "Camera tilt down"
+msgstr "Incliner vers le bas"
+
+msgid "Camera tilt up"
+msgstr "Incliner vers le haut"
+
+msgid "Camera tool"
+msgstr "Outil caméra"
+
+msgid "Camera tool: Add keyframe"
+msgstr "Caméra : Ajouter image-clé"
+
+msgid "Camera tool: Capture"
+msgstr "Caméra : Capture d'écran"
+
+msgid "Camera tool: Clear keyframes"
+msgstr "Caméra : Effacer images-clés"
+
+msgid "Camera tool: Load"
+msgstr "Caméra : Charger"
+
+msgid "Camera tool: Pause"
+msgstr "Caméra : Pause"
+
+msgid "Camera tool: Play"
+msgstr "Caméra : Play"
+
+msgid "Camera tool: Save"
+msgstr "Caméra : Sauvegarder"
+
+msgid "Camera tool: Start recording"
+msgstr "Caméra : Lancer enregistrement"
+
+msgid "Camera tool: Stop"
+msgstr "Caméra : Stop"
+
+msgid "Camera tool: Toggle play/pause"
+msgstr "Caméra : Sélectionner play/pause"
+
+msgid "Camera tool: Toggle play/stop"
+msgstr "Caméra : Sélectionner play/stop"
+
+msgid "Camera zoom in"
+msgstr "Zoomer"
+
+msgid "Camera zoom out"
+msgstr "Dézoomer"
+
+msgid "Campaign"
+msgstr "Campagne"
+
+msgid "Campaign \"%1%\", mission \"%2%\""
+msgstr "Campagne « %1% », mission « %2% »"
+
+msgid "Campaign design"
+msgstr "Design de la campagne"
+
+msgid "Campaign expert"
+msgstr "Maître de campagne"
+
+msgid "Campaign shark"
+msgstr "Parrain de la campagne"
+
+msgid "Campaign tycoon"
+msgstr "Magnat de la campagne"
+
+msgid "Campaigns"
+msgstr "Campagnes"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Cancel and leave store"
+msgstr "Annuler et quitter la boutique"
+
+msgid "Cancel publishing"
+msgstr "Annuler la publication"
+
+msgid "Cannot bulldoze headquarters, use relocate instead!"
+msgstr "Impossible de raser le siège, déménagez-le !"
+
+msgid "Cannot get enough"
+msgstr "Accro du rail"
+
+msgid "Capacity"
+msgstr "Capacité"
+
+msgid "Capture image"
+msgstr "Prendre une capture"
+
+msgid "Capture images"
+msgstr "Prendre des captures"
+
+msgid "Capture latlong"
+msgstr "Enregistrer lat./long."
+
+msgid "Capture videos"
+msgstr "Enregistrer des vidéos"
+
+msgid "Car owner"
+msgstr "Propriétaire de la voiture"
+
+msgid "Cargo"
+msgstr "Marchandises"
+
+msgid "Cargo filter is set"
+msgstr "Filtre de marchandises paramétré"
+
+msgid "Cargo hub"
+msgstr "Plaque tournante"
+
+msgid "Cargo items consumed by this building"
+msgstr "Marchandise utilisée par ce bâtiment"
+
+msgid "Cargo items produced by this building"
+msgstr "Marchandise produite par ce bâtiment"
+
+msgid "Cargo layer"
+msgstr "Filtre de marchandises"
+
+msgid "Cargo needs"
+msgstr "Marchandise nécessaire"
+
+msgid "Cargo production"
+msgstr "Marchandise produite"
+
+msgid "Cargo production rating (average of last twelve months)"
+msgstr "Indice de production moyen (sur les douze derniers mois)"
+
+msgid "Cargo station"
+msgstr "Gare de fret"
+
+msgid "Cargo stations"
+msgstr "Gares de fret"
+
+msgid "Cargo stop can not used by passenger vehicles"
+msgstr ""
+"Cet arrêt de marchandises ne peut pas être utilisé par des véhicules de "
+"passagers."
+
+msgid "Cargo supply of %1%"
+msgstr "Cargaison de %1%"
+
+msgid "Cargo supply rating (average of last twelve months)"
+msgstr "Taux d'approvisionnement moyen (sur les douze derniers mois)"
+
+msgid "Cargo transported (last 12 months)"
+msgstr "Marchandises transportées (12 derniers mois)"
+
+msgid "Cargo transported (total)"
+msgstr "Marchandises transportées (total)"
+
+msgid "Cargo type"
+msgid_plural "Cargo types"
+msgstr[0] "Type de marchandises"
+msgstr[1] "Types de marchandises"
+
+msgid "Cargo types"
+msgstr "Types de marchandises"
+
+msgid "Catenary"
+msgstr "Caténaire"
+
+msgid "Change date"
+msgstr "Modifier la date"
+
+msgid "Change note:"
+msgstr "Modifier la note :"
+
+msgid "Change type"
+msgstr "Type de modification"
+
+msgid "Charles Alton Ellis"
+msgstr "Charles Alton Ellis"
+
+msgid "Chart"
+msgstr "Graphique"
+
+msgid "Charts"
+msgstr "Graphiques"
+
+msgid "Choose heightmap"
+msgstr "Sélection de la carte de hauteur"
+
+msgid "Choose the game's difficulty"
+msgstr "Choisir la difficulté de cette partie"
+
+msgid "Choose the game's start year"
+msgstr "Choisir l'année de départ de cette partie"
+
+msgid "City"
+msgstr "Ville"
+
+msgid "Clear"
+msgstr "Effacer"
+
+msgid "Clear all key frames?"
+msgstr "Effacer toutes les images-clés ?"
+
+msgid "Clear key frame list"
+msgstr "Effacer la liste des images-clés"
+
+msgid "Click on icons to select residents"
+msgstr "Cliquez sur les icônes pour sélectionner les habitants"
+
+msgid "Click on stations to add"
+msgstr "Cliquer sur une station pour ajouter"
+
+msgid ""
+"Click on the icon to jump to the first point where the path couldn't "
+"continue."
+msgstr "Cliquez sur l'icône pour vous rendre au premier point de rupture."
+
+msgid "Click to change date speed"
+msgstr "Cliquer pour changer la vitesse de défilement des jours"
+
+msgid "Click to choose a logo..."
+msgstr "Cliquer pour choisir un logo..."
+
+msgid "Click to modify balance"
+msgstr "Cliquer pour modifier le solde"
+
+msgid "Climate"
+msgstr "Climat"
+
+msgid "Climate change"
+msgstr "Changement climatique"
+
+msgid "Clone all vehicles"
+msgstr "Dupliquer tous les véhicules"
+
+msgid "Clone all vehicles?"
+msgstr "Dupliquer tous les véhicules ?"
+
+msgid "Clone selected vehicle"
+msgid_plural "Clone selected vehicles"
+msgstr[0] "Dupliquer véhicule sélectionné"
+msgstr[1] "Dupliquer véhicules sélectionnés"
+
+msgid "Clone vehicle"
+msgstr "Dupliquer véhicule"
+
+msgid "Close all"
+msgstr "Tout fermer"
+
+msgid "Collapse"
+msgstr "Effondrement"
+
+msgid "Collision"
+msgstr "Collision"
+
+msgid "Color"
+msgstr "Couleur"
+
+msgid "Commercial"
+msgstr "Commercial"
+
+msgid "Commercial area"
+msgstr "Zone commerciale"
+
+msgid "Commercial building"
+msgstr "Bâtiment commercial"
+
+msgid "Commercial supply"
+msgstr "Approvisionnement commercial"
+
+msgid "Community management"
+msgstr "Gestion de la communauté"
+
+msgid "Company"
+msgstr "Entreprise "
+
+msgid "Company finances"
+msgstr "Finances de l'entreprise"
+
+msgid "Company score"
+msgstr "Résultat de l'entreprise"
+
+msgid "Complete campaign \"%1%\" to unlock"
+msgstr "Pour déverrouiller, terminer la campagne « %1% »"
+
+msgid "Complete the entire campaign."
+msgstr "Terminez la campagne."
+
+msgid "Complete the first and second era of the campaign."
+msgstr "Terminez la première et la deuxième époque de la campagne."
+
+msgid "Complete the first era of the campaign."
+msgstr "Terminez la première époque de la campagne."
+
+msgid "Complete the first mission of the campaign."
+msgstr "Terminez la première mission de la campagne."
+
+msgid "Condition"
+msgstr "Conditions"
+
+msgid "Configure"
+msgstr "Configurer"
+
+msgid "Configure construction"
+msgstr "Configurer la construction"
+
+msgid "Configure graphics and more"
+msgstr "Paramétrer les graphiques et autres"
+
+msgid "Configure maintenance for all vehicles"
+msgstr "Configurer maintenance pour tous les véhicules"
+
+msgid "Configure maintenance for selected vehicle"
+msgid_plural "Configure maintenance for selected vehicles"
+msgstr[0] "Configurer maintenance pour véhicule sélectionné"
+msgstr[1] "Configurer maintenance pour véhicules sélectionnés"
+
+msgid "Confirm decommission"
+msgstr "Confirmer démantèlement"
+
+msgid "Confirm delete?"
+msgstr "Confirmer la suppression ?"
+
+msgid "Confirm destruction"
+msgstr "Confirmer la destruction"
+
+msgid "Confirm destruction?"
+msgstr "Confirmer la destruction ?"
+
+msgid "Confirm disposal"
+msgstr "Confirmer démantèlement"
+
+msgid "Confirm mass clone"
+msgstr "Confirmer clonage de masse"
+
+msgid "Confirm unsubscribe?"
+msgstr "Confirmer le désabonnement ?"
+
+msgid "Congratulations"
+msgstr "Félicitations"
+
+msgid "Construction locked"
+msgstr "Construction verrouillée"
+
+msgid "Construction not possible"
+msgstr "Construction impossible"
+
+msgid "Construction option 1"
+msgstr "Option de construction 1"
+
+msgid "Construction option 2"
+msgstr "Option de construction 2"
+
+msgid "Construction option 3"
+msgstr "Option de construction 3"
+
+msgid "Construction option 4"
+msgstr "Option de construction 4"
+
+msgid "Construction option 5"
+msgstr "Option de construction 5"
+
+msgid "Construction option 6"
+msgstr "Option de construction 6"
+
+msgid "Consumers"
+msgstr "Consommateurs"
+
+msgid "Consumption"
+msgstr "Consommation"
+
+msgid "Contained by following lines as waypoint"
+msgstr "Les lignes suivantes l'utilisent en tant que point de cheminement"
+
+msgid "Context help"
+msgstr "Assistance contextuelle"
+
+msgid "Continue"
+msgstr "Continuer"
+
+msgid "Continue game"
+msgstr "Continuer la partie"
+
+msgid "Continue playing..."
+msgstr "Continuer à jouer..."
+
+msgid "Contour lines layer"
+msgstr "Filtre de lignes de contour"
+
+msgid "Contributors"
+msgstr "Contributeurs"
+
+msgid "Controls"
+msgstr "Contrôles"
+
+msgid "Coord.sys."
+msgstr "Coord.sys."
+
+msgid "Cosmocover"
+msgstr "Cosmocover"
+
+msgid "Costs"
+msgstr "Coûts"
+
+msgid "Could not connect all stations"
+msgstr "Toutes les stations n'ont pas pu être connectées"
+
+msgid ""
+"Could not save game. Please check free\n"
+"disk space and/or folder permissions."
+msgstr ""
+"Impossible de sauvegarder. Veuillez vérifier\n"
+"que vous possédez assez d'espace de stockage et/ou les permissions "
+"d'écriture dans le dossier."
+
+msgid "Create New Game"
+msgstr "Créer une nouvelle partie"
+
+msgid "Create New Map"
+msgstr "Créer une nouvelle carte"
+
+msgid "Create a line with at least two stops."
+msgstr "Ouvrir une ligne comptant au moins deux arrêts."
+
+msgid "Create a new line"
+msgstr "Créer une nouvelle ligne"
+
+msgid "Create map"
+msgstr "Créer une carte"
+
+msgid "Create or edit a map"
+msgstr "Créer ou éditer une carte"
+
+msgid "Creating fields..."
+msgstr "Création des champs..."
+
+msgid "Creating industries..."
+msgstr "Création des industries..."
+
+msgid "Creating streets..."
+msgstr "Création des rues..."
+
+msgid "Creating towns..."
+msgstr "Création des villes..."
+
+msgid "Credits"
+msgstr "Crédits"
+
+msgid "Crowd in a train"
+msgstr "Train fréquenté"
+
+msgid "Current"
+msgstr "Actuel"
+
+msgid "Current consumption rate"
+msgstr "Indice de consommation actuel"
+
+msgid "Custom"
+msgstr "Personnaliser"
+
+msgid "Cycle game speed"
+msgstr "Vitesse de jeu - cycle"
+
+msgid "DLCs:"
+msgstr "Contenus téléchargeables :"
+
+msgid "Data layers"
+msgstr "Filtres de données"
+
+msgid "Date speed"
+msgstr "Vitesse de défilement des jours"
+
+msgid "Date:"
+msgstr "Date :"
+
+msgid "Debt"
+msgstr "Dette"
+
+msgid "Debug mode"
+msgstr "Mode débogage"
+
+msgid "Default"
+msgstr "Par défaut"
+
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "Delete fade"
+msgstr "Supprimer une estompe"
+
+msgid "Delete key frame"
+msgstr "Supprimer image-clé"
+
+msgid "Delete line"
+msgstr "Supprimer la ligne"
+
+msgid "Delete subtitle"
+msgstr "Supprimer sous-titres"
+
+msgid "Deliver every product to every city that requires it."
+msgstr "Livrez tous les produits à toutes les villes qui en ont besoin."
+
+msgid "Depot"
+msgstr "Dépôt"
+
+msgid "Depot contains vehicles"
+msgstr "Le dépôt contient des véhicules"
+
+msgid "Depots"
+msgstr "Dépôts"
+
+msgid "Describe changes..."
+msgstr "Description des changements..."
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Description:"
+msgstr "Description :"
+
+msgid "Destination"
+msgstr "Destination"
+
+msgid "Destination: %1%"
+msgstr "Destination : %1%"
+
+msgid "Destination: %1% via %2%"
+msgstr "Destination : %1% via %2%"
+
+msgid "Destinations"
+msgstr "Destinations"
+
+msgid "Destinations layer"
+msgstr "Filtre de destinations"
+
+msgid "Details"
+msgstr "Détails"
+
+msgid "Diesel"
+msgstr "Diesel"
+
+msgid "Diesel Train"
+msgstr "Train diesel"
+
+msgid "Different cargo types transported"
+msgstr "Différents types de marchandises transportées"
+
+msgid "Difficulty:"
+msgstr "Difficulté :"
+
+msgid "Directory:"
+msgstr "Dossier :"
+
+msgid "Directory: %1%"
+msgstr "Dossier : %1%"
+
+msgid "Disable all"
+msgstr "Tout désactiver"
+
+msgid "Disable all mods currently visible in the list"
+msgstr "Désactiver tous les modules actuellement visibles dans la liste"
+
+msgid "Disable mod"
+msgstr "Désactiver module"
+
+msgid "Disabled"
+msgstr "Désactivé"
+
+msgid "Disconnected!"
+msgstr "Déconnecté !"
+
+msgid "Distance units"
+msgstr "Unités de distance"
+
+msgid "Do you wish to proceed?"
+msgstr "Voulez-vous poursuivre ?"
+
+msgid "Docks outside of navigable waters"
+msgstr "Quais hors des voies navigables"
+
+msgid "Don't take any additional loan until the year 2050."
+msgstr "Ne contractez aucun emprunt supplémentaire jusqu'en 2050."
+
+msgid "Double slip switch"
+msgstr "Traversée-jonction double"
+
+msgid "Down"
+msgstr "Bas"
+
+msgid "Drive backwards"
+msgstr "Reculer"
+
+msgid "Duration"
+msgstr "Durée"
+
+msgid "E.P.E.C."
+msgstr "La Poste"
+
+msgid "Earn 1 million with airplanes within a month."
+msgstr "Gagnez un million avec les avions en un mois."
+
+msgid "Earn 1 million with ships within a month."
+msgstr "Gagnez un million avec les navires en un mois."
+
+msgid "Earn 50 millions not using any train."
+msgstr "Gagnez 50 M$ sans utiliser le moindre train."
+
+msgid "Earn all medals in one of the missions."
+msgstr "Raflez toutes les médailles d'une même mission."
+
+msgid "Earn all medals of the entire campaign."
+msgstr "Raflez toutes les médailles de la campagne."
+
+msgid "Easy"
+msgstr "Facile"
+
+msgid "Edge scrolling"
+msgstr "Défilement sur les bords"
+
+msgid "Edit vehicle"
+msgstr "Éditer véhicule"
+
+msgid "Editor"
+msgstr "Éditeur"
+
+msgid "Electric"
+msgstr "Électrique"
+
+msgid "Electric Train"
+msgstr "Train électrique"
+
+msgid "Electrification tool"
+msgstr "Outil d'électrification"
+
+msgid "Emission"
+msgstr "Émission"
+
+msgid "Emission %1%"
+msgstr "Émissions %1%"
+
+msgid "Emission %1% + %2% (%3% condition)"
+msgstr "Émissions %1% + %2% (état %3%)"
+
+msgid "Emission at mouse cursor: %s"
+msgstr "Émissions au curseur de la souris : %s"
+
+msgid "Emissions layer"
+msgstr "Filtre d'émissions"
+
+msgid "Enable all"
+msgstr "Tout activer"
+
+msgid "Enable all mods currently visible in the list"
+msgstr "Activer tous les modules actuellement visibles dans la liste"
+
+msgid "Enable camera tool"
+msgstr "Activer l'outil de caméra"
+
+msgid "Enable custom game settings"
+msgstr "Activer les paramètres de jeu personnalisés"
+
+msgid "Enable guide system"
+msgstr "Activer le système d'aide"
+
+msgid "Enable mod"
+msgstr "Activer module"
+
+msgid "Enabled"
+msgstr "Activé"
+
+msgid "Enabled mods"
+msgstr "Modules activés"
+
+msgid "Enabled/disabled mod(s) may lead to unexpected results."
+msgstr "Les modules activés/désactivés peuvent avoir des effets inattendus."
+
+msgid "Enabled/disabled mod(s) will likely cause the game to crash!"
+msgstr ""
+"Les modules activés/désactivés peuvent compromettre le fonctionnement du "
+"jeu !"
+
+msgid "Engine Type"
+msgid_plural "Engine Types"
+msgstr[0] "Type de moteur"
+msgstr[1] "Types de moteur"
+
+msgid "Enter a file name!"
+msgstr "Entrez un nom de fichier !"
+
+msgid "Enter cockpit"
+msgstr "Entrer dans le cockpit"
+
+msgid "Erase assets with a brush."
+msgstr "Efface les éléments avec un pinceau."
+
+msgid "Erase the terrain painting (restore the default material)."
+msgstr "Efface la peinture du terrain (réinitialise le matériau par défaut)."
+
+msgid "Eraser tool"
+msgstr "Outil pour effacer"
+
+msgid "Error loading settings file"
+msgstr "Échec lors du chargement du fichier des paramètres"
+
+msgid "Europe"
+msgstr "Europe"
+
+msgid "European vehicles"
+msgstr "Véhicules européens"
+
+msgid "Excellent"
+msgstr "Satisfaisante"
+
+msgid "Exemplary student"
+msgstr "Élève exemplaire"
+
+msgid "Exit"
+msgstr "Quitter"
+
+msgid "Exit and return to your operating system"
+msgstr "Quitter et retourner à votre système d'exploitation"
+
+msgid "Expand"
+msgstr "Développer"
+
+msgid "Expenditure"
+msgstr "Dépense"
+
+msgid "Export"
+msgstr "Export"
+
+msgid "Export heightmap"
+msgstr "Exporter la carte de hauteur"
+
+msgid "Fade %1%"
+msgstr "Estomper %1%"
+
+msgid "Fades"
+msgstr "Estompes"
+
+msgid "File error"
+msgstr "Erreur de fichier"
+
+msgid "Finances"
+msgstr "Finances"
+
+msgid "First"
+msgstr "Premier"
+
+msgid "First aircraft arrived"
+msgstr "Premier avion arrivé"
+
+msgid "First bus arrived"
+msgstr "Premier bus arrivé"
+
+msgid "First bus stop"
+msgstr "Premier arrêt de bus"
+
+msgid "First cargo item on board"
+msgstr "Première cargaison chargée"
+
+msgid "First cargo item waiting"
+msgstr "Première cargaison en attente"
+
+msgid "First electric train arrived"
+msgstr "Premier train électrique arrivé"
+
+msgid "First industry upgraded"
+msgstr "Première industrie optimisée"
+
+msgid "First line"
+msgstr "Première ligne"
+
+msgid "First passenger on board"
+msgstr "Premier passager à bord"
+
+msgid "First passenger waiting"
+msgstr "Premier passager en attente"
+
+msgid "First ship arrived"
+msgstr "Premier navire arrivé"
+
+msgid "First steam train arrived"
+msgstr "Premier train à vapeur arrivé"
+
+msgid "First train station"
+msgstr "Première gare ferroviaire"
+
+msgid "First-time texture compression..."
+msgstr "Première compression de texture"
+
+msgid "Fix slope"
+msgstr "Corriger la pente"
+
+msgid "Flat"
+msgstr "Lente"
+
+msgid "Flatten the terrain."
+msgstr "Aplatit le terrain."
+
+msgid "Flatten tool"
+msgstr "Outil pour aplatir"
+
+msgid "Foc."
+msgstr "Foc."
+
+msgid "Folder:"
+msgstr "Dossier :"
+
+msgid "For experts:"
+msgstr "Pour les experts :"
+
+msgid "Force units"
+msgstr "Unités de force"
+
+msgid "Frame rate"
+msgstr "Taux d'images"
+
+msgid "Free Game"
+msgstr "Jeu libre"
+
+msgid "Freq."
+msgstr "Fréq."
+
+msgid "Frequence"
+msgstr "Fréquence"
+
+msgid "Full load (all)"
+msgstr "Chargement complet (tout)"
+
+msgid "Full load (any)"
+msgstr "Chargement complet (n'importe lequel)"
+
+msgid "Game"
+msgstr "Partie"
+
+msgid "Game design"
+msgstr "Design du jeu"
+
+msgid "Game initialization failed"
+msgstr "Échec de l'initialisation du jeu"
+
+msgid "Game paused"
+msgstr "Partie en pause"
+
+msgid "Game settings"
+msgstr "Paramètres du jeu"
+
+msgid "Game speed up"
+msgstr "Accélération de la vitesse de jeu"
+
+msgid "Generate"
+msgstr "Générer"
+
+msgid "Generate a random seed"
+msgstr "Générer une tête de série aléatoire"
+
+msgid "Generate heightmap"
+msgstr "Générer une carte de hauteur"
+
+msgid "Generate industries"
+msgstr "Générer les industries"
+
+msgid "Generate streets"
+msgstr "Générer les rues"
+
+msgid "Generate towns"
+msgstr "Générer les villes"
+
+msgid "Generating industries..."
+msgstr "Création des industries..."
+
+msgid "Generating map..."
+msgstr "Création du terrain..."
+
+msgid "Generating preview..."
+msgstr "Création de l'aperçu..."
+
+msgid "Generating streets..."
+msgstr "Création des rues..."
+
+msgid "Generating terrain..."
+msgstr "Création du terrain..."
+
+msgid "Generating towns..."
+msgstr "Création des villes..."
+
+msgid "Generator:"
+msgstr "Générateur :"
+
+msgid "Geometry"
+msgstr "Géométrie"
+
+msgid "Get more mods on"
+msgstr "Activez plus de modules"
+
+msgid "Glacier express"
+msgstr "Convoi express"
+
+msgid "Go back to menu"
+msgstr "Retourner au menu"
+
+msgid "Go to next page"
+msgstr "Aller à la page suivante"
+
+msgid "Go to station"
+msgstr "Aller à la gare"
+
+msgid "Going to depot"
+msgstr "Aller au dépôt"
+
+msgid "Good"
+msgstr "Bonne"
+
+msgid "Graphics"
+msgstr "Graphiques"
+
+msgid "Graphics settings"
+msgstr "Paramètres graphiques"
+
+msgid "Grass"
+msgstr "Herbe"
+
+msgid "Growth"
+msgstr "Croissance"
+
+msgid "Growth: %1% residents"
+msgstr "Croissance : %1% habitants"
+
+msgid "HUD icon filter"
+msgstr "Filtre d'icônes HUD"
+
+msgid "HUD: Toggle aircraft"
+msgstr "HUD : Sélectionner avion"
+
+msgid "HUD: Toggle bus/tram stops"
+msgstr "HUD : Sélectionner arrêts de bus/tram"
+
+msgid "HUD: Toggle costs labels"
+msgstr "HUD : Sélectionner annotations coûts"
+
+msgid "HUD: Toggle depots"
+msgstr "HUD : Sélectionner dépôts"
+
+msgid "HUD: Toggle income labels"
+msgstr "HUD : Sélectionner annotations revenus"
+
+msgid "HUD: Toggle industries"
+msgstr "HUD : Sélectionner industries"
+
+msgid "HUD: Toggle rail vehicles"
+msgstr "HUD : Sélectionner véhicules ferroviaires"
+
+msgid "HUD: Toggle road vehicles"
+msgstr "HUD : Sélectionner véhicules routiers"
+
+msgid "HUD: Toggle ships"
+msgstr "HUD : Sélectionner navires"
+
+msgid "HUD: Toggle signals"
+msgstr "HUD : Sélectionner signalisation"
+
+msgid "HUD: Toggle stations"
+msgstr "HUD : Sélectionner stations"
+
+msgid "HUD: Toggle towns"
+msgstr "HUD : Sélectionner villes"
+
+msgid "Hangar"
+msgstr "Hangar"
+
+msgid "Hard"
+msgstr "Difficile"
+
+msgid "Have 100km of tunnels."
+msgstr "Construisez 100 km de tunnels."
+
+msgid "Have 400km of tracks."
+msgstr "Construisez 400 km de voies ferrées."
+
+msgid "Have 50km of bridges."
+msgstr "Construisez 50 km de ponts."
+
+msgid "Have a cargo item transported with one of your vehicles."
+msgstr "Transportez une cargaison avec l'un de vos véhicules."
+
+msgid "Have a cargo item waiting at a terminal."
+msgstr "Ayez une cargaison en attente dans un terminal."
+
+msgid "Have a monthly maintenance cost of 200 million."
+msgstr "Totalisez des frais de maintenance mensuels de 200 M$."
+
+msgid "Have a passenger on a vehicle."
+msgstr "Embarquez un passager dans un véhicule."
+
+msgid "Have a town with a population of at least 1500."
+msgstr "Obtenez une population de 1 500 habitants dans une ville."
+
+msgid "Have a town with a population of at least 750."
+msgstr "Obtenez une population de 750 habitants dans une ville."
+
+msgid "Have a train filled with at least 100 passengers."
+msgstr "Faites monter 100 passagers à bord d'un train."
+
+msgid "Have a train filled with at least 200 passengers."
+msgstr "Faites monter 200 passagers à bord d'un train."
+
+msgid "Have a train filled with at least 250 cargo items."
+msgstr "Embarquez 250 marchandises dans un train."
+
+msgid "Have a train longer than the longest possible station."
+msgstr "Possédez un train plus long que la plus longue des stations."
+
+msgid "Have a train that reaches higher than 450 meters."
+msgstr "Possédez un train long d'au moins 450 mètres."
+
+msgid ""
+"Have all tracks electrified and high speed. Have at least 100km of tracks."
+msgstr ""
+"Électrifiez toutes les voies ferrées pour les TGV. Totalisez au moins 100 km "
+"de voies."
+
+msgid "Have at least 300 cargo items waiting at a train station."
+msgstr "Totalisez 300 cargaisons en attente à la gare."
+
+msgid "Have at least 300 passengers waiting in a train station."
+msgstr "Totalisez 300 passagers en attente d'un train."
+
+msgid "Have every industry shipping items using your transport network."
+msgstr ""
+"Obtenez la confiance de tous les industriels pour l'expédition des "
+"marchandises."
+
+msgid "Have two trains stuck facing each other."
+msgstr "Bloquez deux trains face à face."
+
+msgid "Head of PR & Community Management"
+msgstr "Directeur RP et gestion de la communauté"
+
+msgid "Head of Product Management"
+msgstr "Chef de gestion du produit"
+
+msgid "Heading for %1%"
+msgstr "En direction de %1%"
+
+msgid "Heading for depot"
+msgstr "En direction du dépôt"
+
+msgid "Headquarters"
+msgstr "Siège"
+
+msgid "Heavily loaded"
+msgstr "Train chargé"
+
+msgid "Height at mouse cursor: %s"
+msgstr "Hauteur au curseur de la souris : %s"
+
+msgid "Heightmap"
+msgstr "Carte de hauteur"
+
+msgid "Heightmap height invalid. Valid heights: %1%."
+msgstr "Hauteur de la carte de hauteur invalide. Hauteurs valides : %1%."
+
+msgid "Heightmap texture tool"
+msgstr "Outil de texture de la carte de hauteur"
+
+msgid "Heightmap too large. Number of pixels must not exceed %1%M."
+msgstr ""
+"Carte de hauteur trop large. Le nombre de pixels ne doit pas dépasser %1% m."
+
+msgid "Heightmap width invalid. Valid widths: %1%."
+msgstr "Largeur de la carte de hauteur invalide. Largeurs valides : %1%."
+
+msgid "Help"
+msgstr "Aide"
+
+msgid "Hide advanced options"
+msgstr "Masquer les options avancées"
+
+msgid "High"
+msgstr "Élevé"
+
+msgid "High speed"
+msgstr "Grande vitesse"
+
+msgid "High-speed"
+msgstr "Grande vitesse"
+
+msgid "High-speed track tool"
+msgstr "Outils de rails à grande vitesse"
+
+msgid "Horse"
+msgstr "Chevaux"
+
+msgid "Huge"
+msgstr "Énorme"
+
+msgid "Idle"
+msgstr "Inoccupé"
+
+msgid "Image file too large (must be less than 1MB)"
+msgstr "Fichier d'image trop grand (doit être inférieur à 1 MB)"
+
+msgid "Image type must be grayscale."
+msgstr "L'image doit être en échelle des gris."
+
+msgid "Import"
+msgstr "Import"
+
+msgid "Import heightmap"
+msgstr "Importer une carte de hauteur"
+
+msgid "Important note"
+msgstr "Remarque importante"
+
+msgid "In"
+msgstr "Ajouter"
+
+msgid "In depot"
+msgstr "Au dépôt"
+
+msgid "Income"
+msgstr "Revenu"
+
+msgid "Incoming"
+msgstr "Entrée"
+
+msgid "Incoming vehicle(s)"
+msgstr "Véhicule(s) entrant(s)"
+
+msgid "Indigo Pearl"
+msgstr "Indigo perle"
+
+msgid "Industrial"
+msgstr "Industriel"
+
+msgid "Industrial area"
+msgstr "Zone industrielle"
+
+msgid "Industrial building"
+msgstr "Bâtiment industriel"
+
+msgid "Industrial supply"
+msgstr "Approvisionnement industriel"
+
+msgid "Industrialist"
+msgstr "Industriel"
+
+msgid "Industries"
+msgstr "Industries"
+
+msgid "Industries report following problems:"
+msgstr "Les industries rencontrent les problèmes suivants :"
+
+msgid "Industry"
+msgstr "Industrie"
+
+msgid "Industry statistics"
+msgstr "Statistiques d'industrie"
+
+msgid "Infrastructure"
+msgstr "Infrastructure"
+
+msgid "Insert fade after"
+msgstr "Insérer une estompe après"
+
+msgid "Insert fade before"
+msgstr "Insérer une estompe avant"
+
+msgid "Insert key frame after"
+msgstr "Insérer l'image-clé après"
+
+msgid "Insert key frame before"
+msgstr "Insérer l'image-clé avant"
+
+msgid "Insert subtitle after"
+msgstr "Insérer un sous-titre après"
+
+msgid "Insert subtitle before"
+msgstr "Insérer un sous-titre avant"
+
+msgid "Interface"
+msgstr "Interface"
+
+msgid "Interface scaling"
+msgstr "Mise à l'échelle de l'interface"
+
+msgid "Interns"
+msgstr "Stagiaires"
+
+msgid "Invalid UTF-8 encountered"
+msgstr "Encodage UTF-8 invalide"
+
+msgid "Invalid configuration, %1% module will collide."
+msgid_plural "Invalid configuration, %1% modules will collide."
+msgstr[0] "Configuration non valide, %1% module entrera en collision."
+msgstr[1] "Configuration non valide, %1% modules entreront en collision."
+
+msgid "Inventory"
+msgstr "Inventaire"
+
+msgid "Invert"
+msgstr "Inverser"
+
+msgid "Invert panning"
+msgstr "Inverser panoramique"
+
+msgid "Invert rotation"
+msgstr "Inverser rotation"
+
+msgid "Invert rotation keys"
+msgstr "Inverser touches de rotation"
+
+msgid "Invert tilting"
+msgstr "Inverser inclinaison"
+
+msgid "Invert zooming"
+msgstr "Inverser zoom"
+
+msgid "Investments"
+msgstr "Investissements"
+
+msgid "Jobs"
+msgstr "Métiers"
+
+msgid "Keep"
+msgstr "Conserver"
+
+msgid "Keep a train built before 1900 running until the year 2000."
+msgstr ""
+"Maintenez en circulation jusqu'en l'an 2000 un train construit avant 1900."
+
+msgid "Keep assets"
+msgstr "Conserver éléments"
+
+msgid "Keep existing industries"
+msgstr "Conserver les industries existantes"
+
+msgid "Keep existing streets"
+msgstr "Conserver les rues existantes"
+
+msgid "Keep existing towns"
+msgstr "Conserver les villes existantes"
+
+msgid "Keep heightmap"
+msgstr "Conserver la carte de hauteur"
+
+msgid "Keep resolution?"
+msgstr "Conserver cette résolution ?"
+
+msgid "Keep trees and rocks"
+msgstr "Conserver les arbres et rochers"
+
+msgid "Key mapping"
+msgstr "Cartographie des touches"
+
+msgid "Key visuals"
+msgstr "Visuels clés"
+
+msgid "KeyFrame %1%"
+msgstr "Image-clé %1%"
+
+msgid "Keyframes"
+msgstr "Images-clés"
+
+msgid "Land use"
+msgstr "Utilisation des terres"
+
+msgid "Land use layer"
+msgstr "Filtre d'utilisation des terres"
+
+msgid "Lanes: %1%, Speed limit: %2%"
+msgstr "Voies : %1%, Limitation de vitesse : %2%"
+
+msgid "Language"
+msgstr "Langue"
+
+msgid "Large"
+msgstr "Large"
+
+msgid "Last Image:"
+msgstr "Dernière image"
+
+msgid "Last recording:"
+msgstr "Dernier enregistrement"
+
+msgid "Last savegame \"%1%\""
+msgstr "Dernière partie sauvegardée « %1% »"
+
+msgid "Lead artist"
+msgstr "Artiste en chef"
+
+msgid "Lead programmer"
+msgstr "Programmeur en chef"
+
+msgid "Length"
+msgstr "Longueur"
+
+msgid "Let a manufacturing industry upgrade."
+msgstr "Améliorez une industrie manufacturière."
+
+msgid "Level"
+msgstr "Niveau"
+
+msgid "Liabilities"
+msgstr "Responsabilités"
+
+msgid "Lifespan"
+msgstr "Durée de vie"
+
+msgid "Lifetime reached"
+msgstr "Limite atteinte"
+
+msgid "Limit reached!\n"
+msgstr "Limite atteinte !\n"
+
+msgid "Line"
+msgstr "Ligne"
+
+msgid "Line Usage"
+msgstr "Utilisation de la ligne"
+
+msgid "Line contains too few stations"
+msgstr "Cette ligne possède trop peu de gares"
+
+msgid "Line has no stops"
+msgstr "La ligne n'a pas d'arrêt"
+
+msgid "Line manager"
+msgstr "Assistant de gestion de ligne"
+
+msgid "Line must contain at least one stop"
+msgstr "Cette ligne doit posséder au moins un arrêt"
+
+msgid "Line statistics"
+msgstr "Statistiques de ligne"
+
+msgid "Lines passing:"
+msgstr "Passage des lignes :"
+
+msgid "Lines report following problems:"
+msgstr "Ces lignes rencontrent le problème suivant :"
+
+msgid "Liquidity"
+msgstr "Liquidité"
+
+msgid "Load"
+msgstr "Charger"
+
+msgid "Load Camera config"
+msgstr "Charger une configuration caméra"
+
+msgid "Load Game"
+msgstr "Charger une partie"
+
+msgid "Load Map"
+msgstr "Charger la carte"
+
+msgid "Load a map"
+msgstr "Charger une carte"
+
+msgid "Load an existing game"
+msgstr "Charger une partie existante"
+
+msgid "Load an existing map"
+msgstr "Charger carte existante"
+
+msgid "Load game"
+msgstr "Charger une partie"
+
+msgid "Load if available"
+msgstr "Charger si disponible"
+
+msgid "Load key frames"
+msgstr "Charger les images-clés"
+
+msgid "Load map"
+msgstr "Charger la carte"
+
+msgid "Load the map"
+msgstr "Charger la carte"
+
+msgid "Loaded"
+msgstr "Chargé"
+
+msgid "Loading order, click to change"
+msgstr "Ordre de chargement, cliquer pour changer"
+
+msgid "Loading speed"
+msgstr "Vitesse de chargement"
+
+msgid "Loading..."
+msgstr "Chargement..."
+
+msgid "Loan"
+msgstr "Prêt"
+
+msgid "Loan interest"
+msgstr "Intérêts du prêt"
+
+msgid "Loan to repay: %1%"
+msgstr "Prêt à rembourser : %1%"
+
+msgid "Localization"
+msgstr "Localisation"
+
+msgid "Locate"
+msgstr "Localiser"
+
+msgid "Locomotives"
+msgstr "Locomotives"
+
+msgid "Louis Favre"
+msgstr "Louis Favre"
+
+msgid "Low"
+msgstr "Bas"
+
+msgid "Lower"
+msgstr "Baisser"
+
+msgid "Lower %1%"
+msgstr "Bas %1%"
+
+msgid "Lower the terrain."
+msgstr "Abaisse le terrain."
+
+msgid "Lower tool"
+msgstr "Outil pour abaisser"
+
+msgid "Main connection will be interrupted"
+msgstr "La connexion principale sera interrompue"
+
+msgid "Main connections"
+msgstr "Connexions principales"
+
+msgid "Main connections:"
+msgstr "Connexions principales :"
+
+msgid "Maintenance"
+msgstr "Maintenance"
+
+msgid "Maintenance depots"
+msgstr "Maintenance de dépôts"
+
+msgid "Maintenance infrastructure"
+msgstr "Maintenance d'infrastructures"
+
+msgid "Maintenance other"
+msgstr "Autre maintenance"
+
+msgid "Maintenance roads"
+msgstr "Maintenance de routes"
+
+msgid "Maintenance set to keep vehicle at %1% condition"
+msgstr "Maintenance réglée pour garder les véhicules en %1% condition."
+
+msgid "Maintenance stations"
+msgstr "Maintenance de stations"
+
+msgid "Maintenance tracks"
+msgstr "Maintenance de rails"
+
+msgid "Maintenance vehicles"
+msgstr "Maintenance de véhicules"
+
+msgid "Manage line"
+msgstr "Gestion de la ligne"
+
+msgid "Manage vehicle"
+msgstr "Gestion du véhicule"
+
+msgid "Manage vehicles"
+msgstr "Gestion des véhicules"
+
+msgid "Management"
+msgstr "Gestion"
+
+msgid "Map Editor"
+msgstr "Éditeur de carte"
+
+msgid "Map format"
+msgstr "Format de carte"
+
+msgid "Map format:"
+msgstr "Format de carte :"
+
+msgid "Map generation failed"
+msgstr "Échec de la création de la carte"
+
+msgid "Map size"
+msgstr "Taille de la carte"
+
+msgid "Map size:"
+msgstr "Taille de la carte :"
+
+msgid "Marchsreiter"
+msgstr "Marchsreiter"
+
+msgid "Marketing"
+msgstr "Marketing"
+
+msgid "Marketing Assistant"
+msgstr "Assistant marketing"
+
+msgid "Mass production"
+msgstr "Production industrielle"
+
+msgid "Master"
+msgstr "Master"
+
+msgid "Maximum loan: %1%"
+msgstr "Prêt maximal : %1%"
+
+msgid "Maximum waiting time"
+msgstr "Durée d'attente maximale"
+
+msgid "Mediocre"
+msgstr "Médiocre"
+
+msgid "Medium"
+msgstr "Moyenne"
+
+msgid "Megalomaniac"
+msgstr "Mégalomane"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Menu music"
+msgstr "Musique des menus"
+
+msgid "Metropolis"
+msgstr "Métropolis"
+
+msgid "Minus old vehicle value"
+msgstr "Valeur moins celle de l'ancien véhicule"
+
+msgid "Misc."
+msgstr "Div."
+
+msgid "Miscellaneous"
+msgstr "Divers"
+
+msgid "Missing electric tracks"
+msgstr "Rails électriques manquants"
+
+msgid "Missing tram tracks"
+msgstr "Rails de tram manquants"
+
+msgid "Mission %1%"
+msgstr "Mission %1%"
+
+msgid "Mission %1% of %2%"
+msgstr "Mission %1% sur %2%"
+
+msgid "Mission completed"
+msgstr "Mission terminée"
+
+msgid "Mission failed"
+msgstr "Échec de la mission"
+
+msgid "Mission tasks"
+msgstr "Tâches de la mission"
+
+msgid "Mission: %1%"
+msgstr "Mission : %1%"
+
+msgid "Mixed rocks"
+msgstr "Rochers aléatoires"
+
+msgid "Mixed trees"
+msgstr "Arbres aléatoires"
+
+msgid "Mod not installed"
+msgstr "Module non installé"
+
+msgid "Modify for "
+msgstr "Modifier pour "
+
+msgid "Modify the terrain with a heightmap texture."
+msgstr "Modifie le terrain avec une texture de carte de hauteur"
+
+msgid "Mods are active. Achievements cannot be earned!"
+msgstr "Les modules sont activés. Les objectifs ne peuvent pas être remplis !"
+
+msgid "Module bulldozer"
+msgstr "Module bulldozer"
+
+msgid "Money number format"
+msgstr "Format des chiffres pour l'argent"
+
+msgid "Mouse wheel sensitivity"
+msgstr "Sensibilité de la molette de la souris"
+
+msgid "Mouse/keyboard settings"
+msgstr "Paramètres de la souris/du clavier"
+
+msgid "Move mode"
+msgstr "Mode mobile"
+
+msgid "Move vehicle left"
+msgstr "Déplacer véhicule à gauche"
+
+msgid "Move vehicle right"
+msgstr "Déplacer véhicule à droite"
+
+msgid "Multiple units"
+msgstr "Unités multiples"
+
+msgid "Museum line"
+msgstr "Le musée du transport"
+
+msgid "Music"
+msgstr "Musique"
+
+msgid "Music era-dependent"
+msgstr "Musique en fonction de l'époque"
+
+msgid "Music player"
+msgstr "Lecteur audio"
+
+msgid "Mute"
+msgstr "Muet"
+
+msgid "N/A"
+msgstr "N/A"
+
+msgid "NOT FOUND (%1%)"
+msgstr "INTROUVABLE (%1%)"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Name:"
+msgstr "Nom :"
+
+msgid "Narrow angle"
+msgstr "Angle trop serré"
+
+msgid "Navigable waters"
+msgstr "Eaux navigables"
+
+msgid "Navigable waters layer"
+msgstr "Filtre des eaux navigables"
+
+msgid "Never"
+msgstr "Jamais"
+
+msgid "New line"
+msgstr "Nouvelle ligne"
+
+msgid "New vehicle"
+msgstr "Nouveau véhicule"
+
+msgid "Next"
+msgstr "Suivant"
+
+msgid "No"
+msgstr "Non"
+
+msgid "No Line"
+msgstr "Aucune ligne"
+
+msgid "No bridge"
+msgstr "Aucun pont"
+
+msgid "No construction set!"
+msgstr "Aucune construction prévue !"
+
+msgid "No country for old trains"
+msgstr "L'avenir sur les rails"
+
+msgid "No depot found"
+msgstr "Aucun dépôt trouvé"
+
+msgid "No electric path"
+msgstr "Aucune voie électrifiée"
+
+msgid "No filter currently set"
+msgstr "Aucun filtre actuellement paramétré"
+
+msgid "No free seats"
+msgstr "Train bondé"
+
+msgid "No line passing"
+msgstr "Aucun passage de ligne"
+
+msgid "No logo"
+msgstr "Aucun logo"
+
+msgid ""
+"No maps available.\n"
+"\n"
+"Maps can be created with the map editor or\n"
+"downloaded from Steam Workshop."
+msgstr ""
+"Aucune carte disponible.\n"
+"\n"
+"Les cartes peuvent être créées au moyen de l'éditeur de carte ou\n"
+"téléchargées depuis le Steam Workshop"
+
+msgid ""
+"No maps available.\n"
+"\n"
+"Maps can be created with the map editor."
+msgstr ""
+"Aucune carte disponible.\n"
+"\n"
+"Les cartes peuvent être créées au moyen de l'éditeur de carte."
+
+msgid "No parameters"
+msgstr "Aucun paramètre"
+
+msgid "No path"
+msgstr "Aucune voie"
+
+msgid "No path (Big aircraft)"
+msgstr "Aucun couloir (gros avion)"
+
+msgid "No path (Big ship)"
+msgstr "Aucune voie (grosse embarcation)"
+
+msgid "No path (Electric)"
+msgstr "Aucune voie (électrique)"
+
+msgid "No path for big airplanes"
+msgstr "Gros avions non autorisés"
+
+msgid "No path for big ships"
+msgstr "Grosses embarcations non autorisées"
+
+msgid "No path found between %1% and %2%"
+msgstr "Aucune voie trouvée entre %1% et %2%"
+
+msgid "No saved games available."
+msgstr "Aucune partie sauvegardée disponible"
+
+msgid "No segment removable"
+msgstr "Aucun segment supprimable"
+
+msgid "No tasks available"
+msgstr "Aucune tâche disponible"
+
+msgid "No tunnel"
+msgstr "Aucun tunnel"
+
+msgid "No vehicles to replace!"
+msgstr "Aucun véhicule à remplacer"
+
+msgid "Node locked"
+msgstr "Nœud verrouillé"
+
+msgid "None"
+msgstr "Aucun"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Not assigned to a terminal"
+msgstr "Assigné à aucun terminal"
+
+msgid "Not contained by any line as waypoint"
+msgstr "Aucune ligne ne l'utilise en tant que point de cheminement"
+
+msgid "Not enough money"
+msgstr "Argent insuffisant"
+
+msgid "Not enough money."
+msgstr "Argent insuffisant"
+
+msgid "Not in my backyard"
+msgstr "Pas chez moi"
+
+msgid "Nothing waiting"
+msgstr "Aucune attente"
+
+msgid "Notifications"
+msgstr "Notifications"
+
+msgid "Now what?"
+msgstr "Et maintenant ?"
+
+msgid "Number of industries"
+msgstr "Nombre d'industries"
+
+msgid "Number of industries:"
+msgstr "Nombre d'industries :"
+
+msgid "Number of items currently in stock"
+msgstr "Nombre d'objets actuellement en stock"
+
+msgid "Number of lines"
+msgstr "Nombre de lignes"
+
+msgid "Number of towns"
+msgstr "Nombre de villes"
+
+msgid "Number of towns:"
+msgstr "Nombre de villes :"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Off"
+msgstr "Désactivé"
+
+msgid "Old timer"
+msgstr "Vétéran"
+
+msgid "Oldest vehicle"
+msgstr "Véhicule le plus vieux"
+
+msgid "One-way"
+msgstr "Sens unique"
+
+msgid "Only show air lines and hangars"
+msgstr "N'afficher que les couloirs aériens et les hangars"
+
+msgid "Only show lines and depots that are visible in the main view"
+msgstr "Affiche les lignes et les dépôts visibles dans l'écran principal"
+
+msgid "Only show lines that are visible in the main view"
+msgstr "N'afficher que les lignes qui sont visibles sur la vue principale"
+
+msgid "Only show railroad lines and depots"
+msgstr "N'afficher que les voies ferrées et les dépôts"
+
+msgid "Only show road lines and depots"
+msgstr "N'afficher que les routes et les dépôts"
+
+msgid "Only show ship lines and shipyards"
+msgstr "N'afficher que les voies navigables et les chantiers navals"
+
+msgid "Only show tram lines and depots"
+msgstr "N'afficher que les lignes de trams et les dépôts"
+
+msgid "Only show vehicles that are visible in the main view"
+msgstr "Ne montrer que les véhicules visibles dans l'écran principal"
+
+msgid "Open advanced game settings dialog"
+msgstr "Ouvrir boîte de dialogue des paramètres de jeu avancés"
+
+msgid "Open vehicle manager"
+msgstr "Ouvrir gestion des véhicules"
+
+msgid "Open vehicle store to buy vehicles"
+msgstr "Ouvrir une boutique pour acheter des véhicules"
+
+msgid "Open vehicle window on purchase"
+msgstr "Ouvrir la fenêtre de gestion des véhicules à l'achat"
+
+msgid "OpenGL context creation failed"
+msgstr "Échec de création de contexte OpenGL"
+
+msgid "Other"
+msgstr "Autre"
+
+msgid "Other infrastructure"
+msgstr "Autre infrastructure"
+
+msgid "Out"
+msgstr "Retirer"
+
+msgid "Output resolution"
+msgstr "Résolution de sortie"
+
+msgid "Overload"
+msgstr "Saturation"
+
+msgid "Overloaded stations"
+msgstr "Gares saturées"
+
+msgid "Overview"
+msgstr "Aperçu"
+
+msgid "Overwrite heightmap?"
+msgstr "Écraser la carte de hauteur ?"
+
+msgid "Overwrite savegame?"
+msgstr "Écraser la partie sauvegardée ?"
+
+msgid "Ownership test failed"
+msgstr "Échec du test de propriété"
+
+msgid "PR & Community Management"
+msgstr "RP et gestion de la communauté"
+
+msgid "PR Assistant"
+msgstr "Assistant RP"
+
+msgid "Paint tools"
+msgstr "Outils de peinture"
+
+msgid "Passenger"
+msgstr "Passager"
+
+msgid "Passenger stations"
+msgstr "Gares de passagers"
+
+msgid "Passenger stop can not be used by cargo vehicles"
+msgstr ""
+"Cet arrêt de passagers ne peut pas être utilisé par des véhicules de "
+"marchandises."
+
+msgid "Passenger stops can not be used by cargo vehicles"
+msgstr ""
+"Les arrêts de passagers ne peuvent pas être utilisés par des véhicules de "
+"marchandises."
+
+msgid "Passengers"
+msgstr "Passagers"
+
+msgid "Passengers transported (last 12 months)"
+msgstr "Passagers transportés (12 derniers mois)"
+
+msgid "Passengers transported (total)"
+msgstr "Passagers transportés (total)"
+
+msgid "Pause"
+msgstr "Pause"
+
+msgid "Pause preview"
+msgstr "Mettre l'aperçu en pause"
+
+msgid "Paused"
+msgstr "En pause"
+
+msgid "Penny pincher"
+msgstr "Grippe-sou"
+
+msgid "Perspective panning"
+msgstr "Panoramique de perspective"
+
+msgid "Picture"
+msgstr "Photo"
+
+msgid "Pin"
+msgstr "Épingler"
+
+msgid "Place random rocks with a brush."
+msgstr "Place des rochers aléatoires avec un pinceau."
+
+msgid "Place random trees with a brush."
+msgstr "Place des arbres aléatoires avec un pinceau."
+
+msgid "Play Map"
+msgstr "Jouer carte"
+
+msgid "Play a campaign"
+msgstr "Jouer une campagne"
+
+msgid "Play a game in all three climates."
+msgstr "Lancez une partie sous les 3 climats."
+
+msgid "Play a map"
+msgstr "Jouer une carte"
+
+msgid "Play map"
+msgstr "Jouer carte"
+
+msgid "Play next song"
+msgstr "Lire la chanson suivante"
+
+msgid "Play or pause current song"
+msgstr "Lire ou mettre en pause la chanson actuelle"
+
+msgid "Play previous song"
+msgstr "Lire la chanson précédente"
+
+msgid "Player Owned"
+msgstr "Possédé par le joueur"
+
+msgid "Player owned"
+msgstr "Possédé par le joueur"
+
+msgid "Please try installing the latest drivers for your graphics card."
+msgstr "Veuillez installer les derniers pilotes de votre carte graphique."
+
+msgid "Point to the terrain"
+msgstr "Cliquer sur le terrain"
+
+msgid "Poor"
+msgstr "Moyenne"
+
+msgid "Population"
+msgstr "Population"
+
+msgid "Power"
+msgstr "Puissance"
+
+msgid "Power rating"
+msgstr "Puissance nominale"
+
+msgid "Power units"
+msgstr "Unités de puissance"
+
+msgid "Preparing game..."
+msgstr "Préparation de la partie..."
+
+msgid "Presets"
+msgstr "Préréglages"
+
+msgid "Press any key"
+msgstr "Appuyer sur n'importe quelle touche"
+
+msgid "Preview image:"
+msgstr "Image d'aperçu :"
+
+msgid "Previous resolution setting will be restored in %2d seconds!"
+msgstr ""
+"Les paramètres de résolution précédents seront réinitialisés dans "
+"%2d secondes !"
+
+msgid "Private transport"
+msgstr "Transport privé"
+
+msgid "Produced"
+msgstr "Produit"
+
+msgid "Product"
+msgstr "Produit"
+
+msgid "Product Management"
+msgstr "Gestion du produit"
+
+msgid "Product Management Assistant"
+msgstr "Assistant gestion du produit"
+
+msgid "Production"
+msgstr "Production"
+
+msgid "Production rating"
+msgstr "Indice de production"
+
+msgid "Profit last 12 months"
+msgstr "Bénéfice des 12 derniers mois"
+
+msgid "Programmers"
+msgstr "Programmeurs"
+
+msgid "Prohibited area"
+msgstr "Zone interdite"
+
+msgid "Project lead"
+msgstr "Chef de projet"
+
+msgid "Public transport"
+msgstr "Transport public"
+
+msgid "Publish"
+msgstr "Publier"
+
+msgid "Publish Map"
+msgstr "Publier carte"
+
+msgid "Publish Mod"
+msgstr "Publier module"
+
+msgid "Publish Savegame"
+msgstr "Publier la partie sauvegardée"
+
+msgid "Publishing..."
+msgstr "Publication..."
+
+msgid "Quality"
+msgstr "Qualité"
+
+msgid "Quality assurance"
+msgstr "Assurance qualité"
+
+msgid "Quality of life in %1%"
+msgstr "Qualité de vie de %1%"
+
+msgid "Quantity"
+msgstr "Quantité"
+
+msgid "Quit"
+msgstr "Quitter"
+
+msgid "Quit game"
+msgstr "Quitter le jeu"
+
+msgid "Quit to main menu or desktop"
+msgstr "Retourner au menu principal ou sur le bureau"
+
+msgid "Rail"
+msgstr "Rail"
+
+msgid "Railroad"
+msgstr "Voie ferrée"
+
+msgid "Railroad crossing"
+msgstr "Aiguillage"
+
+msgid "Raise"
+msgstr "Élever"
+
+msgid "Raise the terrain."
+msgstr "Élève le terrain."
+
+msgid "Raise tool"
+msgstr "Outil pour élever"
+
+msgid "Random"
+msgstr "Aléatoire"
+
+msgid "Random seed"
+msgstr "Tête de série aléatoire"
+
+msgid "Randomize rotation"
+msgstr "Rotation aléatoire"
+
+msgid "Range:"
+msgstr "Distance :"
+
+msgid "Rate"
+msgstr "Taux"
+
+msgid "Rating from \"%1%\" to \"%2%\""
+msgstr "Classement de « %1% » à « %2% »"
+
+msgid "Reach 400 production at a manufacturing industry."
+msgstr "Produisez 400 articles dans une manufacture."
+
+msgid "Reach a top speed of 120 km/h."
+msgstr "Atteignez 120 km/h."
+
+msgid "Reach a top speed of 300 km/h."
+msgstr "Atteignez 300 km/h."
+
+msgid "Reach an emission value of 80 in a town."
+msgstr "Atteignez des émissions de 80 en ville."
+
+msgid "Reach the maximum headquarters level."
+msgstr "Menez le siège de votre entreprise au niveau maximum."
+
+msgid "Reach the present."
+msgstr "Voyagez au temps présent."
+
+msgid "Reach the year 2050 using only trains."
+msgstr "Atteignez l'an 2 050 en n'utilisant que des trains."
+
+msgid "Reading heightmap..."
+msgstr "Lecture de la carte de hauteur..."
+
+msgid "Real estate"
+msgstr "Immobilier"
+
+msgid "Record key frame"
+msgstr "Enregistrer image-clé"
+
+msgid "Refittable"
+msgstr "Ajustable"
+
+msgid "Reflection"
+msgstr "Reflets"
+
+msgid "Refresh"
+msgstr "Rafraîchir"
+
+msgid "Relative mode"
+msgstr "Mode relatif"
+
+msgid "Relocate"
+msgstr "Déménager"
+
+msgid "Remove all"
+msgstr "Tout supprimer"
+
+msgid "Remove all connections"
+msgstr "Supprimer toutes les connexions"
+
+msgid "Remove all stations and waypoints"
+msgstr "Supprimer toutes les gares et étapes"
+
+msgid "Remove all stations?"
+msgstr "Supprimer toutes les gares ?"
+
+msgid "Remove attachment"
+msgstr "Supprimer pièce jointe"
+
+msgid "Remove station or waypoint"
+msgstr "Supprimer une gare ou une étape"
+
+msgid "Remove vehicle"
+msgstr "Supprimer véhicule"
+
+msgid "Rename"
+msgstr "Renommer"
+
+msgid "Repay %1%"
+msgstr "Rembourser %1%"
+
+msgid "Replace all vehicles"
+msgstr "Remplacer tous les véhicules"
+
+msgid "Replace for "
+msgstr "Remplacer pour "
+
+msgid "Replace selected vehicle"
+msgid_plural "Replace selected vehicles"
+msgstr[0] "Remplacer véhicule sélectionné"
+msgstr[1] "Remplacer véhicules sélectionnés"
+
+msgid "Replace vehicle"
+msgstr "Remplacer le véhicule"
+
+msgid "Replace vehicles"
+msgstr "Remplacer véhicules"
+
+msgid "Replacement vehicle not set"
+msgstr "Véhicule de remplacement non défini"
+
+msgid "Replacing vehicle"
+msgstr "Remplacer véhicule"
+
+msgid "Requirements"
+msgstr "Conditions requises"
+
+msgid "Reset color"
+msgstr "Rafraîchir couleur"
+
+msgid "Reset key mapping to default?"
+msgstr "Réinitialiser la cartographie des touches par défaut ?"
+
+msgid "Reset to default"
+msgstr "Réinitialiser par défaut"
+
+msgid "Reset vehicle"
+msgstr "Réinitialiser véhicule"
+
+msgid "Residential"
+msgstr "Résidentiel"
+
+msgid "Residential area"
+msgstr "Zone résidentielle"
+
+msgid "Residential building"
+msgstr "Bâtiment résidentiel"
+
+msgid "Residents"
+msgstr "Habitants"
+
+msgid "Resolution"
+msgstr "Résolution"
+
+msgid "Restart"
+msgstr "Recommencer"
+
+msgid "Restart game and apply settings"
+msgstr "Recommencer la partie et appliquer les paramètres"
+
+msgid "Restart the mission"
+msgstr "Recommencer mission"
+
+msgid "Resume"
+msgstr "Reprendre"
+
+msgid "Resume game"
+msgstr "Reprendre la partie"
+
+msgid "Return to campaign menu"
+msgstr "Retourner au menu de campagne"
+
+msgid "Return to main menu"
+msgstr "Retourner au menu principal"
+
+msgid "Return to previous page"
+msgstr "Retourner à la page précédente"
+
+msgid "Reverse"
+msgstr "Intervertir"
+
+msgid "Road"
+msgstr "Route"
+
+msgid "Road depot"
+msgstr "Dépôt de voirie"
+
+msgid "Road vehicle"
+msgid_plural "Road vehicles"
+msgstr[0] "Véhicule routier"
+msgstr[1] "Véhicules routiers"
+
+msgid "Road vehicle %1%"
+msgstr "Véhicule routier %1%"
+
+msgid "Road vehicles"
+msgstr "Véhicules routiers"
+
+msgid "Roads"
+msgstr "Routes"
+
+msgid ""
+"Rotate construction with <%1%> and <%2%> keys.\n"
+"Lower/raise construction with <%3%> and <%4%> keys."
+msgstr ""
+"Pivotez la construction avec les touches <%1%> et <%2%>.\n"
+"Relevez/abaissez la construction avec les touches <%3%> et <%4%>"
+
+msgid "Rotation"
+msgstr "Rotation"
+
+msgid "Rule"
+msgstr "Règle"
+
+msgid "Running"
+msgstr "Marche"
+
+msgid "Running costs"
+msgstr "Frais courants"
+
+msgid "Running costs: +%1%%%"
+msgstr "Frais courants : + %1%%%"
+
+msgid "Save"
+msgstr "Sauvegarder"
+
+msgid "Save and apply settings"
+msgstr "Sauvegarder et appliquer les paramètres"
+
+msgid "Save camera config"
+msgstr "Sauvegarder une configuration caméra"
+
+msgid "Save game"
+msgstr "Sauvegarder la partie"
+
+msgid "Save key frames"
+msgstr "Sauvegarder les images-clés"
+
+msgid "Save map"
+msgstr "Sauvegarder la carte"
+
+msgid "Save the settings"
+msgstr "Sauvegarder les paramètres"
+
+msgid "Saved game \"%1%\""
+msgstr "Partie sauvegardée « %1% »"
+
+msgid "Saving..."
+msgstr "Sauvegarde..."
+
+msgid "Scale"
+msgstr "Échelle"
+
+msgid "Sculpturer"
+msgstr "Paysagiste"
+
+msgid "Search for line..."
+msgstr "Recherche d'une ligne..."
+
+msgid "Search for mod..."
+msgstr "Recherche de modules..."
+
+msgid "Search for modules..."
+msgstr "Recherche de modules..."
+
+msgid "Search for vehicle..."
+msgstr "Recherche de véhicule..."
+
+msgid "Search..."
+msgstr "Recherche..."
+
+msgid "See your achievements"
+msgstr "Afficher vos objectifs"
+
+msgid "Seed:"
+msgstr "Tête de série :"
+
+msgid "Select"
+msgstr "Sélectionner"
+
+msgid "Select Campaign"
+msgstr "Sélectionner campagne"
+
+msgid "Select bit depth of grayscale image"
+msgstr "Sélectionner une profondeur en bits de l'image en échelle de gris."
+
+msgid "Select generator"
+msgstr "Sélectionner générateur"
+
+msgid "Select generator:"
+msgstr "Sélectionner générateur :"
+
+msgid "Select options"
+msgstr "Sélectionner des options"
+
+msgid "Select terminal for this stop"
+msgstr "Sélectionner un terminal pour cet arrêt"
+
+msgid "Select the campaign"
+msgstr "Sélectionner la campagne"
+
+msgid "Select vehicle"
+msgstr "Sélectionner véhicule"
+
+msgid "Sell"
+msgstr "Vendre"
+
+msgid "Sell all vehicles"
+msgstr "Vendre tous les véhicules"
+
+msgid "Sell all vehicles?"
+msgstr "Vendre tous les véhicules ?"
+
+msgid "Sell selected vehicle"
+msgid_plural "Sell selected vehicles"
+msgstr[0] "Vendre véhicule sélectionné"
+msgstr[1] "Vendre véhicules sélectionnés"
+
+msgid "Sell selected vehicle?"
+msgid_plural "Sell selected vehicles?"
+msgstr[0] "Vendre véhicule sélectionné ?"
+msgstr[1] "Vendre véhicules sélectionnés ?"
+
+msgid "Sell vehicle"
+msgstr "Vendre véhicule"
+
+msgid "Send all vehicles to depot"
+msgstr "Envoyer tous les véhicules au dépôt"
+
+msgid "Send all vehicles to depot?"
+msgstr "Envoyer tous les véhicules au dépôt ?"
+
+msgid "Send crash reports"
+msgstr "Envoyer des rapports de plantage"
+
+msgid "Send selected vehicle to depot"
+msgid_plural "Send selected vehicles to depot"
+msgstr[0] "Envoyer véhicule sélectionné au dépôt"
+msgstr[1] "Envoyer véhicules sélectionnés au dépôt"
+
+msgid "Send to depot"
+msgstr "Envoyer au dépôt"
+
+msgid "Set color for all vehicles"
+msgstr "Choisir la couleur de tous les véhicules"
+
+msgid "Set color for selected vehicle"
+msgid_plural "Set color for selected vehicles"
+msgstr[0] "Choisir la couleur du véhicule sélectionné"
+msgstr[1] "Choisir la couleur des véhicules sélectionnés"
+
+msgid "Set line"
+msgstr "Paramétrer la ligne"
+
+msgid "Set output frame rate to %1% fps"
+msgstr "Définir le taux d'images de sortie sur %1% ips"
+
+msgid "Set output game speed up to %1%"
+msgstr "Définir la vitesse de jeu de sortie sur %1%"
+
+msgid "Set output resolution to %1% x %2%"
+msgstr "Définir la résolution de sortie sur %1% x %2%"
+
+msgid "Settings"
+msgstr "Paramètres"
+
+msgid "Settings..."
+msgstr "Paramètres..."
+
+msgid "Settled down"
+msgstr "Implantation"
+
+msgid "Setup a line so that town residents use your vehicles."
+msgstr "Ouvrez une ligne pour proposer vos véhicules aux habitants."
+
+msgid "Shadows"
+msgstr "Ombres"
+
+msgid "Share"
+msgstr "Partager"
+
+msgid "Ship"
+msgid_plural "Ships"
+msgstr[0] "Navire"
+msgstr[1] "Navires"
+
+msgid "Ship %1%"
+msgstr "Navire %1%"
+
+msgid "Shipment"
+msgstr "Expédition"
+
+msgid "Shipped"
+msgstr "Expédié"
+
+msgid "Shipping"
+msgstr "Expédition"
+
+msgid "Ships"
+msgstr "Navires"
+
+msgid "Shipyard"
+msgstr "Chantier naval"
+
+msgid "Shop"
+msgstr "Boutique"
+
+msgid "Shopping"
+msgstr "Achat"
+
+msgid "Shopping facilities"
+msgstr "Locaux commerciaux"
+
+msgid "Show advanced options"
+msgstr "Afficher les options avancées"
+
+msgid "Show all"
+msgstr "Tout afficher"
+
+msgid "Show loading order"
+msgstr "Afficher l'ordre de chargement"
+
+msgid "Show only visible lines"
+msgstr "Afficher uniquement les lignes visibles"
+
+msgid "Show the mod loading order so that it can be specified manually"
+msgstr ""
+"Afficher l'ordre de chargement des modules pour le modifier manuellement"
+
+msgid "Show unsupported hardware warning"
+msgstr "Afficher l'avertissement de matériel non supporté"
+
+msgid "Show/hide HUD icon filter menu"
+msgstr "Afficher/Masquer filtre d'icônes HUD"
+
+msgid "Show/hide air menu"
+msgstr "Afficher/Masquer menu aérien"
+
+msgid "Show/hide assets menu"
+msgstr "Afficher/Masquer menu éléments"
+
+msgid "Show/hide cargo layer"
+msgstr "Afficher/Masquer filtre de marchandises"
+
+msgid "Show/hide contour lines layer"
+msgstr "Afficher/Masquer filtre des lignes de contour"
+
+msgid "Show/hide data layers menu"
+msgstr "Afficher/Masquer menu filtres"
+
+msgid "Show/hide destinations layer"
+msgstr "Afficher/Masquer filtre de destinations"
+
+msgid "Show/hide emission layer"
+msgstr "Afficher/Masquer filtre d'émissions"
+
+msgid "Show/hide industry statistics"
+msgstr "Afficher/Masquer statistiques d'industrie"
+
+msgid "Show/hide land use layer"
+msgstr "Afficher/Masquer filtre d'utilisation des terres"
+
+msgid "Show/hide line manager"
+msgstr "Afficher/Masquer gestion de ligne"
+
+msgid "Show/hide line statistics"
+msgstr "Afficher/Masquer statistiques de ligne"
+
+msgid "Show/hide list of achievements"
+msgstr "Afficher/masquer les objectifs validés"
+
+msgid "Show/hide load game dialog"
+msgstr "Afficher/masquer fenêtre de chargement"
+
+msgid "Show/hide music player"
+msgstr "Afficher/masquer le lecteur audio"
+
+msgid "Show/hide navigable waters layer"
+msgstr "Afficher/Masquer filtre d'eaux navigables"
+
+msgid "Show/hide options panel"
+msgstr "Afficher/masquer les options"
+
+msgid "Show/hide quit dialog"
+msgstr "Afficher/masquer fenêtre de fermeture"
+
+msgid "Show/hide save game dialog"
+msgstr "Afficher/masquer fenêtre de sauvegarde"
+
+msgid "Show/hide settings dialog"
+msgstr "Afficher/masquer la boîte de dialogue"
+
+msgid "Show/hide station statistics"
+msgstr "Afficher/Masquer statistiques de station"
+
+msgid "Show/hide stations layer"
+msgstr "Afficher/Masquer filtre de stations"
+
+msgid "Show/hide statistics window"
+msgstr "Afficher/masquer statistiques"
+
+msgid "Show/hide street constructions menu"
+msgstr "Afficher/Masquer menu construction de rues"
+
+msgid "Show/hide street modification tools menu"
+msgstr "Afficher/Masquer outils de modification des rues"
+
+msgid "Show/hide street traffic layer"
+msgstr "Afficher/Masquer filtre de trafic routier"
+
+msgid "Show/hide street waypoints menu"
+msgstr "Afficher/Masquer menu étapes routières"
+
+msgid "Show/hide streets menu"
+msgstr "Afficher/Masquer menu des rues"
+
+msgid "Show/hide terrain paint tools menu"
+msgstr "Afficher/Masquer menu peinture de terrain"
+
+msgid "Show/hide terrain tools menu"
+msgstr "Afficher/Masquer menu outils de terrain"
+
+msgid "Show/hide town statistics"
+msgstr "Afficher/Masquer statistiques de ville"
+
+msgid "Show/hide track modification tools menu"
+msgstr "Afficher/Masquer outils de modification des rails"
+
+msgid "Show/hide track signals menu"
+msgstr "Afficher/Masquer menu signaux ferroviaires"
+
+msgid "Show/hide track speed limits layer"
+msgstr "Afficher/Masquer filtre de limit. de vitesse ferroviaire"
+
+msgid "Show/hide track waypoints menu"
+msgstr "Afficher/Masquer menu étapes ferroviaires"
+
+msgid "Show/hide tracks menu"
+msgstr "Afficher/Masquer menu rails"
+
+msgid "Show/hide vehicle manager"
+msgstr "Afficher/Masquer gestion des véhicules"
+
+msgid "Show/hide vehicle statistics"
+msgstr "Afficher/Masquer statistiques de véhicule"
+
+msgid "Show/hide warnings window"
+msgstr "Afficher/masquer les avertissements"
+
+msgid "Show/hide water menu"
+msgstr "Afficher/Masquer menu portuaire"
+
+msgid "Signal #%1%"
+msgstr "Signalisation #%1%"
+
+msgid "Signals"
+msgstr "Signalisation"
+
+msgid "Signals must be removed first"
+msgstr "Vous devez d'abord supprimer les signaux"
+
+msgid "Single"
+msgstr "Simple"
+
+msgid "Size"
+msgstr "Taille"
+
+msgid "Skip collision"
+msgstr "Ignorer la collision"
+
+msgid "Sky"
+msgstr "Ciel"
+
+msgid "Slope threshold"
+msgstr "Début de la pente"
+
+msgid "Small"
+msgstr "Petite"
+
+msgid "Smooth the terrain."
+msgstr "Adoucit le terrain."
+
+msgid "Smooth tool"
+msgstr "Outil pour adoucir"
+
+msgid ""
+"Some DLCs and/or mods could not be found. Please install them first in order "
+"to load this savegame."
+msgstr ""
+"Certains contenus téléchargeables et/ou modules sont introuvables. Veuillez "
+"les installer pour charger cette partie sauvegardée."
+
+msgid "Some cargo items are lost because station is overloaded."
+msgstr "Certaines des marchandises ont été perdues, car la gare est saturée."
+
+msgid "Some passengers leave because station is overloaded."
+msgstr "Certains passagers partent, car la gare est saturée."
+
+msgid "Sound effects"
+msgstr "Bruitages"
+
+msgid "Source"
+msgstr "Source"
+
+msgid "Spawning animals..."
+msgstr "Création des animaux..."
+
+msgid "Specify vehicle"
+msgstr "Spécifier véhicule"
+
+msgid "Speed"
+msgstr "Vitesse"
+
+msgid "Speed of light"
+msgstr "Vitesse lumière"
+
+msgid "Speed units"
+msgstr "Unités de vitesse"
+
+msgid "Speed: 1x"
+msgstr "Vitesse : x1"
+
+msgid "Speed: 2x"
+msgstr "Vitesse : x2"
+
+msgid "Speed: 4x"
+msgstr "Vitesse : x4"
+
+msgid "Start"
+msgstr "Commencer"
+
+msgid "Start a new game"
+msgstr "Commencer une nouvelle partie"
+
+msgid "Start mission"
+msgstr "Commencer mission"
+
+msgid "Start preview"
+msgstr "Lancer l'aperçu"
+
+msgid "Start recording"
+msgstr "Lancer l'enregistrement"
+
+msgid "Start the game"
+msgstr "Commencer la partie"
+
+msgid "Start upload"
+msgstr "Lancer le chargement"
+
+msgid "Start year:"
+msgstr "Année de départ :"
+
+msgid "Station"
+msgstr "Gare"
+
+msgid "Station %1% appears consecutively twice"
+msgstr "La gare %1% apparaît consécutivement deux fois"
+
+msgid "Station appears consecutively twice"
+msgstr "Une gare apparaît consécutivement deux fois"
+
+msgid "Station statistics"
+msgstr "Statistiques de station"
+
+msgid "Station types don't match (e.g. bus stop and train station)"
+msgstr ""
+"Les types de gares ne correspondent pas (ex. : arrêt de bus et gare "
+"ferroviaire)"
+
+msgid "Stations"
+msgstr "Gares"
+
+msgid "Stations layer"
+msgstr "Filtre de stations"
+
+msgid "Stations report the following problems:"
+msgstr "Ces gares rencontrent les problèmes suivants :"
+
+msgid "Steam"
+msgstr "Vapeur"
+
+msgid "Steam API init failed"
+msgstr "Échec de l'initialisation Steam API"
+
+msgid "Steam Train"
+msgstr "Train à vapeur"
+
+msgid "Stocks"
+msgstr "En stock"
+
+msgid "Stop"
+msgstr "Arrêter"
+
+msgid "Stop #%1%"
+msgstr "Arrêt #%1%"
+
+msgid "Stop can not be used with current vehicles"
+msgstr "Cet arrêt ne peut pas être utilisé avec les véhicules actuels."
+
+msgid "Stop preview"
+msgstr "Arrêter l'aperçu"
+
+msgid "Stopped"
+msgstr "Arrêté"
+
+msgid "Stopping"
+msgstr "Arrêt"
+
+msgid "Stops must be removed first"
+msgstr "Vous devez d'abord supprimer les arrêts"
+
+msgid "Stored"
+msgstr "En stock"
+
+msgid "Street constructions"
+msgstr "Constructions de rues"
+
+msgid "Street modification tools"
+msgstr "Outils de modification des rues"
+
+msgid "Street traffic layer"
+msgstr "Filtre de trafic routier"
+
+msgid "Streets"
+msgstr "Rues"
+
+msgid "Strength"
+msgstr "Force"
+
+msgid "Subtitle %1%"
+msgstr "Sous-titres %1%"
+
+msgid "Subtitles"
+msgstr "Sous-titres"
+
+msgid "Successfully connected all stations"
+msgstr "Toutes les stations ont été connectées"
+
+msgid "Suppliers"
+msgstr "Fournisseurs"
+
+msgid "Supply"
+msgstr "Stock"
+
+msgid "Supply rating"
+msgstr "Taux d'approvisionnement"
+
+msgid "Table"
+msgstr "Tableau"
+
+msgid "Tag(s):"
+msgstr "Étiquette(s) :"
+
+msgid "Tags"
+msgstr "Balises"
+
+msgid "Target population"
+msgstr "Population cible"
+
+msgid "Task completed"
+msgstr "Tâche terminée"
+
+msgid "Tasks"
+msgstr "Tâches"
+
+msgid "Team"
+msgstr "Équipe"
+
+msgid "Terminal %1%"
+msgstr "Terminal %1%"
+
+msgid "Terminals"
+msgstr "Terminaux"
+
+msgid "Terrain"
+msgstr "Terrain"
+
+msgid "Terrain tools"
+msgstr "Outils de terrain"
+
+msgid "Text"
+msgstr "Texte"
+
+msgid "Textures"
+msgstr "Textures"
+
+msgid "The condition of %1% is very poor."
+msgstr "%1% est en très mauvaise condition"
+
+msgid "The condition of multiple vehicles is very poor."
+msgstr "Plusieurs véhicules sont en très mauvaise condition."
+
+msgid "The existing Steam Workshop item will be updated"
+msgstr "L'objet existant sur le Steam Workshop sera mis à jour"
+
+msgid "The future is now, old man"
+msgstr "L'avenir n'attend pas"
+
+msgid "The heightmap \"%1%\" already exists. Do you want to overwrite it?"
+msgstr "La carte de hauteur « %1% » existe déjà. Voulez-vous la remplacer ?"
+
+msgid "The initial size of %1%"
+msgstr "Taille initiale de %1%"
+
+msgid "The king of the sea"
+msgstr "Le roi des mers"
+
+msgid "The number of jobs in %1%"
+msgstr "Le nombre d'emplois à %1%"
+
+msgid "The number of residents in %1% is growing"
+msgstr "Le nombre d'habitants à %1% augmente"
+
+msgid "The number of residents in %1% is shrinking"
+msgstr "Le nombre d'habitants à %1% diminue"
+
+msgid "The number of residents in %1% is stable"
+msgstr "Le nombre d'habitants à %1% reste stable"
+
+msgid "The number of shopping facilities in %1%"
+msgstr "Le nombre de commerces à %1%"
+
+msgid "The number or residents %1% will grow/shrink to"
+msgstr "Le nombre de résidents %1% passera à"
+
+msgid "The savegame \"%1%\" already exists. Do you want to overwrite it?"
+msgstr "La partie sauvegardée « %1% » existe déjà. Voulez-vous la remplacer ?"
+
+msgid "The total growth"
+msgstr "Croissance totale"
+
+msgid "The ugly smell of success"
+msgstr "La rançon de la gloire"
+
+msgid "There are %1% vehicles to be replaced"
+msgstr "Il y a %1% véhicules à remplacer"
+
+msgid "There are no warnings!"
+msgstr "Il n'y a aucun avertissement."
+
+msgid "There is one vehicle to be replaced"
+msgstr "Il y a un véhicule à remplacer"
+
+msgid ""
+"This mod's format is deprecated. Please contact the author to obtain an up-"
+"to-date version."
+msgstr ""
+"Le format de ce module est obsolète. Veuillez contacter l'auteur pour "
+"obtenir une version à jour."
+
+msgid "This warning can be deactivated in the settings Advanced tab."
+msgstr ""
+"Cet avertissement peut être désactivé dans l'onglet Avancé des paramètres."
+
+msgid "Thrust"
+msgstr "Poussée"
+
+msgid "Tickets"
+msgstr "Billets"
+
+msgid "Time"
+msgstr "Durée"
+
+msgid "Time scale"
+msgstr "Délai"
+
+msgid "Tiny"
+msgstr "Minuscule"
+
+msgid "To Desktop"
+msgstr "Bureau"
+
+msgid "To main menu"
+msgstr "Menu principal"
+
+msgid "Today, %1%"
+msgstr "Aujourd'hui, %1%"
+
+msgid "Toggle camera positions with <Page Up> and <Page Down> keys"
+msgstr ""
+"Sélectionner les positions de caméra avec les touches <Page Up> et <Page "
+"Down>"
+
+msgid "Toggle precedence"
+msgstr "Sélectionner la priorité"
+
+msgid "Toggle traffic light"
+msgstr "Sélectionner feu de circulation"
+
+msgid "Too much curvature"
+msgstr "Courbe trop importante"
+
+msgid "Too much slope"
+msgstr "Pente trop importante"
+
+msgid "Top length (rail)"
+msgstr "Longueur max. (rail)"
+
+msgid "Top speed"
+msgstr "Vitesse max."
+
+msgid "Top speed for slopes:"
+msgstr "Vitesse maximale dans les pentes :"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Total bridges"
+msgstr "Total de ponts"
+
+msgid "Total electrified"
+msgstr "Total de rails électrifiés"
+
+msgid "Total growth: %1% residents"
+msgstr "Croissance totale : %1% habitants"
+
+msgid "Total high-speed"
+msgstr "Total de rails grande vitesse"
+
+msgid "Total length of train is %s"
+msgstr "Longueur totale du train : %s"
+
+msgid "Total tracks"
+msgstr "Total de rails"
+
+msgid "Total tunnels"
+msgstr "Total de tunnels"
+
+msgid "Town"
+msgstr "Ville"
+
+msgid ""
+"Town authorities complain about following interrupted street connections:"
+msgstr "La mairie se plaint des connexions routières interrompues suivantes !"
+
+msgid "Town builder"
+msgstr "Constructeur de ville"
+
+msgid "Town statistics"
+msgstr "Statistiques de ville"
+
+msgid "Towns"
+msgstr "Villes"
+
+msgid "Towns/industries"
+msgstr "Villes/industries"
+
+msgid "Track modification tool"
+msgstr "Outil de modification des rails"
+
+msgid "Track modification tools"
+msgstr "Outils de modification des rails"
+
+msgid "Track speed limits layer"
+msgstr "Filtre de limitation de vitesse sur les rails"
+
+msgid "Tracks"
+msgstr "Rails"
+
+msgid "Tractive effort"
+msgstr "Effort de traction"
+
+msgid "Traffic"
+msgstr "Trafic"
+
+msgid "Traffic lights"
+msgstr "Feux de circulation"
+
+msgid "Train"
+msgid_plural "Trains"
+msgstr[0] "Train"
+msgstr[1] "Trains"
+
+msgid "Train %1%"
+msgstr "Train \"%1%\""
+
+msgid "Train Fever"
+msgstr "Jamais sans mon train"
+
+msgid "Train depot"
+msgstr "Dépôt de trains"
+
+msgid "Train does not have a locomotive"
+msgstr "Le train ne possède pas de locomotive"
+
+msgid "Trains"
+msgstr "Trains"
+
+msgid "Trains mutually blocked"
+msgstr "Trains face à face"
+
+msgid "Tram"
+msgid_plural "Trams"
+msgstr[0] "Tram"
+msgstr[1] "Trams"
+
+msgid "Tram %1%"
+msgstr "Tram \"%1%\""
+
+msgid "Tram depot"
+msgstr "Dépôt de trams"
+
+msgid "Tram track"
+msgstr "Rails de tram"
+
+msgid "Tram track tool"
+msgstr "Outils de rails de tram"
+
+msgid "Trams"
+msgstr "Trams"
+
+msgid "Trans-Siberian Railway"
+msgstr "Le Transsibérien"
+
+msgid "Transport"
+msgstr "Transport"
+
+msgid "Transport belt"
+msgstr "Extra long"
+
+msgid "Transport corporation"
+msgstr "Corporation des transports"
+
+msgid "Transport master"
+msgstr "Maître des transports"
+
+msgid "Transport millionaire"
+msgstr "Transporteur millionnaire"
+
+msgid "Transport shark"
+msgstr "Parrain des transports"
+
+msgid "Transport shark (Hard mode)"
+msgstr "Parrain des transports (mode difficile)"
+
+msgid "Transport tycoon"
+msgstr "Magnat des transports"
+
+msgid "Transport tycoon (Hard mode)"
+msgstr "Magnat des transports (mode difficile)"
+
+msgid "Transported"
+msgstr "Acheminé"
+
+msgid "Truck"
+msgstr "Camion"
+
+msgid "Truck Fever"
+msgstr "Passion camion"
+
+msgid "Truck station"
+msgstr "Relais routier"
+
+msgid "Try to fix problem automatically"
+msgstr "Tenter de résoudre les problèmes automatiquement"
+
+msgid "Try to ship more items"
+msgstr "Essayer de transporter plus d'objets"
+
+msgid "Tunnel"
+msgstr "Tunnel"
+
+msgid "Turn music on"
+msgstr "Allumer la musique"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Types of stations %1% and %2% don't match"
+msgstr "Le type des stations %1% et %2% de correspond pas"
+
+msgid "USA"
+msgstr "États-Unis"
+
+msgid "Unable to align terrain"
+msgstr "Alignement impossible"
+
+msgid "Unable to find path to depot"
+msgstr "Accès au dépôt non trouvé"
+
+msgid "Unable to find path to stop"
+msgstr "Accès à l'arrêt non trouvé"
+
+msgid "Unconnected streets"
+msgstr "Rues sans connexions"
+
+msgid "Unemployed"
+msgstr "Sans emploi"
+
+msgid "Unknown Entity"
+msgstr "Entité inconnue"
+
+msgid "Unload"
+msgstr "Décharger"
+
+msgid "Unload only"
+msgstr "Déchargement uniquement"
+
+msgid "Unloaded"
+msgstr "Déchargé"
+
+msgid "Unsubscribe"
+msgstr "Se désabonner"
+
+msgid "Up"
+msgstr "Haut"
+
+msgid "Update"
+msgstr "Mise à jour"
+
+msgid "Upgrade"
+msgstr "Améliorer"
+
+msgid "Upgrade streets with bus lanes."
+msgstr "Améliore les rues avec des voies de bus."
+
+msgid "Upgrade streets with tram tracks."
+msgstr "Améliore les rues avec des rails de tram."
+
+msgid "Upgrade tracks for higher speeds."
+msgstr "Améliore les rails pour la grande vitesse."
+
+msgid "Upgrade tracks with catenary."
+msgstr "Améliore les rails avec une caténaire."
+
+msgid "Upload"
+msgstr "Mettre en ligne"
+
+msgid "Upload mod to Steam Workshop"
+msgstr "Publier module sur le Steam Workshop"
+
+msgid "Upload successful"
+msgstr "Publication réussie"
+
+msgid "Upload to Steam Workshop"
+msgstr "Publier sur le Steam Workshop"
+
+msgid "Uploading..."
+msgstr "Chargement..."
+
+msgid "Upper %1%"
+msgstr "Haut %1%"
+
+msgid "Use <Alt> + <Enter> to toggle between full-screen and windowed mode."
+msgstr "Utilisez <Alt> + <Enter>"
+
+msgid "Use default connections"
+msgstr "Utiliser les connexions par défaut"
+
+msgid "Use hardware mouse cursor"
+msgstr "Utiliser le curseur de votre souris"
+
+msgid "Use the paint tool to change the terrain."
+msgstr "Utilisez les outils de peinture pour modifier le terrain."
+
+msgid "Use the terrain tool to change the terrain."
+msgstr "Utilisez les outils de terrain pour le modeler."
+
+msgid "User profile creation failed"
+msgstr "Échec de création du profil utilisateur"
+
+msgid "Using the time control, go back in time."
+msgstr "Remontez dans le temps grâce à la machine temporelle."
+
+msgid "Vacant"
+msgstr "Vacant"
+
+msgid "Value"
+msgstr "Valeur"
+
+msgid "Vehicle"
+msgstr "Véhicule"
+
+msgid "Vehicle condition %1%%%"
+msgstr "État du véhicule %1%%%"
+
+msgid "Vehicle in the way"
+msgstr "Des véhicules font obstacle"
+
+msgid "Vehicle lifetime"
+msgstr "Durée de vie du véhicule"
+
+msgid "Vehicle manager"
+msgstr "Assistant de gestion des véhicules"
+
+msgid "Vehicle statistics"
+msgstr "Statistiques de véhicule"
+
+msgid "Vehicle store"
+msgstr "Boutique de véhicules"
+
+msgid "Vehicle will be sold on arrival"
+msgstr "Le véhicule sera vendu à l'arrivée"
+
+msgid "Vehicles"
+msgstr "Véhicules"
+
+msgid "Vehicles on line"
+msgstr "Véhicules sur la ligne"
+
+msgid "Vehicles report following problems:"
+msgstr "Les véhicules rencontrent le problème suivant :"
+
+msgid "Very Large"
+msgstr "Extra large"
+
+msgid "Very bad"
+msgstr "Très mauvais"
+
+msgid "Very good"
+msgstr "Très bon"
+
+msgid "Very high"
+msgstr "Très élevé"
+
+msgid "Very low"
+msgstr "Très bas"
+
+msgid "Very poor"
+msgstr "Très mauvais"
+
+msgid "Video"
+msgstr "Vidéo"
+
+msgid "View terms"
+msgstr "Afficher les conditions"
+
+msgid "Voice-over"
+msgstr "Voix off"
+
+msgid "Voice-over %1%"
+msgstr "Voice-over %1%"
+
+msgid "Volume settings"
+msgstr "Paramètres de volume"
+
+msgid "Wagons"
+msgstr "Wagons"
+
+msgid "Waiting for free path"
+msgstr "En attente d'une voie libre"
+
+msgid "Warning: Make sure %1% is connected to the street network!"
+msgstr "Avertissement : assurez-vous que %1% est relié(e) au réseau des rues !"
+
+msgid "Warning: adding this mod may lead to unexpected results."
+msgstr ""
+"Avertissement : l'ajout de ce module peut avoir des conséquences inattendues."
+
+msgid "Warning: adding this mod will likely cause the game to crash."
+msgstr ""
+"Avertissement : l'ajout de ce module peut compromettre le fonctionnement du "
+"jeu."
+
+msgid "Warning: removing this mod may lead to unexpected results."
+msgstr ""
+"Avertissement : la suppression de ce module peut avoir des conséquences "
+"inattendues."
+
+msgid "Warning: removing this mod will likely cause the game to crash."
+msgstr ""
+"Avertissement : la suppression de ce module peut compromettre le "
+"fonctionnement du jeu."
+
+msgid "Warnings"
+msgstr "Avertissements"
+
+msgid "Water"
+msgstr "Eau"
+
+msgid "Water level:"
+msgstr "Niveau de l'eau :"
+
+msgid "Waypoint #%1%"
+msgstr "Pt. de cheminement #%1%"
+
+msgid "Waypoints"
+msgstr "Étapes"
+
+msgid "Weight"
+msgstr "Poids"
+
+msgid "Weight %1% + %2% (Cargo)"
+msgstr "Poids %1% + %2% (Cargo)"
+
+msgid "Weight units"
+msgstr "Unités de poids"
+
+msgid ""
+"When waiting for full load, depart after the specified period of inactivity"
+msgstr ""
+"Lors de l'attente de chargement complet, partez après la période "
+"d'inactivité spécifiée."
+
+msgid "Window settings"
+msgstr "Paramètres de fenêtre"
+
+msgid "Windowed"
+msgstr "Fenêtré"
+
+msgid "With lines"
+msgstr "Par les transports"
+
+msgid "Work"
+msgstr "Travail"
+
+msgid "Workplaces"
+msgstr "Lieux de travail"
+
+msgid "Write STL"
+msgstr "Écrire STL"
+
+msgid "Write additional STL file with heightmap data"
+msgstr ""
+"Écrire un fichier STL supplémentaire avec des données de carte de hauteur"
+
+msgid "Wrong carrier"
+msgstr "Mauvaise carrière"
+
+msgid "Year built"
+msgstr "Année de construction"
+
+msgid "Yes"
+msgstr "Oui"
+
+msgid "Yesterday, %1%"
+msgstr "Hier, %1%"
+
+msgid "You can win"
+msgstr "Vous pouvez gagner"
+
+msgid "You did it!"
+msgstr "Vous l'avez fait !"
+
+msgid "You have finished %s"
+msgstr "Vous avez terminé %s"
+
+msgid "You have finished the %s campaign!"
+msgstr "Vous avez terminé la campagne %s !"
+
+msgid "You will be challenged"
+msgstr "Vous aurez des problèmes"
+
+msgid "You will go bankrupt"
+msgstr "Vous ferez faillite"
+
+msgid "Zoom in to build"
+msgstr "Zoomer pour construire"
+
+msgid "Zoom to cursor"
+msgstr "Zoomer vers le curseur"
+
+msgid "[UserData]/"
+msgstr "[UserData]/"
+
+msgid "around %1%"
+msgstr "vers %1%"
+
+msgid "can not reach next"
+msgstr "impossible d'atteindre le prochain"
+
+msgctxt "depot-name"
+msgid "%1% %2%"
+msgstr "%1% %2%"
+
+msgctxt "depot-name"
+msgid "%1% %2% #%3%"
+msgstr "%1% %2% #%3%"
+
+msgctxt "destination"
+msgid "None"
+msgstr "Aucun"
+
+msgctxt "distance-unit"
+msgid "Feet"
+msgstr "Pieds"
+
+msgctxt "distance-unit"
+msgid "Mile"
+msgstr "Mile"
+
+msgctxt "distance-unit"
+msgid "Yard"
+msgstr "Yard"
+
+msgctxt "distance-unit"
+msgid "km"
+msgstr "km"
+
+msgctxt "distance-unit"
+msgid "m"
+msgstr "m"
+
+msgctxt "dlc-name"
+msgid "Nordic"
+msgstr "Nordique"
+
+msgctxt "dlc-name"
+msgid "USA"
+msgstr "États-Unis"
+
+msgctxt "force-unit"
+msgid "kN"
+msgstr "nd"
+
+msgctxt "force-unit"
+msgid "kgf"
+msgstr "kgf"
+
+msgctxt "force-unit"
+msgid "lbf"
+msgstr "lbf"
+
+msgid "from %1%"
+msgstr "de « %1% »"
+
+msgctxt "mod-state"
+msgid "Built-in mods"
+msgstr "Modules intégrés"
+
+msgctxt "mod-state"
+msgid "Staging area"
+msgstr "Zone de transit"
+
+msgctxt "mod-state"
+msgid "Uploaded to Steam Workshop"
+msgstr "Publié sur le Steam Workshop"
+
+msgctxt "mod-state"
+msgid "User mods"
+msgstr "Autres modules"
+
+msgid "none"
+msgstr "aucun"
+
+msgid "not combinable"
+msgstr "non combinable"
+
+msgid "not reachable from previous"
+msgstr "inaccessible depuis le précédent"
+
+msgctxt "number-format"
+msgid "Full"
+msgstr "Complet"
+
+msgctxt "number-format"
+msgid "Short"
+msgstr "Court"
+
+msgctxt "plural"
+msgid "Aircraft"
+msgstr "Avion"
+
+msgctxt "power-unit"
+msgid "hp"
+msgstr "CV"
+
+msgctxt "power-unit"
+msgid "kW"
+msgstr "kW"
+
+msgctxt "settings"
+msgid "Localization"
+msgstr "Localisation"
+
+msgctxt "speed-unit"
+msgid "km/h"
+msgstr "km/h"
+
+msgctxt "speed-unit"
+msgid "mph"
+msgstr "mph"
+
+msgctxt "station-name"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "station-name"
+msgid "%1% %2% #%3%"
+msgstr "%1% %2% #%3%"
+
+msgctxt "stats"
+msgid "Bulldozer"
+msgstr "Bulldozer"
+
+msgctxt "stats"
+msgid "Depots"
+msgstr "Dépôts"
+
+msgctxt "stats"
+msgid "Other"
+msgstr "Autre"
+
+msgctxt "stats"
+msgid "Roads"
+msgstr "Routes"
+
+msgctxt "stats"
+msgid "Signals"
+msgstr "Signalisation"
+
+msgctxt "stats"
+msgid "Stations"
+msgstr "Gares"
+
+msgctxt "stats"
+msgid "Tracks"
+msgstr "Rails"
+
+msgctxt "steam"
+msgid "Steam Workshop"
+msgstr "Steam Workshop"
+
+msgctxt "stop-name"
+msgid "%1%"
+msgstr "%1%"
+
+msgid "to %1%"
+msgstr "à « %1% »"
+
+msgctxt "unemployed-persons"
+msgid "none"
+msgstr "aucun"
+
+msgid "unknown error"
+msgstr "erreur inconnue"
+
+msgid "unlimited"
+msgstr "illimité"
+
+msgctxt "vacant-jobs"
+msgid "none"
+msgstr "aucun"
+
+msgid "via"
+msgstr "par"
+
+msgctxt "weight-unit"
+msgid "kg"
+msgstr "kg"
+
+msgctxt "weight-unit"
+msgid "lb"
+msgstr "lb"
+
+msgctxt "weight-unit"
+msgid "t/short ton"
+msgstr "t/tonne américaine"
+
+msgctxt "weight-unit"
+msgid "t/tonne"
+msgstr "t/tonne"
+
+msgctxt "worldsize"
+msgid "Medium"
+msgstr "Moyen"
