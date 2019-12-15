@@ -3437,13 +3437,13 @@ msgid "Show/hide statistics window"
 msgstr "통계창 표시/비표시"
 
 msgid "Show/hide street constructions menu"
-msgstr "가로 건설 메뉴 표시/비표시"
+msgstr "도로 건설 메뉴 표시/비표시"
 
 msgid "Show/hide street modification tools menu"
-msgstr "가로 수정 툴 메뉴 표시/비표시"
+msgstr "도로 수정 툴 메뉴 표시/비표시"
 
 msgid "Show/hide street traffic layer"
-msgstr "도로교통 레이어 표시/비표시"
+msgstr "도로 교통 레이어 표시/비표시"
 
 msgid "Show/hide street waypoints menu"
 msgstr "거리 경유지 메뉴 표시/비표시"
@@ -3648,16 +3648,16 @@ msgid "Stored"
 msgstr "보관"
 
 msgid "Street constructions"
-msgstr "가로 건설"
+msgstr "도로 건설"
 
 msgid "Street modification tools"
-msgstr "가로 수정 툴"
+msgstr "도로 수정 툴"
 
 msgid "Street traffic layer"
 msgstr "도로교통 레이어"
 
 msgid "Streets"
-msgstr "가로"
+msgstr "도로"
 
 msgid "Strength"
 msgstr "강도"
@@ -4010,7 +4010,7 @@ msgid "Unable to find path to stop"
 msgstr "정거장 가는 길을 못찾겠어요"
 
 msgid "Unconnected streets"
-msgstr "미연결 가로"
+msgstr "미연결 도로"
 
 msgid "Unemployed"
 msgstr "무직"
@@ -4040,10 +4040,10 @@ msgid "Upgrade"
 msgstr "업그레이드"
 
 msgid "Upgrade streets with bus lanes."
-msgstr "버스레인에서 가로를 업그레이드 합시다."
+msgstr "버스 차로에서 도로를 업그레이드 합시다."
 
 msgid "Upgrade streets with tram tracks."
-msgstr "트램 선로에서 가로를 업그레이드 합시다."
+msgstr "트램 선로에서 도로를 업그레이드 합시다."
 
 msgid "Upgrade tracks for higher speeds."
 msgstr "선로를 업그레이드해서 고속화합시다."

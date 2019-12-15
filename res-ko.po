@@ -11871,10 +11871,10 @@ msgid "Medium highway"
 msgstr "중형 고속도로"
 
 msgid "Medium one-way street"
-msgstr "보통 일방통행 가로"
+msgstr "보통 일방통행 도로"
 
 msgid "Medium street"
-msgstr "보통 가로"
+msgstr "보통 도로"
 
 msgid "Mesas"
 msgstr "메사"
@@ -12159,10 +12159,10 @@ msgid "Small country road"
 msgstr "작은 시골길"
 
 msgid "Small one-way street"
-msgstr "작은 일방통행 가로"
+msgstr "작은 일방통행 도로"
 
 msgid "Small street"
-msgstr "작은 가로"
+msgstr "작은 도로"
 
 msgid "Snow 01"
 msgstr "눈 01"
