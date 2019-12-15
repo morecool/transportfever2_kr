@@ -17,6 +17,9 @@ msgstr ""
 "X-Loco-Parser: loco_parse_po\n"
 "POT-Creation-Date: \n"
 
+msgid " "
+msgstr " "
+
 msgid " stations left"
 msgstr " 나머지 역"
 
@@ -10341,7 +10344,7 @@ msgstr "모임 저지"
 msgid "MISSION_TRANSSIB_MEDAL_ZOBEL_MEETING_TASK"
 msgstr ""
 "음모 모임이 이루어지는 곳을 찾아, 파괴합시다!\n"
-"정확하게 필터를 사용하면 3개의 회합 장소를 확실히 찾아낼 수 있습니다!.\""
+"정확하게 필터를 사용하면 3개의 회합 장소를 확실히 찾아낼 수 있습니다!."
 
 msgid "MISSION_TRANSSIB_MEDAL_ZOBEL_MEETING_TEXT"
 msgstr ""

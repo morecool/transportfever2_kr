@@ -39,7 +39,7 @@ msgid "%1% %2% %3% %4%"
 msgstr "%1% %2% %3% %4%"
 
 msgid "%1% + %2%%% (Maintenance)"
-msgstr "%1% + %2%%% (Unterhalt)"
+msgstr "%1% + %2%%% (정비)"
 
 msgid "%1% - %2%"
 msgstr "%1% - %2%"
@@ -86,10 +86,12 @@ msgstr "%1% 운송 회사"
 msgid "%1% Vehicle"
 msgid_plural "%1% Vehicles"
 msgstr[0] "차량 %1%대"
+msgstr[1] "차량 %1%대"
 
 msgid "%1% Vehicle selected"
 msgid_plural "%1% Vehicles selected"
 msgstr[0] "차량 %1%대를 선택하고 있습니다"
+msgstr[1] "차량 %1%대를 선택하고 있습니다"
 
 msgid "%1% Waypoint #%2%"
 msgstr "%1% 웨이포인트 #%2%"
@@ -118,6 +120,7 @@ msgstr "%1% 마력"
 msgid "%1% industry"
 msgid_plural "%1% industries"
 msgstr[0] "%1%의 산업"
+msgstr[1] "%1%의 산업"
 
 msgid "%1% kN"
 msgstr "%1% 노트"
@@ -158,21 +161,21 @@ msgstr "%1% 분 %2% 초"
 msgid "%1% mission"
 msgid_plural "%1% missions"
 msgstr[0] "%1% 미션"
-
+msgstr[1] "%1% 미션"
 msgid "%1% mod available"
 msgid_plural "%1% mods available"
-msgstr[0] "%1%개의 MOD가 이용 가능"
-
+msgstr[0] "%1% 개의 MOD가 이용 가능"
+msgstr[1] "%1% 개의 MOD가 이용 가능"
 msgid "%1% mod enabled"
 msgid_plural "%1% mods enabled"
-msgstr[0] "%1%개의 MOD가 활성화"
-
+msgstr[0] "%1% 개의 MOD가 활성화"
+msgstr[1] "%1% 개의 MOD가 활성화"
 msgid "%1% month"
 msgid_plural "%1% months"
-msgstr[0] "%1%개월"
-
+msgstr[0] "%1% 개월"
+msgstr[1] "%1% 개월"
 msgid "%1% mph"
-msgstr "시속%1%마일"
+msgstr "시속 %1% 마일"
 
 msgid "%1% new vehicles are available!"
 msgstr "%1% 새 차량을 이용할 수 있습니다!"
@@ -185,12 +188,12 @@ msgstr "%1% 초"
 
 msgid "%1% signal will be removed"
 msgid_plural "%1% signals will be removed"
-msgstr[0] "%1%개의 신호를 삭제합니다"
-
+msgstr[0] "%1% 개의 신호를 삭제합니다"
+msgstr[1] "%1% 개의 신호를 삭제합니다"
 msgid "%1% stop will be removed"
 msgid_plural "%1% stops will be removed"
-msgstr[0] "%1%개의 정류장을 삭제합니다"
-
+msgstr[0] "%1% 개의 정류장을 삭제합니다"
+msgstr[1] "%1% 개의 정류장을 삭제합니다"
 msgid "%1% t"
 msgstr "%1% t"
 
@@ -200,11 +203,11 @@ msgstr "%1% 에서 %2%"
 msgid "%1% town"
 msgid_plural "%1% towns"
 msgstr[0] "%1% 마을"
-
+msgstr[1] "%1% 마을"
 msgid "%1% variant"
 msgid_plural "%1% variants"
 msgstr[0] "%1% 변화"
-
+msgstr[1] "%1% 변화"
 msgid "%1% x %2%"
 msgstr "%1% x %2%"
 
@@ -216,8 +219,8 @@ msgstr "%1% 야드"
 
 msgid "%1% year"
 msgid_plural "%1% years"
-msgstr[0] "%1%년"
-
+msgstr[0] "%1% 년"
+msgstr[1] "%1% 년"
 msgid "%1%%% of %2%"
 msgstr "%2% 의 %1%%%"
 
@@ -268,20 +271,20 @@ msgstr "%d"
 
 msgid "%d Year"
 msgid_plural "%d Years"
-msgstr[0] "%d년"
-
+msgstr[0] "%d 년"
+msgstr[1] "%d 년"
 msgid "%d building will be moved"
 msgid_plural "%d buildings will be moved"
 msgstr[0] "%d채 건물을 삭제합니다"
-
+msgstr[1] "%d채 건물을 삭제합니다"
 msgid "%d building will be removed"
 msgid_plural "%d buildings will be removed"
 msgstr[0] "%d채 건물을 삭제합니다"
-
+msgstr[1] "%d채 건물을 삭제합니다"
 msgid "%d field will be removed"
 msgid_plural "%d fields will be removed"
 msgstr[0] "%d의 초원을 삭제합니다"
-
+msgstr[1] "%d의 초원을 삭제합니다"
 msgid "%d for having a fast vehicle"
 msgstr "빠른 차량을 소지하고 있는 것으로 %d"
 
@@ -315,7 +318,7 @@ msgstr "철도 네트워크 터널에서 %d"
 msgid "%d module will be removed"
 msgid_plural "%d modules will be removed"
 msgstr[0] "%d개의 모듈을 교체합니다"
-
+msgstr[1] "%d개의 모듈을 교체합니다"
 msgid "%d of %d"
 msgstr "%d / %d"
 
@@ -346,7 +349,7 @@ msgstr "%s의 길이가 과잉: 이동 시간은 %d초, %d초가 허용되어 �
 msgid "(%1% compartment)"
 msgid_plural "(%1% compartments)"
 msgstr[0] "(객실%1%)"
-
+msgstr[1] "(객실%1%)"
 msgid "(No target)"
 msgstr "(타겟 없음)"
 
@@ -551,7 +554,7 @@ msgstr "공역"
 msgid "Aircraft"
 msgid_plural "Aircraft"
 msgstr[0] "항공기"
-
+msgstr[1] "항공기"
 msgid "Aircraft %1%"
 msgstr "항공기 %1%"
 
@@ -1020,7 +1023,7 @@ msgstr "수송한 화물(과거 12개월)"
 msgid "Cargo type"
 msgid_plural "Cargo types"
 msgstr[0] "화물의 종류"
-
+msgstr[1] "화물의 종류"
 msgid "Cargo types"
 msgstr "화물의 종류"
 
@@ -1174,7 +1177,7 @@ msgstr "모든 차량의 정비를 설정한다"
 msgid "Configure maintenance for selected vehicle"
 msgid_plural "Configure maintenance for selected vehicles"
 msgstr[0] "선택한 차량의 정비를 설정한다"
-
+msgstr[1] "선택한 차량의 정비를 설정한다"
 msgid "Confirm decommission"
 msgstr "퇴역을 승인"
 
@@ -1539,7 +1542,7 @@ msgstr "MOD를 활성화/비효화하면 게임이 크래쉬할지도 몰라요!
 msgid "Engine Type"
 msgid_plural "Engine Types"
 msgstr[0] "엔진 종류"
-
+msgstr[1] "엔진 종류"
 msgid "Enter a file name!"
 msgstr "파일명을 입력해주세요!"
 
@@ -2040,12 +2043,12 @@ msgid "Interns"
 msgstr "인턴"
 
 msgid "Invalid UTF-8 encountered"
-msgstr "무효한 UTF-8에 조우"
+msgstr "잘못된 UTF-8 이 발생했습니다"
 
 msgid "Invalid configuration, %1% module will collide."
 msgid_plural "Invalid configuration, %1% modules will collide."
-msgstr[0] "배치가 무효입니다.%1%모듈이 충돌합니다."
-
+msgstr[0] "설정이 잘못되었습니다.%1% 모듈이 충돌합니다."
+msgstr[1] "설정이 잘못되었습니다.%1% 모듈이 충돌합니다."
 msgid "Inventory"
 msgstr "인벤토리"
 
@@ -2864,11 +2867,11 @@ msgstr "생산제"
 msgid "Product"
 msgstr "상품"
 
-msgid "roduct Management"
+msgid "Product Management"
 msgstr "상품 관리"
 
-msgid "상품 관리 "
-msgstr "프로덕트 매니지먼트 어시스턴트"
+msgid "Product Management Assistant"
+msgstr "상품 관리 도우미"
 
 msgid "Production"
 msgstr "생산"
@@ -3044,7 +3047,7 @@ msgstr "다음으로 교환:"
 msgid "Replace selected vehicle"
 msgid_plural "Replace selected vehicles"
 msgstr[0] "선택한 차량을 교환."
-
+msgstr[1] "선택한 차량을 교환."
 msgid "Replace vehicle"
 msgstr "차량 교체"
 
@@ -3123,7 +3126,7 @@ msgstr "도로 차량기지"
 msgid "Road vehicle"
 msgid_plural "Road vehicles"
 msgstr[0] "도로 운송 차량."
-
+msgstr[1] "도로 운송 차량."
 msgid "Road vehicle %1%"
 msgstr "도로 운송 차량%1%"
 
@@ -3150,10 +3153,10 @@ msgid "Running"
 msgstr "주행 중"
 
 msgid "Running costs"
-msgstr "유지비"
+msgstr "유지비용"
 
 msgid "Running costs: +%1%%%"
-msgstr "런닝 코스트:+%1%%%"
+msgstr "유지비용:+%1%%%"
 
 msgid "Save"
 msgstr "세이브"
@@ -3248,11 +3251,11 @@ msgstr "모든 차량을 팔겠습니까?"
 msgid "Sell selected vehicle"
 msgid_plural "Sell selected vehicles"
 msgstr[0] "선택한 차량을 매각한다"
-
+msgstr[1] "선택한 차량을 매각한다"
 msgid "Sell selected vehicle?"
 msgid_plural "Sell selected vehicles?"
 msgstr[0] "선택한 차량을 매각합니까?"
-
+msgstr[1] "선택한 차량을 매각합니까?"
 msgid "Sell vehicle"
 msgstr "차량을 매각"
 
@@ -3268,7 +3271,7 @@ msgstr "충돌 보고서 전송"
 msgid "Send selected vehicle to depot"
 msgid_plural "Send selected vehicles to depot"
 msgstr[0] "선택한 차량을 차량기지로 보내겠다."
-
+msgstr[1] "선택한 차량을 차량기지로 보내겠다."
 msgid "Send to depot"
 msgstr "차량기지로 보낸다"
 
@@ -3278,7 +3281,7 @@ msgstr "모든 차량의 색상을 정한다"
 msgid "Set color for selected vehicle"
 msgid_plural "Set color for selected vehicles"
 msgstr[0] "선택한 차량의 색상을 정한다."
-
+msgstr[1] "선택한 차량의 색상을 정한다."
 msgid "Set line"
 msgstr "노선 설정"
 
@@ -3294,6 +3297,9 @@ msgstr "출력 해상도를 %1% x %2%로 설정"
 msgid "Settings"
 msgstr "설정"
 
+msgid "Settings..."
+msgstr "설정..."
+
 msgid "Settled down"
 msgstr "안정"
 
@@ -3308,8 +3314,8 @@ msgstr "쉐어"
 
 msgid "Ship"
 msgid_plural "Ships"
-msgstr[0] "배"
-
+msgstr[0] "선박"
+msgstr[1] "선박"
 msgid "Ship %1%"
 msgstr "선박 %1%"
 
@@ -3893,7 +3899,7 @@ msgstr "신호"
 msgid "Train"
 msgid_plural "Trains"
 msgstr[0] "열차"
-
+msgstr[1] "열차"
 msgid "Train %1%"
 msgstr "열차%1%"
 
@@ -3915,7 +3921,7 @@ msgstr "열차가 양쪽에서 블록되어 있습니다"
 msgid "Tram"
 msgid_plural "Trams"
 msgstr[0] "트램"
-
+msgstr[1] "트램"
 msgid "Tram %1%"
 msgstr "트램 %1%"
 
@@ -4168,7 +4174,7 @@ msgstr "경고: %1%를 거리 네트워크와 연결하세요!"
 msgid "Warning: adding this mod may lead to unexpected results."
 msgstr "경고: MOD를 추가하면 예기치 못한 결과가 될 수 있습니다."
 
-msgid "Warning: adding this mod will likely cause the game to crash"
+msgid "Warning: adding this mod will likely cause the game to crash."
 msgstr "경고: MOD를 추가하면 게임이 크래쉬되는 경우가 있습니다."
 
 msgid "Warning: removing this mod may lead to unexpected results."
