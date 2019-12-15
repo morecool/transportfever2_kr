@@ -4160,7 +4160,7 @@ msgid "Wagons"
 msgstr "마차"
 
 msgid "Waiting for free path"
-msgstr "무료도로 대기중"
+msgstr "경로가 풀리길 기다리는 중"
 
 msgid "Warning: Make sure %1% is connected to the street network!"
 msgstr "경고: %1%를 거리 네트워크와 연결하세요!"
