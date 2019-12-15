@@ -14876,10 +14876,10 @@ msgid "Wheat"
 msgstr "밀"
 
 msgid "When disabled, the industry will not require any cargo input"
-msgstr "무효화되면, 산업은 화물의 반입을 필요로 하지 않게 됩니다"
+msgstr "비활성화되면, 산업은 화물의 반입을 필요로 하지 않게 됩니다"
 
 msgid "When disabled, the industry will not up-/downgrade"
-msgstr "무효화되면, 산업은 업그레이드도 다운그레이드도 하지 않게 됩니다"
+msgstr "비활성화되면, 산업은 업그레이드도 다운그레이드도 하지 않게 됩니다"
 
 msgid "Whiskey"
 msgstr "위스키"

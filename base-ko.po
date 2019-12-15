@@ -1435,7 +1435,7 @@ msgid "Do you wish to proceed?"
 msgstr "실행 합니까?"
 
 msgid "Docks outside of navigable waters"
-msgstr "부두가 항행가능수역을 나가고 있습니다"
+msgstr "부두가 항행가능수역에 위치하고 있지 않습니다"
 
 msgid "Don't take any additional loan until the year 2050."
 msgstr "2050년까지 추가 대출을 받지 않는다."
