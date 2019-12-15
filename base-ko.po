@@ -2013,7 +2013,7 @@ msgid "Industry statistics"
 msgstr "산업통계"
 
 msgid "Infrastructure"
-msgstr "인프라"
+msgstr "기반 시설"
 
 msgid "Insert fade after"
 msgstr "나중에 페이드 삽입"
@@ -2296,7 +2296,7 @@ msgid "Maintenance depots"
 msgstr "정비 차량기지"
 
 msgid "Maintenance infrastructure"
-msgstr "인프라 정비"
+msgstr "기반 시설 정비"
 
 msgid "Maintenance other"
 msgstr "기타 정비"
@@ -2709,7 +2709,7 @@ msgid "Other"
 msgstr "기타"
 
 msgid "Other infrastructure"
-msgstr "기타 인프라"
+msgstr "기타 기반 시설"
 
 msgid "Out"
 msgstr "아웃"
