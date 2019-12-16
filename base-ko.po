@@ -736,7 +736,7 @@ msgid "Bonus tasks"
 msgstr "보너스 작업"
 
 msgid "Borrow %1%"
-msgstr "%1% 를 빌린다"
+msgstr "%1% 를 대출하기"
 
 msgid "Bridge"
 msgstr "다리"
@@ -3056,7 +3056,7 @@ msgid "Rename"
 msgstr "이름 변경"
 
 msgid "Repay %1%"
-msgstr "%1%를 갚았다"
+msgstr "%1%를 상환하기"
 
 msgid "Replace all vehicles"
 msgstr "모든 차량 교체"
