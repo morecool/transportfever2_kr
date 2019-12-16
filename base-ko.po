@@ -54,10 +54,10 @@ msgid "%1% Central"
 msgstr "%1% 중앙"
 
 msgid "%1% Destinations"
-msgstr "%1% 목적지"
+msgstr "목적지 %1%"
 
 msgid "%1% East"
-msgstr "%1% 동"
+msgstr "%1% 동쪽"
 
 msgid "%1% Exchange"
 msgstr "%1% 교환"
@@ -66,7 +66,7 @@ msgid "%1% Halt"
 msgstr "%1% 정지"
 
 msgid "%1% North"
-msgstr "%1% 북"
+msgstr "%1% 북쪽"
 
 msgid "%1% Sidings"
 msgstr "%1% 측선"
@@ -75,7 +75,7 @@ msgid "%1% Signal #%2%"
 msgstr "%1% 신호 #%2%"
 
 msgid "%1% South"
-msgstr "%1% 남"
+msgstr "%1% 남쪽"
 
 msgid "%1% Transfer"
 msgstr "%1% 운반"
@@ -90,17 +90,17 @@ msgstr[1] "차량 %1%대"
 
 msgid "%1% Vehicle selected"
 msgid_plural "%1% Vehicles selected"
-msgstr[0] "차량 %1%대를 선택하고 있습니다"
-msgstr[1] "차량 %1%대를 선택하고 있습니다"
+msgstr[0] "차량 %1%대를 선택합니다"
+msgstr[1] "차량 %1%대를 선택합니다"
 
 msgid "%1% Waypoint #%2%"
 msgstr "%1% 웨이포인트 #%2%"
 
 msgid "%1% West"
-msgstr "%1% 서"
+msgstr "%1% 서쪽"
 
 msgid "%1% capacity"
-msgstr "%1% 수량"
+msgstr "정원 %1%"
 
 msgid "%1% deg field of view"
 msgstr "필드시야 %1%도"
@@ -165,8 +165,8 @@ msgstr[1] "%1% 미션"
 
 msgid "%1% mod available"
 msgid_plural "%1% mods available"
-msgstr[0] "%1% 개의 MOD가 이용 가능"
-msgstr[1] "%1% 개의 MOD가 이용 가능"
+msgstr[0] "%1% 개의 MOD 사용가능"
+msgstr[1] "%1% 개의 MOD 사용가능"
 
 msgid "%1% mod enabled"
 msgid_plural "%1% mods enabled"
@@ -185,7 +185,7 @@ msgid "%1% new vehicles are available!"
 msgstr "%1% 새 차량을 이용할 수 있습니다!"
 
 msgid "%1% per vehicle"
-msgstr "%1% 차량당"
+msgstr "차량 1대당 %1%"
 
 msgid "%1% s"
 msgstr "%1% 초"
@@ -285,48 +285,48 @@ msgstr[1] "%d 년"
 
 msgid "%d building will be moved"
 msgid_plural "%d buildings will be moved"
-msgstr[0] "%d채 건물을 삭제합니다"
-msgstr[1] "%d채 건물을 삭제합니다"
+msgstr[0] "%d 건물을 이동합니다"
+msgstr[1] "%d 건물을 이동합니다"
 
 msgid "%d building will be removed"
 msgid_plural "%d buildings will be removed"
-msgstr[0] "%d채 건물을 삭제합니다"
-msgstr[1] "%d채 건물을 삭제합니다"
+msgstr[0] "%d 건물을 삭제합니다"
+msgstr[1] "%d 건물을 삭제합니다"
 
 msgid "%d field will be removed"
 msgid_plural "%d fields will be removed"
-msgstr[0] "%d의 초원을 삭제합니다"
-msgstr[1] "%d의 초원을 삭제합니다"
+msgstr[0] "%d 초원을 삭제합니다"
+msgstr[1] "%d 초원을 삭제합니다"
 
 msgid "%d for having a fast vehicle"
 msgstr "빠른 차량을 소지하고 있는 것으로 %d"
 
 msgid "%d for having a profit of at least $10M"
-msgstr "$1000만 이상 수익을 올린 것에서 %d"
+msgstr "$1000만 이상 수익을 올린 것으로 %d"
 
 msgid "%d for having a very long vehicle"
 msgstr "아주 긴 차량을 소지하고 있는 것으로 %d"
 
 msgid "%d for having transported at least 100000 passengers"
-msgstr "10만명 이상의 승객을 수송한 것에서%d"
+msgstr "10만명 이상의 승객을 수송한 것으로 %d"
 
 msgid "%d for having transported at least 100000 units of cargo"
-msgstr "10만개 이상의 화물을 수송한 것에서%d"
+msgstr "10만개 이상의 화물을 수송한 것으로 %d"
 
 msgid "%d for high-speed rail network"
-msgstr "고속철도 네트워크로 %d"
+msgstr "고속철도망 %d"
 
 msgid "%d for rail network bridges"
-msgstr "철도 네트워크 다리에서 %d"
+msgstr "철도망 다리 %d"
 
 msgid "%d for rail network electrification"
-msgstr "선로망전화로 %d"
+msgstr "철도망 전철화 %d"
 
 msgid "%d for rail network length"
-msgstr "철도 네트워크 길이로 %d"
+msgstr "철도망 길이 %d"
 
 msgid "%d for rail network tunnels"
-msgstr "철도 네트워크 터널에서 %d"
+msgstr "철도망 터널 %d"
 
 msgid "%d module will be removed"
 msgid_plural "%d modules will be removed"
@@ -337,28 +337,28 @@ msgid "%d of %d"
 msgstr "%d / %d"
 
 msgid "%d point(s) for company value"
-msgstr "기업 가치에 %d 포인트"
+msgstr "기업 가치 %d 포인트"
 
 msgid "%d point(s) for having more than 10 trains"
-msgstr "열차를 10대 이상 소지하면서%d포인트"
+msgstr "열차를 10대 이상 소지하면 %d포인트"
 
 msgid "%d point(s) for having more than 100 road vehicles"
-msgstr "도로 운송 차량을 100대 이상 소지하면서%d포인트"
+msgstr "도로 운송 차량을 100대 이상 소지하면 %d포인트"
 
 msgid "%d point(s) for having more than 20 trams"
-msgstr "트램을 20척 이상 소지하면서%d포인트"
+msgstr "노면전차를 20대 이상 소지하면 %d포인트"
 
 msgid "%d point(s) for having more than 5 aircraft"
-msgstr "항공기를 5대 이상 소지하면서%d포인트"
+msgstr "항공기를 5대 이상 소지하면 %d포인트"
 
 msgid "%d point(s) for having more than 5 ships"
-msgstr "배를 5척 이상 소지하면서%d포인트"
+msgstr "선박을 5척 이상 소지하면 %d포인트"
 
 msgid "%d point(s) for maximum vehicle age"
-msgstr "가장 오래된 차량으로 %d포인트"
+msgstr "가장 오래된 차량 %d포인트"
 
 msgid "%s overlength: travel time is %d s, %d s allowed!"
-msgstr "%s의 길이가 과잉: 이동 시간은 %d초, %d초가 허용되어 있습니다!"
+msgstr "%s 길이 초과: 이동 시간은 %d초, %d초가 허용되어 있습니다!"
 
 msgid "(%1% compartment)"
 msgid_plural "(%1% compartments)"
@@ -366,7 +366,7 @@ msgstr[0] "(객실 %1%)"
 msgstr[1] "(객실 %1%)"
 
 msgid "(No target)"
-msgstr "(타겟 없음)"
+msgstr "(대상 없음)"
 
 msgid "(stopped)"
 msgstr "(정지)"
@@ -459,7 +459,7 @@ msgid "A new Steam Workshop item will be created"
 msgstr "새로운 Steam 창작마당 아이템이 작성됩니다"
 
 msgid "A new vehicle is available!"
-msgstr "신차량을 이용할 수 있습니다!"
+msgstr "새로운 차량을 이용할 수 있습니다!"
 
 msgid "A one-way street can't have stops or waypoints on both sides"
 msgstr "정거장이나 웨이포인트를 양쪽에 설치할 수 없는 일방통행 도로"
@@ -498,7 +498,7 @@ msgid "A station appears consecutively twice"
 msgstr "역이 두 연속 출현하고 있습니다"
 
 msgid "Accept!"
-msgstr "승낙!"
+msgstr "수락!"
 
 msgid "Account"
 msgstr "계좌"
@@ -522,10 +522,10 @@ msgid "Accumulate a fortune of 100 millions (without debt)."
 msgstr "부채 없이 1억 벌기."
 
 msgid "Achievement earned:"
-msgstr "획득한 실적:"
+msgstr "획득한 업적:"
 
 msgid "Achievements"
-msgstr "실적"
+msgstr "업적"
 
 msgid ""
 "Achievements cannot be earned in this game because mods are or have been "
@@ -543,13 +543,13 @@ msgid "Add a fade"
 msgstr "페이드 추가"
 
 msgid "Add a key frame"
-msgstr "키프레임을 추가"
+msgstr "키프레임 추가"
 
 msgid "Add a subtitle"
 msgstr "자막 추가"
 
 msgid "Add station"
-msgstr "역을 추가"
+msgstr "역 추가"
 
 msgid "Advanced"
 msgstr "상세"
@@ -578,13 +578,13 @@ msgid "Aircraft entrepreneur"
 msgstr "항공기의 기업가"
 
 msgid "All"
-msgstr "모두 다"
+msgstr "항상"
 
 msgid "All cargo"
 msgstr "모든 화물"
 
 msgid "All missions completed!"
-msgstr "전 미션 클리어!"
+msgstr "모든 미션 클리어!"
 
 msgid ""
 "All unsaved progress will be lost.\n"
@@ -608,19 +608,19 @@ msgid "Anti-aliasing"
 msgstr "안티앨리어싱"
 
 msgid "Antique"
-msgstr "안티크"
+msgstr "골동품"
 
 msgid "Apply"
 msgstr "적용"
 
 msgid "Approximate annual throughput per station"
-msgstr "역별 연간 처리 개산량"
+msgstr "역별 연간 처리량"
 
 msgid "Art"
-msgstr "아트"
+msgstr "예술"
 
 msgid "Artists"
-msgstr "아티스트"
+msgstr "예술가"
 
 msgid "Asia"
 msgstr "아시아"
@@ -629,7 +629,7 @@ msgid "Asian vehicles"
 msgstr "아시아 차량"
 
 msgid "Assets"
-msgstr "어셋"
+msgstr "자산"
 
 msgid "Assign to %1%"
 msgstr "%1% 에 할당"
@@ -671,7 +671,7 @@ msgid "Autosave..."
 msgstr "자동 저장중..."
 
 msgid "Autosaves to keep"
-msgstr "자동 저장 유지"
+msgstr "자동 저장 갯수"
 
 msgid "Available heightmaps:"
 msgstr "이용 가능한 하이트맵:"
@@ -688,7 +688,7 @@ msgid ""
 msgstr "%1%의 주민들이 이용 가능한 상업 시설과 일의 평균 수"
 
 msgid "BONUS TASKS"
-msgstr "보너스 임무"
+msgstr "보너스 작업"
 
 msgid "Back"
 msgstr "돌아가기"
@@ -727,10 +727,10 @@ msgid "Bit depth must be 1, 8 or 16."
 msgstr "비트 심도는 1,8,16의 하나로 주세요."
 
 msgid "Bob Ross"
-msgstr "보브 로스"
+msgstr "밥 로스"
 
 msgid "Bonus task completed"
-msgstr "보너스 작업 클리어"
+msgstr "보너스 작업 완료"
 
 msgid "Bonus tasks"
 msgstr "보너스 작업"
@@ -971,7 +971,7 @@ msgid "Cannot get enough"
 msgstr "아직 부족해"
 
 msgid "Capacity"
-msgstr "용량"
+msgstr "정원"
 
 msgid "Capture image"
 msgstr "이미지 캡쳐"
@@ -1078,7 +1078,7 @@ msgid "City"
 msgstr "도시"
 
 msgid "Clear"
-msgstr "클리어"
+msgstr "삭제"
 
 msgid "Clear all key frames?"
 msgstr "키프레임을 모두 비웁니까?"
@@ -1360,7 +1360,7 @@ msgid "Debug mode"
 msgstr "디버깅 모드"
 
 msgid "Default"
-msgstr "디폴트"
+msgstr "기본"
 
 msgid "Delete"
 msgstr "삭제"
@@ -1486,7 +1486,7 @@ msgid "Earn 50 millions not using any train."
 msgstr "열차를 사용하지 않고 5000만 벌기."
 
 msgid "Earn all medals in one of the missions."
-msgstr "1개의 미션에서 메달을 다 차지한다."
+msgstr "하나의 미션에서 모든 메달을 획득한다."
 
 msgid "Earn all medals of the entire campaign."
 msgstr "모든 미션에서 메달을 모두 획득한다."
@@ -1501,7 +1501,7 @@ msgid "Edit vehicle"
 msgstr "차량을 편집"
 
 msgid "Editor"
-msgstr "에디터"
+msgstr "편집기"
 
 msgid "Electric"
 msgstr "전기"
@@ -1611,10 +1611,10 @@ msgid "Export heightmap"
 msgstr "하이트맵의 Export"
 
 msgid "Fade %1%"
-msgstr "페이드 %1%"
+msgstr "명암 %1%"
 
 msgid "Fades"
-msgstr "페이드"
+msgstr "명암"
 
 msgid "File error"
 msgstr "파일 오류"
@@ -1623,7 +1623,7 @@ msgid "Finances"
 msgstr "재무"
 
 msgid "First"
-msgstr "첫번째"
+msgstr "처음만"
 
 msgid "First aircraft arrived"
 msgstr "첫번째 항공기가 도착"
@@ -1656,7 +1656,7 @@ msgid "First passenger waiting"
 msgstr "첫번째 승객이 대기중"
 
 msgid "First ship arrived"
-msgstr "첫 번째 배가 도착"
+msgstr "첫 번째 선박이 도착"
 
 msgid "First steam train arrived"
 msgstr "첫 번째 증기기관차가 도착"
@@ -1848,7 +1848,7 @@ msgid "Hangar"
 msgstr "격납고"
 
 msgid "Hard"
-msgstr "하드"
+msgstr "어려움"
 
 msgid "Have 100km of tunnels."
 msgstr "100km의 터널을 만드시오."
@@ -1978,16 +1978,16 @@ msgid "Image type must be grayscale."
 msgstr "이미지 타입은 그레이스케일로 해주세요."
 
 msgid "Import"
-msgstr "임포트"
+msgstr "가져오기"
 
 msgid "Import heightmap"
-msgstr "하이트맵 임포트"
+msgstr "하이트맵 가져오기"
 
 msgid "Important note"
 msgstr "중요사항"
 
 msgid "In"
-msgstr "안"
+msgstr "들어옴"
 
 msgid "In depot"
 msgstr "차량기지에"
@@ -2002,19 +2002,19 @@ msgid "Incoming vehicle(s)"
 msgstr "도착하는 차량"
 
 msgid "Indigo Pearl"
-msgstr "Indigo Pearl"
+msgstr "인디고 펄"
 
 msgid "Industrial"
 msgstr "산업"
 
 msgid "Industrial area"
-msgstr "산업지역"
+msgstr "산업 지역"
 
 msgid "Industrial building"
 msgstr "산업 건물"
 
 msgid "Industrial supply"
-msgstr "산업용 물자"
+msgstr "산업 물자"
 
 msgid "Industrialist"
 msgstr "산업주의자"
@@ -2076,7 +2076,7 @@ msgid "Invert"
 msgstr "반전"
 
 msgid "Invert panning"
-msgstr "팬닝을 반전"
+msgstr "패닝을 반전"
 
 msgid "Invert rotation"
 msgstr "회전을 반전"
@@ -2103,10 +2103,10 @@ msgid "Keep a train built before 1900 running until the year 2000."
 msgstr "1900년 이전에 제조된 열차를 2000년까지 운행시킨다."
 
 msgid "Keep assets"
-msgstr "어셋을 킵"
+msgstr "자산 유지"
 
 msgid "Keep existing industries"
-msgstr "기존 산업을 킵"
+msgstr "기존 산업 유지"
 
 msgid "Keep existing streets"
 msgstr "기존 거리 유지"
@@ -2148,7 +2148,7 @@ msgid "Language"
 msgstr "언어"
 
 msgid "Large"
-msgstr "대"
+msgstr "큰"
 
 msgid "Last Image:"
 msgstr "지난번 화상:"
@@ -2166,7 +2166,7 @@ msgid "Lead programmer"
 msgstr "리드프로그래머"
 
 msgid "Length"
-msgstr "전장"
+msgstr "길이"
 
 msgid "Let a manufacturing industry upgrade."
 msgstr "제조산업을 업그레이드한다."
@@ -2217,7 +2217,7 @@ msgid "Liquidity"
 msgstr "유동성"
 
 msgid "Load"
-msgstr "로드"
+msgstr "적재"
 
 msgid "Load Camera config"
 msgstr "카메라 설정을 로드"
@@ -2391,7 +2391,7 @@ msgid "Mediocre"
 msgstr "보통"
 
 msgid "Medium"
-msgstr "중형"
+msgstr "중간"
 
 msgid "Megalomaniac"
 msgstr "초거대"
@@ -2493,7 +2493,7 @@ msgid "Music player"
 msgstr "음악 플레이어"
 
 msgid "Mute"
-msgstr "뮤트"
+msgstr "음소거"
 
 msgid "N/A"
 msgstr "해당 없음"
@@ -2517,7 +2517,7 @@ msgid "Navigable waters layer"
 msgstr "항해 가능 수역 레이어"
 
 msgid "Never"
-msgstr "절대 없음"
+msgstr "없음"
 
 msgid "New line"
 msgstr "새로운 노선"
@@ -4180,7 +4180,7 @@ msgid "Video"
 msgstr "동영상"
 
 msgid "View terms"
-msgstr "규약을 표시한다"
+msgstr "약관 보기"
 
 msgid "Voice-over"
 msgstr "더빙"
@@ -4471,7 +4471,7 @@ msgid "none"
 msgstr "없음"
 
 msgid "unknown error"
-msgstr "불명한 에러"
+msgstr "알수없는 오류"
 
 msgid "unlimited"
 msgstr "무한"
