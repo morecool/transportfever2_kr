@@ -3845,10 +3845,10 @@ msgid "Toggle traffic light"
 msgstr "신호 전환"
 
 msgid "Too much curvature"
-msgstr "커브가 너무 많음"
+msgstr "커브가 심함"
 
 msgid "Too much slope"
-msgstr "언덕이 너무 많음"
+msgstr "경사가 심함"
 
 msgid "Top length (rail)"
 msgstr "최장거리(철도)"
