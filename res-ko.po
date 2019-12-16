@@ -1369,7 +1369,7 @@ msgid "MISSION_ALLINCLUSIVE_MEDAL_BEACH_INCREASE_HINT"
 msgstr "금액이 자동으로 공제됩니다"
 
 msgid "MISSION_ALLINCLUSIVE_MEDAL_BEACH_INCREASE_NAME"
-msgstr " 해변 확장"
+msgstr "해변 확장"
 
 msgid "MISSION_ALLINCLUSIVE_MEDAL_BEACH_INCREASE_TASK"
 msgstr "[link=jump_beach]해변[/jump]를 확장합시다."
@@ -1684,55 +1684,55 @@ msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN"
 msgstr "빈"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_BUS1"
-msgstr " 빈 버스 정류장 1"
+msgstr "빈 버스 정류장 1"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_BUS2"
-msgstr " 빈 버스 정류장 2"
+msgstr "빈 버스 정류장 2"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_BUS3"
-msgstr " 빈 버스 정류장 3"
+msgstr "빈 버스 정류장 3"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_BUS4"
-msgstr " 빈 버스 정류장 4"
+msgstr "빈 버스 정류장 4"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_BUS5"
-msgstr " 빈 버스 정류장 5"
+msgstr "빈 버스 정류장 5"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_BUS6"
-msgstr " 빈 버스 정류장 6"
+msgstr "빈 버스 정류장 6"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_BUS7"
-msgstr " 빈 버스 정류장 7"
+msgstr "빈 버스 정류장 7"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_BUS8"
-msgstr "빈버스정류장 8"
+msgstr "빈 버스정류장 8"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_BUS9"
-msgstr " 빈 버스 정류장 9"
+msgstr "빈 버스 정류장 9"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_BUS_STATION"
-msgstr "빈버스역"
+msgstr "빈 버스역"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_SMALL_STATION1"
-msgstr " 빈 버스 정류장 1"
+msgstr "빈 버스 정류장 1"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_SMALL_STATION2"
-msgstr " 빈 버스 정류장 2"
+msgstr "빈 버스 정류장 2"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_SMALL_STATION3"
-msgstr " 빈 버스 정류장 3"
+msgstr "빈 버스 정류장 3"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_SMALL_STATION4"
-msgstr " 빈 버스 정류장 4"
+msgstr "빈 버스 정류장 4"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_SMALL_STATION5"
-msgstr " 빈 버스 정류장 5"
+msgstr "빈 버스 정류장 5"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_SMALL_STATION6"
-msgstr " 빈 버스 정류장 6"
+msgstr "빈 버스 정류장 6"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_SMALL_STATION7"
-msgstr " 빈 버스 정류장 7"
+msgstr "빈 버스 정류장 7"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_ZURICH"
 msgstr "취리히"
@@ -3766,19 +3766,19 @@ msgid "MISSION_HIGHLANDS_PARAMS_PORTELLEN_HARBOR"
 msgstr "포트·엘렌 항만"
 
 msgid "MISSION_HIGHLANDS_PARAMS_STONE1"
-msgstr " 신기한 돌 1"
+msgstr "신기한 돌 1"
 
 msgid "MISSION_HIGHLANDS_PARAMS_STONE2"
-msgstr " 신기한 돌 2"
+msgstr "신기한 돌 2"
 
 msgid "MISSION_HIGHLANDS_PARAMS_STONE3"
-msgstr " 신기한 돌 3"
+msgstr "신기한 돌 3"
 
 msgid "MISSION_HIGHLANDS_PARAMS_STONE4"
-msgstr " 신기한 돌 4"
+msgstr "신기한 돌 4"
 
 msgid "MISSION_HIGHLANDS_PARAMS_STONE5"
-msgstr " 신기한 돌 5"
+msgstr "신기한 돌 5"
 
 msgid "MISSION_HIGHLANDS_TASK_FINISH_NAME"
 msgstr "명예와 영광!"
@@ -5821,7 +5821,7 @@ msgid "MISSION_MACHINES_TASK_REIMS_SHOW_SUB1"
 msgstr "샴페인 운반"
 
 msgid "MISSION_MACHINES_TASK_REIMS_SHOW_SUB2"
-msgstr " 스탠드용 나무판자를 운반"
+msgstr "스탠드용 나무판자를 운반"
 
 msgid "MISSION_MACHINES_TASK_REIMS_SHOW_TASK"
 msgstr ""
@@ -6788,7 +6788,7 @@ msgstr ""
 "지로 중요합니다!"
 
 msgid "MISSION_PARADISO_TASK_RETREAT_NAME"
-msgstr " 서는 새자국을 흐리지 말고"
+msgstr "조용한 철수"
 
 msgid "MISSION_PARADISO_TASK_RETREAT_SELL_NAME"
 msgstr "재고 매각"
@@ -7177,7 +7177,7 @@ msgid "MISSION_REDSTAR_PARAMS_GUANGAN"
 msgstr "광안"
 
 msgid "MISSION_REDSTAR_PARAMS_IRONMINE_EAST"
-msgstr " 충칭 철광석 광산"
+msgstr "충칭 철광석 광산"
 
 msgid "MISSION_REDSTAR_PARAMS_IRONMINE_WEST"
 msgstr "낙산철광석광산"
@@ -7204,7 +7204,7 @@ msgid "MISSION_REDSTAR_PARAMS_NEIJIANG"
 msgstr "네이장"
 
 msgid "MISSION_REDSTAR_PARAMS_STEELMILL_EAST"
-msgstr " 충칭 제강소"
+msgstr "충칭 제강소"
 
 msgid "MISSION_REDSTAR_PARAMS_STEELMILL_WEST"
 msgstr "자공제강소"
@@ -7219,7 +7219,7 @@ msgid "MISSION_REDSTAR_PARAMS_TRAINSTATION_CHENGDU"
 msgstr "청두여객역"
 
 msgid "MISSION_REDSTAR_PARAMS_TRAINSTATION_CHONGQING"
-msgstr " 충칭여객역"
+msgstr "충칭여객역"
 
 msgid "MISSION_REDSTAR_PARAMS_TRAINSTATION_NEIJIANG"
 msgstr "내강여객역"
@@ -7385,7 +7385,7 @@ msgstr ""
 "속히 대처합시다."
 
 msgid "MISSION_REDSTAR_TASK_PLAN_NAME"
-msgstr " 제일차 오 개년 계획"
+msgstr "제1차 5개년 계획"
 
 msgid "MISSION_REDSTAR_TASK_PLAN_TEXT"
 msgstr ""
@@ -8344,7 +8344,7 @@ msgid "MISSION_SILVERCITY_TASK_CARGO_SELLMINE_TASK"
 msgstr "은광산을 매각합시다."
 
 msgid "MISSION_SILVERCITY_TASK_CARGO_SELLMINE_TEXT"
-msgstr " 멍청하게 광구를 잡게 합시다."
+msgstr "멍청하게 광구를 잡게 합시다."
 
 msgid "MISSION_SILVERCITY_TASK_CARGO_STATION_NAME"
 msgstr "화물역 건설"
@@ -8612,7 +8612,7 @@ msgstr ""
 "설합시다."
 
 msgid "MISSION_SILVERCITY_TASK_SHAFT_TRUCK_TEXT"
-msgstr " 짐마차에 목재를 싣기 위한 정류장을 건설합시다."
+msgstr "짐마차에 목재를 싣기 위한 정류장을 건설합시다."
 
 msgid "MISSION_SILVERCITY_TASK_SHAFT_VEHICLE_NAME"
 msgstr "차량 구입"
@@ -10448,13 +10448,13 @@ msgid "MISSION_TRANSSIB_PARAMS_WARMATERIAL_PRODUCE"
 msgstr "군수물자보관"
 
 msgid "MISSION_TRANSSIB_PARAMS_ZOBEL_BUILDING1"
-msgstr " 검은 담비 태우 클럽의 집 1"
+msgstr "검은 담비 태우 클럽의 집 1"
 
 msgid "MISSION_TRANSSIB_PARAMS_ZOBEL_BUILDING2"
-msgstr " 검은 담비 태우 클럽의 집 2"
+msgstr "검은 담비 태우 클럽의 집 2"
 
 msgid "MISSION_TRANSSIB_PARAMS_ZOBEL_BUILDING3"
-msgstr " 검은 담비 태우 클럽의 집 3"
+msgstr "검은 담비 태우 클럽의 집 3"
 
 msgid "MISSION_TRANSSIB_TASK_FINISH_NAME"
 msgstr "전대미문의 위업!"
@@ -12075,7 +12075,7 @@ msgid "Russian"
 msgstr "러시아어"
 
 msgid "Sand"
-msgstr " 모래"
+msgstr "모래"
 
 msgid "Sand 01"
 msgstr "모래 01"

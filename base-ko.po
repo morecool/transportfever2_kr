@@ -332,6 +332,7 @@ msgid "%d module will be removed"
 msgid_plural "%d modules will be removed"
 msgstr[0] "%d개의 모듈을 교체합니다"
 msgstr[1] "%d개의 모듈을 교체합니다"
+
 msgid "%d of %d"
 msgstr "%d / %d"
 
@@ -361,8 +362,8 @@ msgstr "%s의 길이가 과잉: 이동 시간은 %d초, %d초가 허용되어 �
 
 msgid "(%1% compartment)"
 msgid_plural "(%1% compartments)"
-msgstr[0] "(객실%1%)"
-msgstr[1] "(객실%1%)"
+msgstr[0] "(객실 %1%)"
+msgstr[1] "(객실 %1%)"
 
 msgid "(No target)"
 msgstr "(타겟 없음)"
@@ -569,6 +570,7 @@ msgid "Aircraft"
 msgid_plural "Aircraft"
 msgstr[0] "항공기"
 msgstr[1] "항공기"
+
 msgid "Aircraft %1%"
 msgstr "항공기 %1%"
 
@@ -1038,6 +1040,7 @@ msgid "Cargo type"
 msgid_plural "Cargo types"
 msgstr[0] "화물의 종류"
 msgstr[1] "화물의 종류"
+
 msgid "Cargo types"
 msgstr "화물의 종류"
 
@@ -1192,6 +1195,7 @@ msgid "Configure maintenance for selected vehicle"
 msgid_plural "Configure maintenance for selected vehicles"
 msgstr[0] "선택한 차량의 정비를 설정한다"
 msgstr[1] "선택한 차량의 정비를 설정한다"
+
 msgid "Confirm decommission"
 msgstr "퇴역을 승인"
 
@@ -1557,6 +1561,7 @@ msgid "Engine Type"
 msgid_plural "Engine Types"
 msgstr[0] "엔진 종류"
 msgstr[1] "엔진 종류"
+
 msgid "Enter a file name!"
 msgstr "파일명을 입력해주세요!"
 
@@ -2063,6 +2068,7 @@ msgid "Invalid configuration, %1% module will collide."
 msgid_plural "Invalid configuration, %1% modules will collide."
 msgstr[0] "설정이 잘못되었습니다.%1% 모듈이 충돌합니다."
 msgstr[1] "설정이 잘못되었습니다.%1% 모듈이 충돌합니다."
+
 msgid "Inventory"
 msgstr "인벤토리"
 
@@ -3056,12 +3062,13 @@ msgid "Replace all vehicles"
 msgstr "모든 차량 교체"
 
 msgid "Replace for "
-msgstr "다음으로 교환:"
+msgstr "다음으로 교체:"
 
 msgid "Replace selected vehicle"
 msgid_plural "Replace selected vehicles"
-msgstr[0] "선택한 차량을 교환."
-msgstr[1] "선택한 차량을 교환."
+msgstr[0] "선택한 차량을 교체."
+msgstr[1] "선택한 차량을 교체."
+
 msgid "Replace vehicle"
 msgstr "차량 교체"
 
@@ -3069,7 +3076,7 @@ msgid "Replace vehicles"
 msgstr "차량 교체"
 
 msgid "Replacement vehicle not set"
-msgstr "교환할 차량이 설정되어 있지 않아요"
+msgstr "교체할 차량이 설정되어 있지 않아요"
 
 msgid "Replacing vehicle"
 msgstr "차량 교체"
@@ -3141,6 +3148,7 @@ msgid "Road vehicle"
 msgid_plural "Road vehicles"
 msgstr[0] "도로 운송 차량."
 msgstr[1] "도로 운송 차량."
+
 msgid "Road vehicle %1%"
 msgstr "도로 운송 차량%1%"
 
@@ -3266,10 +3274,12 @@ msgid "Sell selected vehicle"
 msgid_plural "Sell selected vehicles"
 msgstr[0] "선택한 차량을 매각한다"
 msgstr[1] "선택한 차량을 매각한다"
+
 msgid "Sell selected vehicle?"
 msgid_plural "Sell selected vehicles?"
 msgstr[0] "선택한 차량을 매각합니까?"
 msgstr[1] "선택한 차량을 매각합니까?"
+
 msgid "Sell vehicle"
 msgstr "차량을 매각"
 
@@ -3286,6 +3296,7 @@ msgid "Send selected vehicle to depot"
 msgid_plural "Send selected vehicles to depot"
 msgstr[0] "선택한 차량을 차량기지로 입고"
 msgstr[1] "선택한 차량을 차량기지로 입고"
+
 msgid "Send to depot"
 msgstr "차량기지 입고"
 
@@ -3296,6 +3307,7 @@ msgid "Set color for selected vehicle"
 msgid_plural "Set color for selected vehicles"
 msgstr[0] "선택한 차량 색상 설정"
 msgstr[1] "선택한 차량 색상 설정"
+
 msgid "Set line"
 msgstr "노선 설정"
 
@@ -3330,6 +3342,7 @@ msgid "Ship"
 msgid_plural "Ships"
 msgstr[0] "선박"
 msgstr[1] "선박"
+
 msgid "Ship %1%"
 msgstr "선박 %1%"
 
@@ -3349,7 +3362,7 @@ msgid "Shipyard"
 msgstr "조선소"
 
 msgid "Shop"
-msgstr "가게"
+msgstr "상점"
 
 msgid "Shopping"
 msgstr "쇼핑"
@@ -3523,7 +3536,7 @@ msgid "Sky"
 msgstr "하늘"
 
 msgid "Slope threshold"
-msgstr "언덕의 기준치"
+msgstr "경사 임계치"
 
 msgid "Small"
 msgstr "소"
@@ -3704,7 +3717,7 @@ msgid "Tags"
 msgstr "태그"
 
 msgid "Target population"
-msgstr "대상 인구"
+msgstr "목표 인구"
 
 msgid "Task completed"
 msgstr "작업클리어"
@@ -3743,13 +3756,13 @@ msgid "The existing Steam Workshop item will be updated"
 msgstr "기존 Steam 창작마당 아이템이 업로드 됩니다"
 
 msgid "The future is now, old man"
-msgstr "미래는 지금이다"
+msgstr "지금이 바로 미래다"
 
 msgid "The heightmap \"%1%\" already exists. Do you want to overwrite it?"
 msgstr "하이트 맵 \"%1%\" 은 이미 존재합니다.덮어쓰기 하시겠습니까?"
 
 msgid "The initial size of %1%"
-msgstr "%1% 의 당초의 규모"
+msgstr "%1% 의 시작 크기"
 
 msgid "The king of the sea"
 msgstr "바다의 왕"
@@ -3782,13 +3795,13 @@ msgid "The ugly smell of success"
 msgstr "성공의 추악한 향기"
 
 msgid "There are %1% vehicles to be replaced"
-msgstr "교환하는 차량이%1%대 있습니다"
+msgstr "교체해야할 차량이%1%대 있습니다"
 
 msgid "There are no warnings!"
 msgstr "경고는 없어요!"
 
 msgid "There is one vehicle to be replaced"
-msgstr "교환하는 차량이 1대 있습니다"
+msgstr "교체해야할 차량이 1대 있습니다"
 
 msgid ""
 "This mod's format is deprecated. Please contact the author to obtain an up-"
@@ -3799,7 +3812,7 @@ msgid "This warning can be deactivated in the settings Advanced tab."
 msgstr "이 경고 메시지는 설정의 \"상세\" 탭에서 비표시로 할 수 있습니다."
 
 msgid "Thrust"
-msgstr "스라스트"
+msgstr "출력"
 
 msgid "Tickets"
 msgstr "티켓"
@@ -3914,6 +3927,7 @@ msgid "Train"
 msgid_plural "Trains"
 msgstr[0] "열차"
 msgstr[1] "열차"
+
 msgid "Train %1%"
 msgstr "열차%1%"
 
@@ -3936,8 +3950,9 @@ msgid "Tram"
 msgid_plural "Trams"
 msgstr[0] "노면전차"
 msgstr[1] "노면전차"
+
 msgid "Tram %1%"
-msgstr "전차 %1%"
+msgstr "노면전차 %1%"
 
 msgid "Tram depot"
 msgstr "노면전차 차량기지"
