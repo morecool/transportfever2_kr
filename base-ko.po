@@ -1147,7 +1147,7 @@ msgid "Commercial supply"
 msgstr "상업용 물자"
 
 msgid "Community management"
-msgstr "커뮤니티 매니지먼트"
+msgstr "커뮤니티 관리"
 
 msgid "Company"
 msgstr "회사"
@@ -2331,7 +2331,7 @@ msgid "Maintenance vehicles"
 msgstr "차량 정비"
 
 msgid "Manage line"
-msgstr "매니지먼트라인"
+msgstr "노선 관리"
 
 msgid "Manage vehicle"
 msgstr "차량 정비"
@@ -2340,7 +2340,7 @@ msgid "Manage vehicles"
 msgstr "차량 정비"
 
 msgid "Management"
-msgstr "매니지먼트"
+msgstr "관리"
 
 msgid "Map Editor"
 msgstr "맵 에디터"
@@ -2591,13 +2591,13 @@ msgid "No path (Electric)"
 msgstr "노선 없음(전기)"
 
 msgid "No path for big airplanes"
-msgstr "대형 항공기가 들어갈 길이 없습니다"
+msgstr "대형 항공기가 들어갈 노선이 없습니다"
 
 msgid "No path for big ships"
-msgstr "대형 선박이 들어갈 길이 없습니다"
+msgstr "대형 선박이 들어갈 노선이 없습니다"
 
 msgid "No path found between %1% and %2%"
-msgstr "%1% 과 %2% 사이에 길이 없습니다"
+msgstr "%1% 과 %2% 사이에 노선이 없습니다"
 
 msgid "No saved games available."
 msgstr "저장된 게임이 없습니다."
