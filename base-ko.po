@@ -2148,7 +2148,7 @@ msgid "Language"
 msgstr "언어"
 
 msgid "Large"
-msgstr "큰"
+msgstr "대형"
 
 msgid "Last Image:"
 msgstr "지난번 화상:"
@@ -2391,7 +2391,7 @@ msgid "Mediocre"
 msgstr "보통"
 
 msgid "Medium"
-msgstr "중간"
+msgstr "중형"
 
 msgid "Megalomaniac"
 msgstr "초거대"
@@ -3539,7 +3539,7 @@ msgid "Slope threshold"
 msgstr "경사 임계치"
 
 msgid "Small"
-msgstr "소"
+msgstr "소형"
 
 msgid "Smooth the terrain."
 msgstr "지형을 보정합니다."
@@ -4159,7 +4159,7 @@ msgid "Vehicles report following problems:"
 msgstr "차량에서 다음 문제가 보고되고 있습니다:"
 
 msgid "Very Large"
-msgstr "매우 큼"
+msgstr "초대형"
 
 msgid "Very bad"
 msgstr "매우 나쁨"
