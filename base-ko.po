@@ -349,7 +349,7 @@ msgid "%d point(s) for having more than 20 trams"
 msgstr "트램을 20척 이상 소지하면서%d포인트"
 
 msgid "%d point(s) for having more than 5 aircraft"
-msgstr "비행기를 5대 이상 소지하면서%d포인트"
+msgstr "항공기를 5대 이상 소지하면서%d포인트"
 
 msgid "%d point(s) for having more than 5 ships"
 msgstr "배를 5척 이상 소지하면서%d포인트"
@@ -484,7 +484,7 @@ msgid ""
 "A path has been found, but only small aircraft are allowed on this path. "
 "Consider using small aircraft or large airports."
 msgstr ""
-"경로를 찾았지만, 여기에 넣을 수 있는 것은 소형 비행기뿐입니다. 소형 비행기로 선택"
+"경로를 찾았지만, 여기에 넣을 수 있는 것은 소형 항공기뿐입니다. 소형 항공기로 선택"
 "하거나, 큰 공항을 사용합시다."
 
 msgid ""
@@ -1033,7 +1033,7 @@ msgstr "화물 공급 평가(과거 12개월 평균)"
 msgid "Cargo transported (total)"
 msgstr "수송한 화물 (총 수)"
 
-msgid "Cargo transported(last 12 months)"
+msgid "Cargo transported (last 12 months)"
 msgstr "수송한 화물 (과거 12개월)"
 
 msgid "Cargo type"
@@ -2094,7 +2094,7 @@ msgid "Investments"
 msgstr "투자"
 
 msgid "Jobs"
-msgstr "일"
+msgstr "일자리"
 
 msgid "Keep"
 msgstr "유지"
@@ -4397,7 +4397,7 @@ msgstr "짧게"
 
 msgctxt "plural"
 msgid "Aircraft"
-msgstr "비행기"
+msgstr "항공기"
 
 msgctxt "power-unit"
 msgid "hp"
