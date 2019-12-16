@@ -8199,7 +8199,7 @@ msgstr "더 많은 통나무 운반"
 
 msgid "MISSION_SILVERCITY_MEDAL_PONDEROSA_DELIVER_TASK"
 msgstr ""
-"[link=jump_forest Carson]목장[/link]에서 [link=jump_woodProcessing Mill]팀"
+"[link=jump_forestCarson]목장[/link]에서 [link=jump_woodProcessingMill]팀"
 "버 서플라이[/link]로 통나무를 옮깁시다."
 
 msgid "MISSION_SILVERCITY_MEDAL_PONDEROSA_DELIVER_TEXT"
@@ -9175,7 +9175,8 @@ msgstr "시작항공기 설계"
 
 msgid "MISSION_STARFLIGHT_TASK_PLANES_TASKS_TASK"
 msgstr ""
-"[link=jump_toolsfactory]공구공장[/link][link=jump_steelmill]제강소[/link]"
+"[link=jump_toolsfactory]공구공장[/link], [link=jump_steelmill]철강공장[/link] "
+"그리고 [link=jump_sawmill]제제소[/link]에서 작업을 완료하십시오."
 
 msgid "MISSION_STARFLIGHT_TASK_PLANES_TASKS_TEXT"
 msgstr ""
@@ -9252,7 +9253,8 @@ msgstr "프리미어 기획"
 
 msgid "MISSION_STARFLIGHT_TASK_PREMIERE_ORGANIZE_TASK"
 msgstr ""
-"[link=jump_trainstation_la]역[/link], [link=jump_party]호텔[/link]"
+"[link=jump_trainstation_la]역[/link], [link=jump_party]호텔[/link] 그리고 "
+"[link=jump_premiere]프리미어[/link]에서 필요한 준비를 하십시오."
 
 msgid "MISSION_STARFLIGHT_TASK_PREMIERE_ORGANIZE_TEXT"
 msgstr ""
@@ -9460,8 +9462,8 @@ msgstr "대주주 지위 취득"
 
 msgid "MISSION_STARFLIGHT_TASK_TYCOON_STOCK_TASK"
 msgstr ""
-"[link=jump_airfield_santabarbara]비행장[/link], [link=jump_golfcourse골프코"
-"스[/link][link=jump_party]파티장[/link]에서 항공사 대주주 지위를 얻을 기회"
+"[link=jump_airfield_santabarbara]비행장[/link], [link=jump_golfcourse]골프코스[/link] "
+"그리고 [link=jump_party]파티장[/link]에서 항공사 대주주 지위를 얻을 기회"
 "를 찾읍시다."
 
 msgid "MISSION_STARFLIGHT_TASK_TYCOON_STOCK_TEXT"
