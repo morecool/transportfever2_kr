@@ -495,7 +495,7 @@ msgstr ""
 "구를 사용합시다."
 
 msgid "A station appears consecutively twice"
-msgstr "역이 두 연속 출현하고 있습니다"
+msgstr "기/종점에 같은역이 중복선택되었습니다"
 
 msgid "Accept!"
 msgstr "수락!"
@@ -712,13 +712,13 @@ msgid "Big aircraft"
 msgstr "대형 항공기"
 
 msgid "Big aircraft is incompatible with small airport"
-msgstr "대형 항공기는 작은 공항에 대응할 수 없습니다"
+msgstr "대형 항공기는 작은 공항에 착륙할 수 없습니다"
 
 msgid "Big ship"
 msgstr "대형 선박"
 
 msgid "Big ship is incompatible with small harbour"
-msgstr "대형 선박은 작은 항구에 대응할 수 없습니다"
+msgstr "대형 선박은 작은 항구에 정박할 수 없습니다"
 
 msgid "Big spender"
 msgstr "통 큰 배"
@@ -754,10 +754,10 @@ msgid "Build"
 msgstr "건설"
 
 msgid "Build a bus stop."
-msgstr "버스 정류장을 만든다."
+msgstr "버스 정류장 건설."
 
 msgid "Build a passenger train station."
-msgstr "여객 철도 역을 만든다."
+msgstr "여객 철도역 건설."
 
 msgid "Build a town"
 msgstr "마을 건설"
@@ -766,10 +766,10 @@ msgid "Build a train line with at least 10 trains in motion."
 msgstr "최소 10 개의 기차가 움직이는 기차 노선을 만드십시오"
 
 msgid "Build date"
-msgstr "건설일"
+msgstr "준공일"
 
 msgid "Build high bridges over rivers so that ships can pass under."
-msgstr "강 위에 높은 다리를 만들어서 밑을 배가 지나갈 수 있도록 합시다."
+msgstr "배가 지나갈 수 있을만큼 높은 다리를 건설하시오."
 
 msgid ""
 "Build one line containing at least one of every passenger road vehicle that "
@@ -779,10 +779,10 @@ msgstr ""
 "하는 노선을 구축하십시오."
 
 msgid "Build the company headquarters."
-msgstr "본사를 지으세요."
+msgstr "본사를 건설하시오."
 
 msgid "Build town not possible"
-msgstr "마을을 건설할 수 없어요"
+msgstr "마을을 건설할 수 없습니다"
 
 msgid "Building town..."
 msgstr "마을 건설 중..."
@@ -803,16 +803,16 @@ msgid "Bus and tram stops"
 msgstr "버스 및 노면전차 정거장"
 
 msgid "Bus lane"
-msgstr "버스 차선"
+msgstr "버스 차로"
 
 msgid "Bus lane tool"
-msgstr "버스 차선 도구"
+msgstr "버스 차로 도구"
 
 msgid "Bus/Tram station"
 msgstr "버스/노면전차 정류장"
 
 msgid "Bus/truck not compatible"
-msgstr "버스/트럭 미포함"
+msgstr "버스/트럭 사용 불가"
 
 msgid "Buy a bus and run a line."
 msgstr "버스를 구입하여 노선을 운행하십시오."
@@ -851,10 +851,10 @@ msgid "Buy vehicles"
 msgstr "차량 구매"
 
 msgid "By car"
-msgstr "차 이용"
+msgstr "차량 이동"
 
 msgid "By foot"
-msgstr "도보"
+msgstr "도보 이동"
 
 msgid "By submitting this item, you agree to the workshop terms of service."
 msgstr "이 아이템을 제출함으로써, 창작마당 이용규약에 동의한 것으로 하고니다."
@@ -965,7 +965,7 @@ msgid "Cancel publishing"
 msgstr "공개 취소"
 
 msgid "Cannot bulldoze headquarters, use relocate instead!"
-msgstr "본사는 철거할 수 없습니다. 대신 이전합시다!"
+msgstr "본사는 철거할 수 없습니다. 이전만 가능합니다."
 
 msgid "Cannot get enough"
 msgstr "아직 부족해"
@@ -986,7 +986,7 @@ msgid "Capture videos"
 msgstr "동영상 캡쳐"
 
 msgid "Car owner"
-msgstr "차 주인"
+msgstr "자가용 보유"
 
 msgid "Cargo"
 msgstr "화물"
@@ -1224,7 +1224,7 @@ msgid "Construction locked"
 msgstr "건설이 잠겨있습니다"
 
 msgid "Construction not possible"
-msgstr "건설이 안됩니다"
+msgstr "건설이 불가능합니다"
 
 msgid "Construction option 1"
 msgstr "건설 옵션 1"
@@ -1378,7 +1378,7 @@ msgid "Delete subtitle"
 msgstr "자막 삭제"
 
 msgid "Deliver every product to every city that requires it."
-msgstr "모든 상품을 필요한 모든 도시로 운반한다."
+msgstr "모든 상품을 필요한 모든 도시로 운송한다."
 
 msgid "Depot"
 msgstr "차량기지"
@@ -1566,7 +1566,7 @@ msgid "Enter a file name!"
 msgstr "파일명을 입력해주세요!"
 
 msgid "Enter cockpit"
-msgstr "콕피트에 올라타다"
+msgstr "운전석 시점"
 
 msgid "Erase assets with a brush."
 msgstr "브러쉬로 에셋을 지웁시다."
@@ -1701,7 +1701,7 @@ msgid "Freq."
 msgstr "배차 간격"
 
 msgid "Frequence"
-msgstr "빈도"
+msgstr "배차 간격"
 
 msgid "Full load (all)"
 msgstr "최대적재(모두)"
@@ -1779,13 +1779,13 @@ msgid "Go back to menu"
 msgstr "메뉴로 돌아가기"
 
 msgid "Go to next page"
-msgstr "다음 페이지로 가겠다"
+msgstr "다음 페이지로 이동"
 
 msgid "Go to station"
-msgstr "역으로 간다"
+msgstr "역으로 이동중"
 
 msgid "Going to depot"
-msgstr "차량기지로 향한다"
+msgstr "차량기지로 이동중"
 
 msgid "Good"
 msgstr "좋음"
@@ -1866,7 +1866,7 @@ msgid "Have a cargo item waiting at a terminal."
 msgstr "터미널에 화물을 대기시킨다."
 
 msgid "Have a monthly maintenance cost of 200 million."
-msgstr "2억 걸린 달 1회 정비를 받는다."
+msgstr "한달 유지비 2억 소비."
 
 msgid "Have a passenger on a vehicle."
 msgstr "차량에 승객을 태운다."
@@ -1906,7 +1906,7 @@ msgid "Have every industry shipping items using your transport network."
 msgstr "모든 산업에 자신의 수송 네트워크를 사용하여 상품을 출하시킨다."
 
 msgid "Have two trains stuck facing each other."
-msgstr "열차 2대가 마주에서 꼼짝 못하다."
+msgstr "열차가 서로 마주쳐서 움직이지 못합니다."
 
 msgid "Head of PR & Community Management"
 msgstr "PR & 커뮤니티 매니지먼트 주임"
@@ -1915,13 +1915,13 @@ msgid "Head of Product Management"
 msgstr "프로덕트 매니지먼트 주임"
 
 msgid "Heading for %1%"
-msgstr "%1% 로 가는중"
+msgstr "%1% 로 이동중"
 
 msgid "Heading for depot"
-msgstr "차량기지로 향하겠다"
+msgstr "차량기지로 복귀"
 
 msgid "Headquarters"
-msgstr "본부"
+msgstr "본사"
 
 msgid "Heavily loaded"
 msgstr "짐더미 쌓기"
@@ -2259,7 +2259,7 @@ msgid "Loading order, click to change"
 msgstr "로드할 차례, 클릭해서 변경"
 
 msgid "Loading speed"
-msgstr "탑재 속도"
+msgstr "선적 속도"
 
 msgid "Loading..."
 msgstr "로딩 중..."
@@ -2421,7 +2421,7 @@ msgid "Missing tram tracks"
 msgstr "노면전차 선로가 부족합니다"
 
 msgid "Mission %1%"
-msgstr "미션%1%"
+msgstr "미션 %1%"
 
 msgid "Mission %1% of %2%"
 msgstr "미션 %1%/%2%"
@@ -2454,7 +2454,7 @@ msgid "Modify the terrain with a heightmap texture."
 msgstr "하이트맵 텍스쳐로 지형을 수정합시다."
 
 msgid "Mods are active. Achievements cannot be earned!"
-msgstr "MOD가 유효합니다.실적은 획득할 수 없습니다!"
+msgstr "MOD가 유효합니다. 업적은 획득할 수 없습니다!"
 
 msgid "Module bulldozer"
 msgstr "모듈 불도저"
@@ -2523,7 +2523,7 @@ msgid "New line"
 msgstr "새로운 노선"
 
 msgid "New vehicle"
-msgstr "새차량"
+msgstr "새 차량"
 
 msgid "Next"
 msgstr "다음"
@@ -2648,7 +2648,7 @@ msgid "Nothing waiting"
 msgstr "대기하고 있는 것은 없습니다"
 
 msgid "Notifications"
-msgstr "통지"
+msgstr "알림"
 
 msgid "Now what?"
 msgstr "그래서 어떻게 해?"
@@ -2759,7 +2759,7 @@ msgid "PR & Community Management"
 msgstr "PR & 커뮤니티 매니지먼트"
 
 msgid "PR Assistant"
-msgstr "PR도우미"
+msgstr "PR 도우미"
 
 msgid "Paint tools"
 msgstr "페인트 툴"
@@ -2999,7 +2999,7 @@ msgid "Reach an emission value of 80 in a town."
 msgstr "거리의 배기 가스 배출량이 80에 도달한다."
 
 msgid "Reach the maximum headquarters level."
-msgstr "최대한 본부 레벨에 도달한다."
+msgstr "본사 레벨을 최대로 올립니다."
 
 msgid "Reach the present."
 msgstr "현재에 도달하다."
