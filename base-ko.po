@@ -2391,7 +2391,7 @@ msgid "Mediocre"
 msgstr "보통"
 
 msgid "Medium"
-msgstr "중형"
+msgstr "중간"
 
 msgid "Megalomaniac"
 msgstr "초거대"
@@ -2621,7 +2621,7 @@ msgid "No vehicles to replace!"
 msgstr "교체할 차량이 없습니다!!"
 
 msgid "Node locked"
-msgstr "초점이 잠겨있음"
+msgstr "경로가 잠겨있음"
 
 msgid "None"
 msgstr "없음"
@@ -2651,13 +2651,13 @@ msgid "Notifications"
 msgstr "알림"
 
 msgid "Now what?"
-msgstr "그래서 어떻게 해?"
+msgstr "어떻게 할까요?"
 
 msgid "Number of industries"
-msgstr "산업수"
+msgstr "산업 수"
 
 msgid "Number of industries:"
-msgstr "산업수:"
+msgstr "산업 수:"
 
 msgid "Number of items currently in stock"
 msgstr "현재 재고가 있는 아이템 수"
@@ -4284,7 +4284,7 @@ msgid "You have finished %s"
 msgstr "%s를 완료했습니다"
 
 msgid "You have finished the %s campaign!"
-msgstr "%s캠페인을 완료했습니다!"
+msgstr "%s 캠페인을 완료했습니다!"
 
 msgid "You will be challenged"
 msgstr "고생해요"
@@ -4302,7 +4302,7 @@ msgid "[UserData]/"
 msgstr "[UserData]/"
 
 msgid "around %1%"
-msgstr "%1%연대"
+msgstr "%1% 연대"
 
 msgid "can not reach next"
 msgstr "다음에 도달할 수 없어요"
@@ -4501,4 +4501,4 @@ msgstr "t/tonne"
 
 msgctxt "worldsize"
 msgid "Medium"
-msgstr "중"
+msgstr "중형"
