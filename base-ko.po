@@ -2750,16 +2750,16 @@ msgid "Overwrite heightmap?"
 msgstr "하이트맵을 덮어쓰나요?"
 
 msgid "Overwrite savegame?"
-msgstr "세이브 게임을 덮어쓰기 하시겠습니까?"
+msgstr "저장된 게임을 덮어쓰기 하시겠습니까?"
 
 msgid "Ownership test failed"
 msgstr "오너십 테스트에 실패했어요"
 
 msgid "PR & Community Management"
-msgstr "PR & 커뮤니티 매니지먼트"
+msgstr "홍보 & 커뮤니티 관리"
 
 msgid "PR Assistant"
-msgstr "PR 도우미"
+msgstr "홍보 도우미"
 
 msgid "Paint tools"
 msgstr "페인트 툴"

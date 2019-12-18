@@ -2128,7 +2128,7 @@ msgid "MISSION_BAGDAD_INTRO3"
 msgstr "우유와 꿀이 풍부한 나라"
 
 msgid "MISSION_BAGDAD_INTRO4"
-msgstr "벅다드 철도는 동양의 요점입니다."
+msgstr "바그다드 철도는 동양의 요점입니다."
 
 msgid "MISSION_BAGDAD_INTRO5"
 msgstr "독일제국이 귀중한 자원을 구할 수 있습니다."
@@ -2235,6 +2235,10 @@ msgstr "아다나로 차를 수송"
 msgid "MISSION_BAGDAD_MEDAL_SULTAN_DISHES_TASK"
 msgstr "[link=jump_adana]${name_adana}[/link]로 향합시다."
 
+msgid "MISSION_BAGDAD_MEDAL_SULTAN_DISHES_TEXT"
+msgstr ""
+"섬세한 도자기 차 세트가 필수적입니다. \n"
+
 msgid "MISSION_BAGDAD_MEDAL_SULTAN_DIVAN_NAME"
 msgstr "디반의 발견"
 
@@ -2322,7 +2326,7 @@ msgstr ""
 "다른 사람에게 앞서기 전에, 회수하러 갑시다!"
 
 msgid "MISSION_BAGDAD_NAME"
-msgstr "벅다드 철도"
+msgstr "바그다드 철도"
 
 msgid "MISSION_BAGDAD_PARAMS_ADANA_HARBOR"
 msgstr "아다나 항구"
@@ -2412,7 +2416,7 @@ msgstr "발전협력"
 
 msgid "MISSION_BAGDAD_TASK_DEVELOP_TEXT"
 msgstr ""
-"벅다드와 이스탄불을 잇는 철도!엔지니어링 스킬을 가진 독일인이 만듭니다.일대 "
+"바그다드와 이스탄불을 잇는 철도!엔지니어링 스킬을 가진 독일인이 만듭니다.일대 "
 "모험 사업입니다!\n"
 "이 프로젝트가 이익이 되지 않는 경우, 술탄은 세수로 손실을 보전해주겠다고 신"
 "청해 주었습니다.\n"
@@ -2518,7 +2522,7 @@ msgstr ""
 msgid "MISSION_BAGDAD_TASK_MACHINES_FINISH_TEXT"
 msgstr ""
 "필요한 기계가 도착했습니다.\n"
-"벅다드 철도가 드디어 완성됩니다."
+"바그다드 철도가 드디어 완성됩니다."
 
 msgid "MISSION_BAGDAD_TASK_MACHINES_NAME"
 msgstr "완료"
@@ -2960,7 +2964,7 @@ msgstr "출하 준비"
 
 msgid "MISSION_COLONIALISM_TASK_EXPORT_DELIVER_TASK"
 msgstr ""
-"새로운 역간의 루트를 확립하고, 적어도 ${num_vehicles_export_task}대의 적절"
+"새로운 역간의 루트를 확립하고, 최소 ${num_vehicles_export_task}대의 적절"
 "한 차량을 루트에 배치합시다."
 
 msgid "MISSION_COLONIALISM_TASK_EXPORT_DELIVER_TEXT"
@@ -3050,7 +3054,7 @@ msgstr "사람들의 수송"
 
 msgid "MISSION_COLONIALISM_TASK_PASSENGERS_TRANSPORT_TASK"
 msgstr ""
-"적어도${passenger_amount_4c}사람의 승객을,"
+"최소 ${passenger_amount_4c}사람의 승객을,"
 "[link=jump_surabaya]${name_surabaya}[/link]와 "
 "[link=jump_semarang]${name_semarang}[/link]간에 수송합시다."
 
@@ -4558,8 +4562,8 @@ msgstr "횟수"
 
 msgid "MISSION_ICE_TASK_REGIONAL_SERVICE_TASK"
 msgstr ""
-"적어도 ${capacity}, 사람의 수용인원을 가진 열차를 갖추고, ${rate}초의 평균 "
-"빈도에 달합시다."
+"최소 ${capacity} 사람의 수용인원을 가진 열차를 갖추고, ${rate}초의 평균 "
+"배차간격을 달성합니다."
 
 msgid "MISSION_ICE_TASK_REGIONAL_SERVICE_TEXT"
 msgstr ""
@@ -6770,7 +6774,7 @@ msgstr "시설로의 공급"
 msgid "MISSION_PARADISO_TASK_INFRASTRUCTURE_MATERIAL_TASK"
 msgstr ""
 "[link=jump_hotel]호텔[/link]이나 [link=jump_hospital]병원[/link]에는, 어"
-"떤 물자가 필요한지 알아보고 적어도 하나 전달합시다."
+"떤 물자가 필요한지 알아보고 최소 하나 전달합시다."
 
 msgid "MISSION_PARADISO_TASK_INFRASTRUCTURE_MATERIAL_TEXT"
 msgstr ""
@@ -7328,7 +7332,7 @@ msgstr "강철 수집"
 
 msgid "MISSION_REDSTAR_TASK_DECENTRAL_STEEL_TASK"
 msgstr ""
-"적어도 하나의 농장을 강철 생산으로 전환하고, 농민에서 강철을 ${steel_amount}"
+"최소 하나의 농장을 강철 생산으로 전환하고, 농민에서 강철을 ${steel_amount}"
 "개 모읍시다."
 
 msgid "MISSION_REDSTAR_TASK_DECENTRAL_STEEL_TEXT"
@@ -10048,9 +10052,9 @@ msgstr "비축 보급"
 
 msgid "MISSION_SWISSMADE_TASK_MOBILE_RESERVES_TASK"
 msgstr ""
-"적어도${coverage_towns_2b}부분의 마을에서 식량 공급을${coverage_2b}%로 하고 "
-"[link=jump_storage_north]북[/link]과[link=jump_storage_south]남쪽[/link]에"
-"서 총${grain_2b}유닛의 곡물 비축을 달성합시다."
+"적어도 ${coverage_towns_2b}부분의 마을에서 식량 공급을 ${coverage_2b}%로 하고 "
+"[link=jump_storage_north]북쪽[/link]과 [link=jump_storage_south]남쪽[/link]에"
+"서 총 ${grain_2b}유닛의 곡물 비축을 달성합시다."
 
 msgid "MISSION_SWISSMADE_TASK_MOBILE_RESERVES_TEXT"
 msgstr ""
@@ -10217,10 +10221,10 @@ msgstr ""
 "러시아 황제가 이 위대한 프로젝트를 당신에게 맡긴 것은, 그것이 이유입니다."
 
 msgid "MISSION_TRANSSIB_MEDAL_HUNT_AUDIENCE_NAME"
-msgstr "서커스에 관객초대"
+msgstr "서커스장에 관객초대"
 
 msgid "MISSION_TRANSSIB_MEDAL_HUNT_AUDIENCE_TASK"
-msgstr "[link=jump_circus]서커스[/link]로 사람을 데려갑시다."
+msgstr "[link=jump_circus]서커스장[/link]으로 승객을 운송합니다."
 
 msgid "MISSION_TRANSSIB_MEDAL_HUNT_AUDIENCE_TEXT"
 msgstr ""
@@ -10252,10 +10256,10 @@ msgstr ""
 "모릅니다."
 
 msgid "MISSION_TRANSSIB_MEDAL_HUNT_WOOD_NAME"
-msgstr "서커스에 통나무를 공급"
+msgstr "서커스장에 통나무를 공급"
 
 msgid "MISSION_TRANSSIB_MEDAL_HUNT_WOOD_TASK"
-msgstr "[link=jump_circus]서커스[/link]에 통나무를 공급합시다."
+msgstr "[link=jump_circus]서커스장[/link]에 통나무를 공급합시다."
 
 msgid "MISSION_TRANSSIB_MEDAL_HUNT_WOOD_TEXT"
 msgstr ""
@@ -10324,7 +10328,7 @@ msgid "MISSION_TRANSSIB_MEDAL_ZOBEL_AD_NAME"
 msgstr "선전"
 
 msgid "MISSION_TRANSSIB_MEDAL_ZOBEL_AD_TASK"
-msgstr "적어도 ${zobel_stations} 역이 있는 버스 루트를 확립하고 운행합시다."
+msgstr "최소 ${zobel_stations}개의 정류장이 있는 버스 경로를 확립하고 운행합시다."
 
 msgid "MISSION_TRANSSIB_MEDAL_ZOBEL_AD_TEXT"
 msgstr "거리를 걷고, 크로텐의 브리딩 가치를 선전합시다."
@@ -10750,7 +10754,7 @@ msgid "MISSION_TWENTIES_MEDAL_CORPORATE_BUS_COLOR1_SUB1"
 msgstr "다른 색의 노선"
 
 msgid "MISSION_TWENTIES_MEDAL_CORPORATE_BUS_COLOR1_TASK"
-msgstr "적어도 ${distinct_colors} 노선상의 버스를 다른 색으로 도장합시다."
+msgstr "최소 ${distinct_colors}개 노선의 버스를 다른 색으로 도장합시다."
 
 msgid "MISSION_TWENTIES_MEDAL_CORPORATE_BUS_COLOR1_TEXT"
 msgstr ""
@@ -10993,7 +10997,7 @@ msgid "MISSION_TWENTIES_TASK_DRIVERS_TEACH_SUB4"
 msgstr "이용가능 트럭"
 
 msgid "MISSION_TWENTIES_TASK_DRIVERS_TEACH_TASK"
-msgstr "적어도 10대 차량이 가동할 수 있도록 인력을 훈련합시다."
+msgstr "최소 10대 차량이 가동할 수 있도록 인력을 훈련합시다."
 
 msgid "MISSION_TWENTIES_TASK_DRIVERS_TEACH_TEXT"
 msgstr ""
@@ -11137,7 +11141,7 @@ msgstr "승객 탑승 완료"
 
 msgid "MISSION_TWENTIES_TASK_LICENCE_BUSLINE_TASK"
 msgstr ""
-"주변거리에서 [link=jump_minneapolis]미네아폴리스[/link]로의 노선을 적어도 "
+"주변거리에서 [link=jump_minneapolis]미네아폴리스[/link]로의 노선을 최소 "
 "${goal_licence}개 확립하고, ${goal_passengers}인 승객을 수송합시다.각각의 거"
 "리의 중심에서 적절한 라이선스를 구입합시다."
 
@@ -11635,7 +11639,7 @@ msgstr "다리를 폭파"
 
 msgid "MISSION_VICECOUNTY_TASK_SHOW_BRIDGE_TASK"
 msgstr ""
-"적어도 ${destroy_amount}개의 다리를 ${destroy_seconds}초안에 폭파합시다."
+"최소 ${destroy_amount}개의 다리를 ${destroy_seconds}초안에 폭파합시다."
 
 msgid "MISSION_VICECOUNTY_TASK_SHOW_BRIDGE_TEXT"
 msgstr ""
