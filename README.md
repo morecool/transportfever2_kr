@@ -1,7 +1,7 @@
 # Transport Fever 2 Hangeul Translation
 ## Transport Fever 2 한글화 패치
  - 제작 : 삼류개발자 (coolseed@hotmail.com)
- - 버전 : v0.99-7 (2019-12-15) Build 27401
+ - 버전 : v0.99-18 (2019-12-18) Build 27401
  - 배포 : 디시인사이드 트랜스포트피버 마이너 갤러리 (https://gall.dcinside.com/mgallery/board/lists?id=fever)
  - 소스 : https://github.com/morecool/transportfever2_kr
 
@@ -17,7 +17,7 @@
 		"language"		"koreana"   <<<<<< 이렇게 수정 (오타 주의 korean 아님 koreana)
 	}
 ```
- - **base-ko.mo, res-ko.mo** 다운로드
+ - **base-ko.mo, res-ko.mo** 파일을 다운로드 하세요
  - base-ko.mo -> base.mo로 파일명 변경하세요!
  - res-ko.mo -> res.mo로 파일명 변경하세요!
 
