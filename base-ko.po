@@ -578,7 +578,7 @@ msgid "Aircraft entrepreneur"
 msgstr "항공기의 기업가"
 
 msgid "All"
-msgstr "항상"
+msgstr "모두"
 
 msgid "All cargo"
 msgstr "모든 화물"
@@ -2948,7 +2948,7 @@ msgid "Quit game"
 msgstr "게임 종료"
 
 msgid "Quit to main menu or desktop"
-msgstr "종료하고 메인 메뉴 또는 데스크탑으로 돌아갑니다"
+msgstr "종료하고 메인 메뉴 또는 바탕화면으로 돌아갑니다"
 
 msgid "Rail"
 msgstr "철도"
@@ -3827,7 +3827,7 @@ msgid "Tiny"
 msgstr "극소"
 
 msgid "To Desktop"
-msgstr "데스크탑으로"
+msgstr "바탕화면으로"
 
 msgid "To main menu"
 msgstr "메인 메뉴로"

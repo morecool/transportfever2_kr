@@ -237,10 +237,10 @@ msgid "Bus station"
 msgstr "버스 정류장"
 
 msgid "Bus/tram station"
-msgstr "버스/트램 역"
+msgstr "버스/노면전차 역"
 
 msgid "Bus/tram stop"
-msgstr "버스/트램 정류장"
+msgstr "버스/노면전차 정류장"
 
 msgid "CAMPAIGN_DISCLAIMER"
 msgstr ""
@@ -296,7 +296,7 @@ msgid "Chapter III"
 msgstr "챕터 III"
 
 msgid "Chemical plant"
-msgstr "화학 플랜트"
+msgstr "화학 공장"
 
 msgid "Churchill Arrow"
 msgstr "처칠의 화살"
@@ -520,7 +520,7 @@ msgstr ""
 "버튼을 누르십시오."
 
 msgid "GUIDE_BORROW_LOAN"
-msgstr "자금이 부족한 것입니다. 필요한 경우 대출을 수 있습니다."
+msgstr "자금이 부족합니다. 필요한 경우 계좌를 클릭하여 대출을 받을 수 있습니다. "
 
 msgid "GUIDE_BUILD_BUS_DEPOT"
 msgstr "버스와 트럭을 구입하려면 먼저 도로 차량의 차량기지를 건설해야합니다."
@@ -608,7 +608,7 @@ msgstr ""
 
 msgid "GUIDE_HUD_ICONS"
 msgstr ""
-"헤드 업 디스플레이의 아이콘은 개별적으로 ON/OFF를 전환 할 수 있습니다."
+"HUD의 아이콘은 개별적으로 ON/OFF를 전환 할 수 있습니다."
 
 msgid "GUIDE_KEY_SCROLL"
 msgstr "<W>, <A> <S>, <D> 버튼을 누르면 카메라가 이동합니다."
@@ -645,7 +645,7 @@ msgstr "대출은 자금이 충분할 경우 전액 또는 일부를 상환할 �
 
 msgid "GUIDE_ROTATE_CONSTRUCTIONS"
 msgstr ""
-"건설 중인 프로젝트는<<constructOpt1>>와 <<constructOpt2>>에서 회전시킬 수 있"
+"건설 중인 프로젝트는 <<constructOpt1>>와 <<constructOpt2>>로 회전시킬 수 있"
 "습니다."
 
 msgid "GUIDE_SAVE_GAME_BUTTON"
@@ -832,8 +832,8 @@ msgid "HELP_CONSTRUCTION_AIR_STATIONS"
 msgstr ""
 "비행장과 공항을 선택해서 건설할 수 있습니다.공항은 대형 항공기를 운용하는데 "
 "필요합니다.\n"
-"건설전에는 터미널의 수 등의 설정을 선택할 수 있습니다.공항은"
-"<<constructOpt1>>와<<constructOpt2>>로 회전시킬 수 있으며, <Shift>를 누르면 "
+"건설전에는 터미널의 수 등의 설정을 선택할 수 있습니다. 공항은 "
+"<<constructOpt1>>와 <<constructOpt2>>로 회전시킬 수 있으며, <Shift>를 누르면 "
 "미세조정할 수 있습니다.\n"
 "건설 후에는 모듈 모드로 전환하여 터미널이나 다른 요소를 추가할 수 있습니다."
 "이로 인해 화객이 혼재된 공항을 작성할 수 있습니다.\n"
@@ -866,7 +866,7 @@ msgid "HELP_CONSTRUCTION_INDUSTRY_TOOLS"
 msgstr ""
 "다양한 종류의 산업이 포함 된 산업 도구를 사용하여 산업을 만들 수 있습니"
 "다. \n"
-"공항은 <<constructOpt1>>과 <<constructOpt2>>에서 회전 수, <Shift> 키를 누르"
+"공항은 <<constructOpt1>>과 <<constructOpt2>>로 회전시킬 수 있으며, <Shift> 키를 누르"
 "면 미세 조정할 수 있습니다. \n"
 "맵을 플레이하려면 산업을 일부 배치해야합니다. 산업 도로에서 마을로 연결해야"
 "합니다."
@@ -958,7 +958,7 @@ msgid "HELP_CONSTRUCTION_TERRAIN_PAINTER"
 msgstr ""
 "다양한 기능이 준비된 페인트 도구로 지형을 직접 페인트 할 수 있습니다. \n"
 "브러시의 크기와 강도 등의 설정을 선택하십시오. \n"
-"브러쉬의 크기는 <<constructOpt1>>과 <<constructOpt2>> 변경할 수 있습니다. \n"
+"브러쉬의 크기는 <<constructOpt1>>과 <<constructOpt2>>로 변경할 수 있습니다. \n"
 "<Shift> 키를 사용하여 강제로 페인트 할 수 있습니다. \n"
 "지형칠은 게임에 영향을 주지 않고 요금도 발생하지 않습니다."
 
@@ -966,7 +966,7 @@ msgid "HELP_CONSTRUCTION_TERRAIN_TOOLS"
 msgstr ""
 "다양한 도구로 지형을 변형 할 수 있습니다. \n"
 "브러시의 크기와 강도 등의 설정을 선택하십시오. \n"
-"브러쉬의 크기는 <<constructOpt1>>과 <<constructOpt2>> 변경할 수 있습니다. \n"
+"브러쉬의 크기는 <<constructOpt1>>과 <<constructOpt2>>로 변경할 수 있습니다. \n"
 "호수와 강도 변형 할 수 있습니다. 항해 가능 영역 레이어는 배가 진행 범위가 표"
 "시됩니다."
 
@@ -1348,7 +1348,7 @@ msgstr "술운반"
 
 msgid "MISSION_ALLINCLUSIVE_MEDAL_BEACH_FINCA_TASK"
 msgstr ""
-"알코올 병을 ${finca_party_alocohol} 책 [link=jump_finca]핀카[/jump]로 수송"
+"알코올 병 ${finca_party_alocohol} 개를 [link=jump_finca]핀카[/jump]로 수송"
 "합시다."
 
 msgid "MISSION_ALLINCLUSIVE_MEDAL_BEACH_FINCA_TEXT"
@@ -1373,7 +1373,7 @@ msgid "MISSION_ALLINCLUSIVE_MEDAL_BEACH_INCREASE_NAME"
 msgstr "해변 확장"
 
 msgid "MISSION_ALLINCLUSIVE_MEDAL_BEACH_INCREASE_TASK"
-msgstr "[link=jump_beach]해변[/jump]를 확장합시다."
+msgstr "[link=jump_beach]해변[/jump]을 확장합시다."
 
 msgid "MISSION_ALLINCLUSIVE_MEDAL_BEACH_INCREASE_TEXT"
 msgstr ""
@@ -1391,12 +1391,12 @@ msgstr "사람들의 수송"
 
 msgid "MISSION_ALLINCLUSIVE_MEDAL_BEACH_PARTY_TASK"
 msgstr ""
-"${finca_party_people}사람들을[link=jump_palma]팔마[/jump]에서"
+"${finca_party_people} 사람들을 [link=jump_palma]팔마[/jump]에서 "
 "[link=jump_finca]파티회장[/jump]에 데리고 옵시다."
 
 msgid "MISSION_ALLINCLUSIVE_MEDAL_BEACH_PARTY_TEXT"
 msgstr ""
-"참 좋군요.해변이 충분히 넓어졌습니다.부족한 것은 사람들뿐입니다.\n"
+"참 좋군요. 해변이 충분히 넓어졌습니다.부족한 것은 사람들뿐입니다.\n"
 "오스트리아인의 성격은 조금 내성적이고 신경질적입니다.\n"
 "팔마에서 자유로운 성격의 독일인을 여기에 몇 명 데리고 오면, 잘해 줄 것입니"
 "다."
@@ -1574,10 +1574,10 @@ msgid "MISSION_ALLINCLUSIVE_PARAMS_CATTLERANCH"
 msgstr "시우타델라 축산농장"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_CHEMICALPLANT"
-msgstr "취리히 화학 플랜트"
+msgstr "취리히 화학 공장"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_CONSTRUCTIONMATERIALSPLANT"
-msgstr "살레날 건설자재 플랜트"
+msgstr "살레날 건설자재 공장"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_DISTILLERY"
 msgstr "팔마증류소"
@@ -1589,7 +1589,7 @@ msgid "MISSION_ALLINCLUSIVE_PARAMS_FINCA"
 msgstr "핀카"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_FOODPROCESSING"
-msgstr "살레날 식품 가공 플랜트"
+msgstr "살레날 식품 가공 공장"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_FRANKFURT"
 msgstr "프랑크푸르트"
@@ -1676,7 +1676,7 @@ msgid "MISSION_ALLINCLUSIVE_PARAMS_SARENAL"
 msgstr "살레날"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_STEELMILL"
-msgstr "본토의 제강소"
+msgstr "본토의 철강공장"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_TOOLSFACTORY"
 msgstr "빈 공구공장"
@@ -1779,8 +1779,8 @@ msgstr "경제의 기적!"
 
 msgid "MISSION_ALLINCLUSIVE_TASK_FINISH_TEXT"
 msgstr ""
-"공식정보:마요르카는 유럽에서 제일가는 바케이션 파라다이스입니다!\n"
-"푸른 피부의 게르만인 여행자는, 해변에서 커틀릿처럼 노릇노릇해질 때까지 그을"
+"공식정보:마요르카는 유럽에서 제일가는 휴양천국입니다!\n"
+"푸른 피부의 독일인 여행자는, 해변에서 커틀릿처럼 노릇노릇해질 때까지 그을"
 "리고 있습니다.\n"
 "이것은 모두, 당신의 성과입니다!"
 
@@ -2025,7 +2025,7 @@ msgid "MISSION_ALLINCLUSIVE_TASK_NEEDS_SWISS_SUB1"
 msgstr "상품을 거리로 나른다"
 
 msgid "MISSION_ALLINCLUSIVE_TASK_NEEDS_SWISS_TASK"
-msgstr "${goods5}개의 상품을[link=jump_sarenal]사레날[/link]에 수송합시다."
+msgstr "${goods5}개의 상품을 [link=jump_sarenal]사레날[/link]에 수송합시다."
 
 msgid "MISSION_ALLINCLUSIVE_TASK_NEEDS_SWISS_TEXT"
 msgstr ""
@@ -2103,7 +2103,7 @@ msgstr ""
 
 msgid "MISSION_ALLINCLUSIVE_TASK_TOURISTS_TEXT"
 msgstr ""
-"당신의 사업 아이디어는 잘 되었습니다!많은 사람들이 섬에서 휴가를 보내고 싶"
+"당신의 사업 아이디어는 잘 되었습니다! 많은 사람들이 섬에서 휴가를 보내고 싶"
 "어 합니다.\n"
 "남녀에 관계없이, 여행객은 출신 국가에 따라 다양한 우선순위를 가지고 있습니"
 "다.\n"
@@ -2161,8 +2161,8 @@ msgstr "이부키토라노오 수풀을 베어낸다"
 
 msgid "MISSION_BAGDAD_MEDAL_KARABEN_NOSE_TASK"
 msgstr ""
-"이브키트라노오를 ${numbushes}다발 [link=jump_bushes]${meter_low}에서 "
-"${meter_high}미터[/link]의 고도의 장소에서 모읍시다."
+"이브키트라노오 ${numbushes}다발을 [link=jump_bushes]${meter_low}에서 "
+"${meter_high}미터[/link]의 고도의 장소에 모읍시다."
 
 msgid "MISSION_BAGDAD_MEDAL_KARABEN_NOSE_TEXT"
 msgstr ""
@@ -2187,8 +2187,8 @@ msgstr "식량 운반"
 
 msgid "MISSION_BAGDAD_MEDAL_KARABEN_TRANSLATOR_TASK"
 msgstr ""
-"[link=jump_tribe1]사막의 부족[/link]으로 식량을 몸값으로 운반 하지 하는 레"
-"흐 오마르를 건집시다."
+"[link=jump_tribe1]사막의 부족[/link]에게 음식을 제공하여 "
+"하지·할레프·오마르의 몸값을 지불하십시오."
 
 msgid "MISSION_BAGDAD_MEDAL_KARABEN_TRANSLATOR_TEXT"
 msgstr ""
@@ -2252,7 +2252,7 @@ msgstr ""
 
 msgid "MISSION_BAGDAD_MEDAL_SULTAN_DIVAN_TEXT"
 msgstr ""
-"술탕은 보라색 디방에서 쉬는 것을 좋아합니다.\n"
+"술탄은 보라색 디방에서 쉬는 것을 좋아합니다.\n"
 "알레포에서 좋은 것을 찾을 수 있을지도 모른다고 합니다."
 
 msgid "MISSION_BAGDAD_MEDAL_SULTAN_FINISH_NAME"
@@ -2270,9 +2270,9 @@ msgstr "술탄 풀먼 차량"
 
 msgid "MISSION_BAGDAD_MEDAL_SULTAN_TEXT"
 msgstr ""
-"술탕을 전용 풀먼 차량으로 기쁘게 해줍시다.\n"
+"술탄을 전용 풀먼 차량으로 기쁘게 해줍시다.\n"
 "그러면, 당신의 프로젝트를 호의적으로 평가받을 수 있을 것입니다.\n"
-"당연히, 차량의 인테리어는 술탕을 위해 정교하게 맞춘 특제 장식으로 꾸밀 필요"
+"당연히, 차량의 인테리어는 술탄을 위해 정교하게 맞춘 특제 장식으로 꾸밀 필요"
 "가 있습니다."
 
 msgid "MISSION_BAGDAD_MEDAL_TREASURE_ARTEFACT_NAME"
@@ -2386,7 +2386,7 @@ msgid "MISSION_BAGDAD_PARAMS_SILVER_MINE"
 msgstr "아다나 은광산"
 
 msgid "MISSION_BAGDAD_PARAMS_SULTANSCAR_DESC"
-msgstr "술탕을 위해 만들어진 특주 객차."
+msgstr "술탄을 위해 만들어진 특주 객차."
 
 msgid "MISSION_BAGDAD_PARAMS_SULTANSCAR_NAME"
 msgstr "술탄용 객차"
@@ -2901,7 +2901,7 @@ msgstr "차량기지 건설과 연결"
 
 msgid "MISSION_COLONIALISM_TASK_COFFEE_DEPOT_TASK"
 msgstr ""
-"[link=jump_buildingarea_processing_center]하이라이트 된 에리어[/link]에 "
+"[link=jump_buildingarea_processing_center]하이라이트 된 지역[/link]에 "
 "차량기지를 건설하고, 선로에 연결합시다."
 
 msgid "MISSION_COLONIALISM_TASK_COFFEE_DEPOT_TEXT"
@@ -3289,16 +3289,16 @@ msgid "MISSION_FUTURECITY_NAME"
 msgstr "거대도시"
 
 msgid "MISSION_FUTURECITY_PARAMS_CONMATPLANT"
-msgstr "남통 건설 자재 플랜트"
+msgstr "남통 건설 자재 공장"
 
 msgid "MISSION_FUTURECITY_PARAMS_EXPORT"
 msgstr "상하이 수출항"
 
 msgid "MISSION_FUTURECITY_PARAMS_FOODFACTORY"
-msgstr "쑤저우 식품 가공 플랜트"
+msgstr "쑤저우 식품 가공 공장"
 
 msgid "MISSION_FUTURECITY_PARAMS_FUELREFINERY"
-msgstr "가흥제유소"
+msgstr "가흥정유소"
 
 msgid "MISSION_FUTURECITY_PARAMS_GOODSFACTORY"
 msgstr "쑹저우 상품공장"
@@ -3753,7 +3753,7 @@ msgid "MISSION_HIGHLANDS_PARAMS_GLASGOW_PUB"
 msgstr "글래스고 술집"
 
 msgid "MISSION_HIGHLANDS_PARAMS_GLASGOW_STEELMILL"
-msgstr "글래스고 제강소"
+msgstr "글래스고 철강공장"
 
 msgid "MISSION_HIGHLANDS_PARAMS_HORSE"
 msgstr "신기한 마차"
@@ -3850,7 +3850,7 @@ msgstr "항만 건설"
 
 msgid "MISSION_HIGHLANDS_TASK_ISLANDS_HARBOUR_TASK"
 msgstr ""
-"[link=jump_glasgow_harbor_zone]하이라이트 된 에리어[/link]에 항만을 건설합"
+"[link=jump_glasgow_harbor_zone]하이라이트 된 지역[/link]에 항만을 건설합"
 "시다."
 
 msgid "MISSION_HIGHLANDS_TASK_ISLANDS_HARBOUR_TEXT"
@@ -3878,7 +3878,7 @@ msgstr "조선소 건설"
 
 msgid "MISSION_HIGHLANDS_TASK_ISLANDS_SHIPYARD_TASK"
 msgstr ""
-"[link=jump_glasgow_harbor_zone]하이라이트 된 에리어[/link]에 조선소를 건설"
+"[link=jump_glasgow_harbor_zone]하이라이트 된 지역[/link]에 조선소를 건설"
 "합시다."
 
 msgid "MISSION_HIGHLANDS_TASK_ISLANDS_SHIPYARD_TEXT"
@@ -3916,8 +3916,8 @@ msgstr "강철 생산"
 msgid "MISSION_HIGHLANDS_TASK_SHIPS_STEEL_TASK"
 msgstr ""
 "[link=jump_glasgow_coal]석탄[/link]과 [link=jump_glasgow_iron]철광석[/"
-"link]을${name_glasgow}에 있는 [link=jump_glasgow_steelmill]제강소[/link]로 "
-"옮겨갑시다."
+"link]을 ${name_glasgow}에 있는 [link=jump_glasgow_steelmill]철강공장[/link]으로 "
+"운송합시다."
 
 msgid "MISSION_HIGHLANDS_TASK_SHIPS_STEEL_TEXT"
 msgstr ""
@@ -4195,13 +4195,13 @@ msgid "MISSION_ICE_MEDAL_STUTTGART_BUILD_SUB1"
 msgstr "슈투트가르트를 중계역으로 바꾼다"
 
 msgid "MISSION_ICE_MEDAL_STUTTGART_BUILD_SUB2"
-msgstr "빨간색 구역에 터널 건설"
+msgstr "빨간색 지역에 터널 건설"
 
 msgid "MISSION_ICE_MEDAL_STUTTGART_BUILD_SUB3"
-msgstr "초록색 에리어 나무를 삭제"
+msgstr "초록색 지역의 나무를 삭제"
 
 msgid "MISSION_ICE_MEDAL_STUTTGART_BUILD_SUB4"
-msgstr "노란색 에리어 집집 철거"
+msgstr "노란색 지역의 집 철거"
 
 msgid "MISSION_ICE_MEDAL_STUTTGART_BUILD_SUB5"
 msgstr "파란색 수원보호구역에 선로를 깔다"
@@ -4249,13 +4249,13 @@ msgid "MISSION_ICE_PARAMS_BADORB"
 msgstr "바트올프"
 
 msgid "MISSION_ICE_PARAMS_CONMATPLANT"
-msgstr "슈투트가르트 건설자재 플랜트"
+msgstr "슈투트가르트 건설자재 공장"
 
 msgid "MISSION_ICE_PARAMS_CRAILSHEIM"
 msgstr "크라일스하임"
 
 msgid "MISSION_ICE_PARAMS_FOODPROCESSING"
-msgstr "프랑크푸르트 식품가공 플랜트"
+msgstr "프랑크푸르트 식품가공 공장"
 
 msgid "MISSION_ICE_PARAMS_FRANKFURT"
 msgstr "프랑크푸르트"
@@ -4700,7 +4700,7 @@ msgstr "곰을 발견하다"
 
 msgid "MISSION_LEADER_MEDAL_HUNT_FOREST_TASK"
 msgstr ""
-"[link=jump_zone_hunt]마크가 붙은 에리어[/link]를 도로와 연결하고, 나무를 심"
+"[link=jump_zone_hunt]마크가 붙은 지역[/link]을 도로와 연결하고, 나무를 심"
 "고, 곰을 찾읍시다."
 
 msgid "MISSION_LEADER_MEDAL_HUNT_FOREST_TEXT"
@@ -4750,9 +4750,9 @@ msgstr "관중을 데려오다"
 
 msgid "MISSION_LEADER_MEDAL_PROSPERITY_TRIUMPHAL_TASK"
 msgstr ""
-"[link=jump_tribune1]운하 건설지[/link],[link=jump_tribune2]정유소[/link]"
-"[link=jump_tribune3]제강소[/link],[link=jump_tribune4]궁전[/link]의 특별관람"
-"석에 ${people_tribune_amount}인 데리고 가, ${tree_prosperity_amount}책 사과"
+"[link=jump_tribune1]운하 건설지[/link], [link=jump_tribune2]정유소[/link]"
+"[link=jump_tribune3]철강공장[/link], [link=jump_tribune4]궁전[/link]의 특별관람"
+"석에 ${people_tribune_amount}명 운송하고, ${tree_prosperity_amount}개 사과"
 "나무로 스탠드 주변을 장식합시다."
 
 msgid "MISSION_LEADER_MEDAL_PROSPERITY_TRIUMPHAL_TEXT"
@@ -4804,7 +4804,7 @@ msgid "MISSION_LEADER_PARAMS_CANALSITE"
 msgstr "운하 건설지"
 
 msgid "MISSION_LEADER_PARAMS_CHEMICALPLANT"
-msgstr "콘스탄차 화학 플랜트"
+msgstr "콘스탄차 화학 공장"
 
 msgid "MISSION_LEADER_PARAMS_DISTRICT1"
 msgstr "부카레스트 동부지구"
@@ -4846,19 +4846,19 @@ msgid "MISSION_LEADER_PARAMS_OIL2"
 msgstr "부카레스트 유전"
 
 msgid "MISSION_LEADER_PARAMS_OILREFINERY"
-msgstr "가라찌 제유소"
+msgstr "가라찌 정유소"
 
 msgid "MISSION_LEADER_PARAMS_STEELMILL"
-msgstr "부카레스트 제강소"
+msgstr "부카레스트 철강공장"
 
 msgid "MISSION_LEADER_PARAMS_TRIBUNE1"
 msgstr "운하 건설지 특별관객석"
 
 msgid "MISSION_LEADER_PARAMS_TRIBUNE2"
-msgstr "제유소 특별관객석"
+msgstr "정유소 특별관객석"
 
 msgid "MISSION_LEADER_PARAMS_TRIBUNE3"
-msgstr "제강소 특별관객석"
+msgstr "철강공장 특별관객석"
 
 msgid "MISSION_LEADER_PARAMS_TRIBUNE4"
 msgstr "궁전 특별관객석"
@@ -4867,7 +4867,7 @@ msgid "MISSION_LEADER_TASK_CHANNEL_DIG_NAME"
 msgstr "운하를 건설하다"
 
 msgid "MISSION_LEADER_TASK_CHANNEL_DIG_TASK"
-msgstr "[link=jump_canal_mid]마크가 붙은 에리어[/link]에 운하를 건설합시다."
+msgstr "[link=jump_canal_mid]마크가 붙은 지역[/link]에 운하를 건설합시다."
 
 msgid "MISSION_LEADER_TASK_CHANNEL_DIG_TEXT"
 msgstr "이 거대한 건축물이 세부에 이르기까지 완성될 때가 왔습니다."
@@ -4940,7 +4940,7 @@ msgid "MISSION_LEADER_TASK_GIANT_NAME"
 msgstr "번영"
 
 msgid "MISSION_LEADER_TASK_GIANT_OIL_NAME"
-msgstr "제유소 공급"
+msgstr "정유소 공급"
 
 msgid "MISSION_LEADER_TASK_GIANT_OIL_TASK"
 msgstr "원유를 [link=jump_oilrefinery]정유소[/link]로 옮깁시다."
@@ -5008,7 +5008,7 @@ msgstr "특별관객석을 나간다"
 msgid "MISSION_LEADER_TASK_PALACE_TRIUMPH_TASK"
 msgstr ""
 "[link=jump_tribune1]운하 건설 현장[/link],[link=jump_tribune2]정유소[/link]"
-"[link=jump_tribune3]제강소[/link],[link=jump_tribune4]궁전[/link]의 특별관람"
+"[link=jump_tribune3]철강공장[/link],[link=jump_tribune4]궁전[/link]의 특별관람"
 "석의 마크된 존을 고속도로에 연결하여 리무진을 주행시킵시다."
 
 msgid "MISSION_LEADER_TASK_PALACE_TRIUMPH_TEXT"
@@ -5111,7 +5111,7 @@ msgstr "작업원 수송"
 msgid "MISSION_LEADER_TASK_PRODUCTION_STEEL_TASK"
 msgstr ""
 "[link=jump_export]철광석[/link]을 ${iron_amount}개 수입하고, 강철을 생산합"
-"시다.[link=jump_steelmill]제강소[/link]에서 ${people_amount}사람 인부들을 "
+"시다.[link=jump_steelmill]철강공장[/link]에서 ${people_amount}사람 인부들을 "
 "추가로 고용합시다."
 
 msgid "MISSION_LEADER_TASK_PRODUCTION_STEEL_TEXT"
@@ -5126,7 +5126,7 @@ msgstr ""
 "산업은 놀라울 정도로 발전하고 있습니다.\n"
 "그러나 루마니아에서 가장 위대한 과학자인 엘레나 박사는 가장 대담한 예상을 크"
 "게 뛰어넘는 속도로, 동국의 경제 생산고를 성장할 수 있다고 확신합니다!\n"
-"거대한 정유소에 의해 더 많은 원유를 정제할 수 있고, 대규모 제강소에서는 더 "
+"거대한 정유소에 의해 더 많은 원유를 정제할 수 있고, 대규모 철강공장에서는 더 "
 "많은 철광석을 제련할 수 있습니다!"
 
 msgid "MISSION_MACHINES_ASSET_HAY_PILE_DESC"
@@ -5383,7 +5383,7 @@ msgid "MISSION_MACHINES_PARAMS_DOVER_HANGAR"
 msgstr "도버 비행기 격납고"
 
 msgid "MISSION_MACHINES_PARAMS_FUELREFINERY"
-msgstr "랑스제유소"
+msgstr "랑스정유소"
 
 msgid "MISSION_MACHINES_PARAMS_LATHAM_AIRFIELD"
 msgstr "라텀의 비행장"
@@ -5452,7 +5452,7 @@ msgid "MISSION_MACHINES_PARAMS_SAWMILL"
 msgstr "르망 제재소"
 
 msgid "MISSION_MACHINES_PARAMS_STEELMILL"
-msgstr "랑스제강소"
+msgstr "랑스철강공장"
 
 msgid "MISSION_MACHINES_TASK_CHANNEL_FLIGHT_NAME"
 msgstr "해협 횡단"
@@ -5992,10 +5992,10 @@ msgid "MISSION_OILSANDS_PARAMS_ATHABASCA"
 msgstr "아사바스카"
 
 msgid "MISSION_OILSANDS_PARAMS_CHEMICALPLANT"
-msgstr "포트·맥머레이 화학 플랜트"
+msgstr "포트·맥머레이 화학 공장"
 
 msgid "MISSION_OILSANDS_PARAMS_CONMATPLANT"
-msgstr "아사바스카 건설 자재 플랜트"
+msgstr "아사바스카 건설 자재 공장"
 
 msgid "MISSION_OILSANDS_PARAMS_EDMONTON"
 msgstr "에드먼튼"
@@ -6004,7 +6004,7 @@ msgid "MISSION_OILSANDS_PARAMS_EXCAVATION"
 msgstr "발굴지"
 
 msgid "MISSION_OILSANDS_PARAMS_FOODFACTORY"
-msgstr "아사바스카 식품 가공 플랜트"
+msgstr "아사바스카 식품 가공 공장"
 
 msgid "MISSION_OILSANDS_PARAMS_FORTMCMURRAY"
 msgstr "포트·맥머레이"
@@ -6028,7 +6028,7 @@ msgid "MISSION_OILSANDS_PARAMS_OILSAND3"
 msgstr "기름 모래 막장 3"
 
 msgid "MISSION_OILSANDS_PARAMS_REFINERY"
-msgstr "포트·맥말레이 제유소"
+msgstr "포트·맥말레이 정유소"
 
 msgid "MISSION_OILSANDS_PARAMS_SEDIMENTATIONTANK3"
 msgstr "침사지"
@@ -6088,7 +6088,7 @@ msgid "MISSION_OILSANDS_TASK_DECISION_CLEAN2_NAME"
 msgstr "이미지 변경"
 
 msgid "MISSION_OILSANDS_TASK_DECISION_CLEAN2_SUB1"
-msgstr "트램만 운행"
+msgstr "노면전차만 운행"
 
 msgid "MISSION_OILSANDS_TASK_DECISION_CLEAN2_TASK"
 msgstr "지역교통기관에서 노면전차만 운행시킵시다."
@@ -6256,7 +6256,7 @@ msgstr "물고기 잡기"
 
 msgid "MISSION_OILSANDS_TASK_NATURE_FISH_TASK"
 msgstr ""
-"[link=jump_fishpos1marker]마크가 붙은 에리어[/link]에서 물고기를 잡읍시다."
+"[link=jump_fishpos1marker]마크가 붙은 지역[/link]에서 물고기를 잡읍시다."
 
 msgid "MISSION_OILSANDS_TASK_NATURE_FISH_TEXT"
 msgstr ""
@@ -6467,10 +6467,9 @@ msgstr "나무를 심는다"
 
 msgid "MISSION_PARADISO_MEDAL_MARIAGE_TRANSPORT_TASK"
 msgstr ""
-"러브러브한 커플을 위해 [link=jump_platform]낭만적인 경치장소[/link]헤 "
-"${marriage_transport_people}사람 옮기고, 에리어를 "
-"${marriage_transport_people}어느정도 남의 눈에 띄지 않게 되는 나무로 장식합"
-"시다."
+"사랑하는 커플들을 위한 [link=jump_platform]낭만적인 경치장소[/link]에 "
+"${marriage_transport_people}명 데려오고, 약간의 사생활 보호를 위해 해당 지역에 "
+"${marriage_transport_people}그루의 나무로 장식합시다."
 
 msgid "MISSION_PARADISO_MEDAL_MARIAGE_TRANSPORT_TEXT"
 msgstr ""
@@ -6486,7 +6485,7 @@ msgstr "안도의 한숨!"
 
 msgid "MISSION_PARADISO_MEDAL_TRAM_FINISH_TEXT"
 msgstr ""
-"전력의 기적에 의해, 트램이 모든 중요한 장소로 통하게 되었습니다.\n"
+"전력의 기적에 의해, 노면전차이 모든 중요한 장소로 통하게 되었습니다.\n"
 " 덤으로, 이제 그 싫은 냄새도 사라졌어요!"
 
 msgid "MISSION_PARADISO_MEDAL_TRAM_NAME"
@@ -6506,12 +6505,12 @@ msgstr "병원 근처에 정류장은 건설 금지"
 
 msgid "MISSION_PARADISO_MEDAL_TRAM_SMELL_TASK"
 msgstr ""
-"트램을 만들고, ${tram_smell_people}인 수송합시다.[link=jump_hotel]호텔[/"
-"link]나 [link=jump_hospital]병원[/link]근처는 피합시다."
+"노면전차을 만들고, ${tram_smell_people}명 수송합시다. [link=jump_hotel]호텔[/"
+"link]이나 [link=jump_hospital]병원[/link]근처는 피합시다."
 
 msgid "MISSION_PARADISO_MEDAL_TRAM_SMELL_TEXT"
 msgstr ""
-"트램은 좋은 것입니다.\n"
+"노면전차은 좋은 것입니다.\n"
 "그러나 거리의 훌륭한 건물 눈앞에, 마차마의 분실물이 남겨지는 일이 있어서는 "
 "결코 안됩니다."
 
@@ -6527,18 +6526,18 @@ msgstr "그리고 말은 사라졌다"
 msgid "MISSION_PARADISO_MEDAL_TRAM_TECHNOLOGY_TASK"
 msgstr ""
 "노선을 전기조작으로 전환하고 [link=jump_hotel]호텔[/link]이나 "
-"[link=jump_hospital]병원[/link]헤${tram_technology_people}인 수송합시다."
+"[link=jump_hospital]병원[/link]에 ${tram_technology_people}명 수송합시다."
 
 msgid "MISSION_PARADISO_MEDAL_TRAM_TECHNOLOGY_TEXT"
 msgstr ""
-"사람들이 가고 싶어하는 곳에 정차하지 않는다는 점을 제외하면, 트램은 멋집니"
+"사람들이 가고 싶어하는 곳에 정차하지 않는다는 점을 제외하면, 노면전차은 멋집니"
 "다. \n"
 "진보된 기술 덕분에 거리의 중심에 노선이 지나가고, 말똥이 여기저기 떨어져 있"
 "는 일도 없어졌습니다."
 
 msgid "MISSION_PARADISO_MEDAL_TRAM_TEXT"
 msgstr ""
-"트램은 매력적인 도시에 꼭이라고 해도 좋을 만큼 있고, 토폴로 반포에도 꼭 맞습"
+"노면전차은 매력적인 도시에 꼭이라고 해도 좋을 만큼 있고, 토폴로 반포에도 꼭 맞습"
 "니다.\n"
 "지역사회 사람들에게도, 편리한 이동수단이 될 것입니다."
 
@@ -6549,7 +6548,7 @@ msgid "MISSION_PARADISO_MEDAL_WORMS_FINISH_NAME"
 msgstr "이모시 봤나!"
 
 msgid "MISSION_PARADISO_MEDAL_WORMS_FINISH_TEXT"
-msgstr "앗아! 드디어 잡았어요.멕시코 최고의 이모벌레입니다!"
+msgstr "앗아! 드디어 잡았어요. 멕시코 최고의 이모벌레입니다!"
 
 msgid "MISSION_PARADISO_MEDAL_WORMS_HINT1_NAME"
 msgstr "단서 추적"
@@ -6561,7 +6560,7 @@ msgstr ""
 
 msgid "MISSION_PARADISO_MEDAL_WORMS_HINT1_TEXT"
 msgstr ""
-"맛있는 이모벌레는 어디에서도 찾아볼 수 없습니다.시장 상인인 멕시코 여성에 따"
+"맛있는 이모벌레는 어디에서도 찾아볼 수 없습니다. 시장 상인인 멕시코 여성에 따"
 "르면, 서두르면 숲과 제재소 사이에 있는 땅에서 잡힐지도 모른다는 것이었습니"
 "다."
 
@@ -6652,8 +6651,8 @@ msgstr "통나무 운반"
 
 msgid "MISSION_PARADISO_TASK_CITY_MATERIAL_TASK"
 msgstr ""
-"도시를 만들기 위해, ${city_material_logs}책의 통나무를 "
-"[link=jump_topolobampo]${name_topolobampo}[/link]로, 옮깁시다."
+"도시를 만들기 위해, ${city_material_logs}개의 통나무를 "
+"[link=jump_topolobampo]${name_topolobampo}[/link]로 옮깁시다."
 
 msgid "MISSION_PARADISO_TASK_CITY_MATERIAL_TEXT"
 msgstr ""
@@ -6721,7 +6720,7 @@ msgstr "광산의 확장"
 
 msgid "MISSION_PARADISO_TASK_HAPPYNESS_MINE_TASK"
 msgstr ""
-"${happiness_mine_logs}통나무를 [link=jump_forest]숲[/link]에서 "
+"${happiness_mine_logs} 통나무를 [link=jump_forest]숲[/link]에서 "
 "[link=jump_log_deposit]광산[/link]으로 운반합시다."
 
 msgid "MISSION_PARADISO_TASK_HAPPYNESS_MINE_TEXT"
@@ -6746,7 +6745,7 @@ msgid "MISSION_PARADISO_TASK_INFRASTRUCTURE_HOSPITAL_NAME"
 msgstr "병원에 공급"
 
 msgid "MISSION_PARADISO_TASK_INFRASTRUCTURE_HOSPITAL_TASK"
-msgstr "알코올을${alcohol_2}개[link=jump_hospital]병원[/link]으로 옮깁시다."
+msgstr "알코올을 ${alcohol_2}개 [link=jump_hospital]병원[/link]으로 옮깁시다."
 
 msgid "MISSION_PARADISO_TASK_INFRASTRUCTURE_HOSPITAL_TEXT"
 msgstr ""
@@ -6759,7 +6758,7 @@ msgstr "병원에 공급"
 
 msgid "MISSION_PARADISO_TASK_INFRASTRUCTURE_HOTEL_TASK"
 msgstr ""
-"[link=jump_hotel]호텔[/link]의 비품으로 사용하는 은 수저를${spoon_2}책 운반"
+"[link=jump_hotel]호텔[/link]의 비품으로 사용하는 은 수저를 ${spoon_2}개 운반"
 "합시다."
 
 msgid "MISSION_PARADISO_TASK_INFRASTRUCTURE_HOTEL_TEXT"
@@ -6860,7 +6859,7 @@ msgstr "은수저 수출"
 
 msgid "MISSION_PARADISO_TASK_SURPLUS_OVERSEAS_SILVER_TASK"
 msgstr ""
-"은수저를 ${export_spoon}책[link=jump_harbor_export]항[/link]로 운반합시다."
+"은수저를 ${export_spoon}개 [link=jump_harbor_export]항구[/link]로 운반합시다."
 
 msgid "MISSION_PARADISO_TASK_SURPLUS_OVERSEAS_SILVER_TEXT"
 msgstr ""
@@ -7209,10 +7208,10 @@ msgid "MISSION_REDSTAR_PARAMS_NEIJIANG"
 msgstr "네이장"
 
 msgid "MISSION_REDSTAR_PARAMS_STEELMILL_EAST"
-msgstr "충칭 제강소"
+msgstr "충칭 철강공장"
 
 msgid "MISSION_REDSTAR_PARAMS_STEELMILL_WEST"
-msgstr "자공제강소"
+msgstr "자공철강공장"
 
 msgid "MISSION_REDSTAR_PARAMS_SUINING"
 msgstr "쑤이닝"
@@ -7269,7 +7268,7 @@ msgid "MISSION_REDSTAR_TASK_CORRECTION_PLASTIC_NAME"
 msgstr "플라스틱 제조촉진"
 
 msgid "MISSION_REDSTAR_TASK_CORRECTION_PLASTIC_TASK"
-msgstr "화학플랜트 건설합시다."
+msgstr "화학공장 건설합시다."
 
 msgid "MISSION_REDSTAR_TASK_CORRECTION_PLASTIC_TEXT"
 msgstr ""
@@ -7679,10 +7678,10 @@ msgid "MISSION_SHINKANSEN_NAME"
 msgstr "신칸센"
 
 msgid "MISSION_SHINKANSEN_PARAMS_CONMATPLANT"
-msgstr "나고야 건설 자재 플랜트"
+msgstr "나고야 건설 자재 공장"
 
 msgid "MISSION_SHINKANSEN_PARAMS_FOODPROCESSING"
-msgstr "도쿄식품가공 플랜트"
+msgstr "도쿄식품가공 공장"
 
 msgid "MISSION_SHINKANSEN_PARAMS_HAMAMATSU"
 msgstr "하마마츠"
@@ -7706,7 +7705,7 @@ msgid "MISSION_SHINKANSEN_PARAMS_SHIGA"
 msgstr "시가"
 
 msgid "MISSION_SHINKANSEN_PARAMS_STEELMILL"
-msgstr "하마마츠 제강소"
+msgstr "하마마츠 철강공장"
 
 msgid "MISSION_SHINKANSEN_PARAMS_STONEDUMP"
 msgstr "하마마츠바시 건설지"
@@ -8337,7 +8336,7 @@ msgid "MISSION_SILVERCITY_TASK_CARGO_LINE_TEXT"
 msgstr "모든 광석을 재빨리 계곡으로 수송하기 위한 철도 루트를 건설합시다."
 
 msgid "MISSION_SILVERCITY_TASK_CARGO_NAME"
-msgstr "호조된 비즈니스"
+msgstr "비즈니스 호황"
 
 msgid "MISSION_SILVERCITY_TASK_CARGO_SELLMINE_NAME"
 msgstr "은광산 매각"
@@ -8431,7 +8430,7 @@ msgstr "진정한 금광!"
 
 msgid "MISSION_SILVERCITY_TASK_FINISH_TEXT"
 msgstr ""
-"은의 비지니스는 호조이며, 초라한 판잣집의 한 단이었던 장소는 서부 전체에서 "
+"은의 비지니스는 호황이며, 초라한 판잣집의 한 단이었던 장소는 서부 전체에서 "
 "가장 멋쟁이 거리가 되었습니다.\n"
 "여기에는 최고로 멋쟁이 가게, 최고급 술집, 극상의 매춘부들이 모여있습니다.\n"
 "은으로 번 돈을 쓰는 장소는 필수입니다.\n"
@@ -8994,7 +8993,7 @@ msgid "MISSION_STARFLIGHT_PARAMS_FILMSET4"
 msgstr "로스 앤젤레스 영화 세트 4"
 
 msgid "MISSION_STARFLIGHT_PARAMS_FOODPROCESSING"
-msgstr "베이커스필드 식품가공 플랜트"
+msgstr "베이커스필드 식품가공 공장"
 
 msgid "MISSION_STARFLIGHT_PARAMS_GOLFCOURSE"
 msgstr "로스앤젤레스 골프코스"
@@ -9027,7 +9026,7 @@ msgid "MISSION_STARFLIGHT_PARAMS_SAWMILL"
 msgstr "산·호세 제재소"
 
 msgid "MISSION_STARFLIGHT_PARAMS_STEELMILL"
-msgstr "로스앤젤레스 제강소"
+msgstr "로스앤젤레스 철강공장"
 
 msgid "MISSION_STARFLIGHT_PARAMS_TOOLSFACTORY"
 msgstr "프레스노 공구공장"
@@ -9809,16 +9808,16 @@ msgid "MISSION_SWISSMADE_PARAMS_FARM_SW_NAME"
 msgstr "코모농장"
 
 msgid "MISSION_SWISSMADE_PARAMS_FOODPROCESSING_N_NAME"
-msgstr "낭만숀 식품 가공 플랜트"
+msgstr "낭만숀 식품 가공 공장"
 
 msgid "MISSION_SWISSMADE_PARAMS_FOODPROCESSING_N_STATION_NAME"
-msgstr "낭만숀 식품가공 플랜트 화물역"
+msgstr "낭만숀 식품가공 공장 화물역"
 
 msgid "MISSION_SWISSMADE_PARAMS_FOODPROCESSING_S_NAME"
-msgstr "코모식품 가공 플랜트"
+msgstr "코모식품 가공 공장"
 
 msgid "MISSION_SWISSMADE_PARAMS_FOODPROCESSING_S_STATION_NAME"
-msgstr "코모식품 가공 플랜트 화물역"
+msgstr "코모식품 가공 공장 화물역"
 
 msgid "MISSION_SWISSMADE_PARAMS_FRIEDRICHSHAFEN_NAME"
 msgstr "프리드리히스하펜"
@@ -10439,7 +10438,7 @@ msgid "MISSION_TRANSSIB_PARAMS_SHAMANHUT"
 msgstr "셔먼의 집"
 
 msgid "MISSION_TRANSSIB_PARAMS_STEEL_MILL"
-msgstr "바이칼항 제강소"
+msgstr "바이칼항 철강공장"
 
 msgid "MISSION_TRANSSIB_PARAMS_ULANUDE"
 msgstr "우라늄·우데"
@@ -10711,7 +10710,7 @@ msgstr "곡식운반"
 
 msgid "MISSION_TWENTIES_MEDAL_BETTY_GRAIN_TASK"
 msgstr ""
-"두 개의 다른 농장에서 곡식을 [link=jump_foodprocessing]식품가공 플랜트[/"
+"두 개의 다른 농장에서 곡식을 [link=jump_foodprocessing]식품가공 공장[/"
 "link]로 옮깁시다."
 
 msgid "MISSION_TWENTIES_MEDAL_BETTY_GRAIN_TEXT"
@@ -10730,7 +10729,7 @@ msgstr ""
 
 msgid "MISSION_TWENTIES_MEDAL_BETTY_LICENCE_TEXT"
 msgstr ""
-"매우 호조입니다.소비자는 품질이 놀라울 정도로 좋다고 납득했습니다.\n"
+"매우 호황입니다. 소비자는 품질이 놀라울 정도로 좋다고 납득했습니다.\n"
 "그 평판은 나라에서 가장 유명한 하우스와이프인 베티에까지 닿아 라디오 요리쇼"
 "에서 사용되게 되었습니다.\n"
 "어디를 가든 그녀의 얼굴을 거리에서 볼 수 있도록 합시다."
@@ -10835,23 +10834,23 @@ msgstr "거리를 아름답게"
 
 msgid "MISSION_TWENTIES_MEDAL_EMISSION_TREES_TASK"
 msgstr ""
-"[link=jump_minneapolis]미네아폴리스[/jump]와[link=jump_stpaul]센트·폴[/link]"
-"에리어에 나무를 심읍시다."
+"[link=jump_minneapolis]미네아폴리스[/jump]와 [link=jump_stpaul]센트·폴[/link]"
+"지역에 나무를 심읍시다."
 
 msgid "MISSION_TWENTIES_MEDAL_EMISSION_TREES_TEXT"
 msgstr ""
-"차사회의 반대파는 나무를 더 심음으로써 끊임없이 거리 사이를 노로노로 달리고 "
-"있다고 말해지는 차의 배기가스와 상쇄해야 한다고 주장하고 있습니다.\n"
-"음, 그들이 그러길 원한다면 그렇게 하죠"
+"자동차 반대파: 나무를 더 심음으로써 끊임없이 거리 사이를 달리고 "
+"있는 차의 배기가스와 상쇄해야 한다고 주장하고 있습니다.\n"
+"음, 그들이 그러길 원한다면 그렇게 하죠..."
 
 msgid "MISSION_TWENTIES_NAME"
-msgstr "광조의 20년대"
+msgstr "광란의 20년대"
 
 msgid "MISSION_TWENTIES_PARAMS_ASPHALTPLANT"
-msgstr "미네아폴리스아스팔트플랜트"
+msgstr "미네아폴리스아스팔트공장"
 
 msgid "MISSION_TWENTIES_PARAMS_CMPLANT"
-msgstr "로체스터 건설자재 플랜트"
+msgstr "로체스터 건설자재 공장"
 
 msgid "MISSION_TWENTIES_PARAMS_CONSTRUCTIONSITE1"
 msgstr "미네아폴리스 도로유지관리 차량기지"
@@ -10869,10 +10868,10 @@ msgid "MISSION_TWENTIES_PARAMS_FARM2"
 msgstr "로체스터 농장"
 
 msgid "MISSION_TWENTIES_PARAMS_FOODPRCESSING"
-msgstr "로체스터 식품가공 플랜트"
+msgstr "로체스터 식품가공 공장"
 
 msgid "MISSION_TWENTIES_PARAMS_FUELFACTORY"
-msgstr "라·크로스 제유소"
+msgstr "라·크로스 정유소"
 
 msgid "MISSION_TWENTIES_PARAMS_GASSTATION1"
 msgstr "미네아폴리스 주유소"
@@ -10920,34 +10919,34 @@ msgid "MISSION_TWENTIES_PARAMS_TRAININGSCENTER"
 msgstr "트레이닝센터"
 
 msgid "MISSION_TWENTIES_PARAMS_TRAM1"
-msgstr "트램 1"
+msgstr "노면전차 1"
 
 msgid "MISSION_TWENTIES_PARAMS_TRAM2"
-msgstr "트램 2"
+msgstr "노면전차 2"
 
 msgid "MISSION_TWENTIES_PARAMS_TRAM3"
-msgstr "트램 3"
+msgstr "노면전차 3"
 
 msgid "MISSION_TWENTIES_PARAMS_TRAM4"
-msgstr "트램 4"
+msgstr "노면전차 4"
 
 msgid "MISSION_TWENTIES_PARAMS_TRAMSTOP1"
-msgstr "트램 역 1"
+msgstr "노면전차 역 1"
 
 msgid "MISSION_TWENTIES_PARAMS_TRAMSTOP2"
-msgstr "트램 역 2"
+msgstr "노면전차 역 2"
 
 msgid "MISSION_TWENTIES_PARAMS_TRAMSTOP3"
-msgstr "트램 역 3"
+msgstr "노면전차 역 3"
 
 msgid "MISSION_TWENTIES_PARAMS_TRAMSTOP4"
-msgstr "트램 역 4"
+msgstr "노면전차 역 4"
 
 msgid "MISSION_TWENTIES_PARAMS_TRAMSTOP5"
-msgstr "트램 역 5"
+msgstr "노면전차 역 5"
 
 msgid "MISSION_TWENTIES_PARAMS_TRAMSTOP6"
-msgstr "트램 역 6"
+msgstr "노면전차 역 6"
 
 msgid "MISSION_TWENTIES_TASK_COMPETITION_NAME"
 msgstr "독점"
@@ -10962,10 +10961,10 @@ msgstr ""
 "아,우울해 .이 원하지 않는 경쟁에 종지부를 찍읍시다."
 
 msgid "MISSION_TWENTIES_TASK_COMPETITION_TRAM_NAME"
-msgstr "트램과의 경쟁"
+msgstr "노면전차과의 경쟁"
 
 msgid "MISSION_TWENTIES_TASK_COMPETITION_TRAM_TASK"
-msgstr "거리 트램보다 더 매력적인 서비스를 버스로 제공합시다."
+msgstr "거리 노면전차보다 더 매력적인 서비스를 버스로 제공합시다."
 
 msgid "MISSION_TWENTIES_TASK_COMPETITION_TRAM_TEXT"
 msgstr ""
@@ -11037,7 +11036,7 @@ msgid "MISSION_TWENTIES_TASK_DRIVERS_TRANSPORT_NAME"
 msgstr "버스운전사 견습"
 
 msgid "MISSION_TWENTIES_TASK_DRIVERS_TRANSPORT_TASK"
-msgstr "본습자들을 [link=jump_trainingcenter]트레이닝센터[/link]로 데려오죠."
+msgstr "본 견습자들을 [link=jump_trainingcenter]트레이닝센터[/link]로 데려오죠."
 
 msgid "MISSION_TWENTIES_TASK_DRIVERS_TRANSPORT_TEXT"
 msgstr ""
@@ -11050,9 +11049,9 @@ msgstr "해냈어, 해냈어!"
 
 msgid "MISSION_TWENTIES_TASK_FINISH_TEXT"
 msgstr ""
-"당신의 버스회사는, 뛰어나게 멋진 회사가 되었습니다.중서부뿐만 아니라 대륙 전"
+"당신의 버스회사는, 뛰어나게 멋진 회사가 되었습니다. 중서부뿐만 아니라 대륙 전"
 "역을 봐도요!\n"
-"광산터널에서 막 나온 시절도 있었습니다.그것이 지금 당신은 나라에서 가장 이익"
+"광산터널에서 막 나온 시절도 있었습니다. 그것이 지금 당신은 나라에서 가장 이익"
 "을 내는 회사를 소유하고 있습니다.\n"
 "이를 통해, 아메리칸 드림은 실현된다는 것을 증명했습니다!"
 
@@ -11099,7 +11098,7 @@ msgstr ""
 "겨지는 일은 없도록!"
 
 msgid "MISSION_TWENTIES_TASK_HIGHWAY_DEPARTMENT_NAME"
-msgstr "도로유지관리차량기지로 공급"
+msgstr "도로유지관리 차량기지로 공급"
 
 msgid "MISSION_TWENTIES_TASK_HIGHWAY_DEPARTMENT_SUB1"
 msgstr "건설자재 운반"
@@ -11121,14 +11120,14 @@ msgstr "고속도로"
 
 msgid "MISSION_TWENTIES_TASK_HIGHWAY_TEXT"
 msgstr ""
-"비즈니스는 절호조입니다!\n"
+"비즈니스는 매우 호황입니다!\n"
 "그런데, 거리 밖 루트는 길이 나빠서 버스가 많이 흔들리는 것 같습니다.\n"
 "정부 프로그램에 의해, 도로 건설에 대한 자금이 제공되게 되어 있습니다.\n"
 "도로 개선을 지원하고, 장기적으로 버스의 승차감이 좋아지도록 합시다."
 
 msgid "MISSION_TWENTIES_TASK_LICENCE_BUSLINE_HINT"
 msgstr ""
-"거리 중심에서 퀘스천 마크를 클릭하고, 수송 서비스의 라이센스를 취득합시다."
+"거리 중심에서 물음표 마크를 클릭하고, 수송 서비스의 라이센스를 취득합시다."
 
 msgid "MISSION_TWENTIES_TASK_LICENCE_BUSLINE_NAME"
 msgstr "버스노선 가동"
@@ -11142,7 +11141,7 @@ msgstr "승객 탑승 완료"
 msgid "MISSION_TWENTIES_TASK_LICENCE_BUSLINE_TASK"
 msgstr ""
 "주변거리에서 [link=jump_minneapolis]미네아폴리스[/link]로의 노선을 최소 "
-"${goal_licence}개 확립하고, ${goal_passengers}인 승객을 수송합시다.각각의 거"
+"${goal_licence}개 확립하고, ${goal_passengers}인 승객을 수송합시다. 각각의 거"
 "리의 중심에서 적절한 라이선스를 구입합시다."
 
 msgid "MISSION_TWENTIES_TASK_LICENCE_BUSLINE_TEXT"
@@ -11174,7 +11173,7 @@ msgstr ""
 
 msgid "MISSION_VICECOUNTY_CAMPAIGNSCREEN"
 msgstr ""
-"1980년대 초의 선샤인 스테이트.최근까지 퇴직자의 낙원으로서 알려져 있던 플로"
+"1980년대 초의 선샤인 스테이트. 최근까지 퇴직자의 낙원으로서 알려져 있던 플로"
 "리다 주는 전례 없는 호황을 맞고 있습니다.\n"
 "마이애미 다운타운에는 초고층 빌딩들이 즐비하고 수상한 사업들이 줄지어 있습니"
 "다.\n"
@@ -11216,7 +11215,7 @@ msgstr "수송 끝난 값"
 
 msgid "MISSION_VICECOUNTY_MEDAL_BLOCK_BREAD_TASK"
 msgstr ""
-"[link=jump_foodprocessing]식품가공 플랜트[/link]의 수송가치가 "
+"[link=jump_foodprocessing]식품가공 공장[/link]의 수송가치가 "
 "${block_percent_text}%를 밑돌도록 합시다."
 
 msgid "MISSION_VICECOUNTY_MEDAL_BLOCK_BREAD_TEXT"
@@ -11334,13 +11333,13 @@ msgid "MISSION_VICECOUNTY_PARAMS_CATERING"
 msgstr "촬영진용 케이터링"
 
 msgid "MISSION_VICECOUNTY_PARAMS_CIGARFACTORY"
-msgstr "아바나 엽권공장"
+msgstr "하바나 시가공장"
 
 msgid "MISSION_VICECOUNTY_PARAMS_CONMATPLANT"
-msgstr "마이애미 건설 자재 플랜트"
+msgstr "마이애미 건설 자재 공장"
 
 msgid "MISSION_VICECOUNTY_PARAMS_CUBA_AIRPORT"
-msgstr "아바나 비행장"
+msgstr "하바나 비행장"
 
 msgid "MISSION_VICECOUNTY_PARAMS_DISTILLERY"
 msgstr "하바나람 증류소"
@@ -11352,16 +11351,16 @@ msgid "MISSION_VICECOUNTY_PARAMS_FARM"
 msgstr "바하마 농장"
 
 msgid "MISSION_VICECOUNTY_PARAMS_FOODPROCESSING"
-msgstr "웨스트비치 식품가공 플랜트"
+msgstr "웨스트비치 식품가공 공장"
 
 msgid "MISSION_VICECOUNTY_PARAMS_FORTMYERS"
 msgstr "포트마이어스"
 
 msgid "MISSION_VICECOUNTY_PARAMS_GOODSFACTORY"
-msgstr "아바나 제품 공장"
+msgstr "하바나 제품 공장"
 
 msgid "MISSION_VICECOUNTY_PARAMS_HARBOR_CUBA"
-msgstr "아바나 항구"
+msgstr "하바나 항구"
 
 msgid "MISSION_VICECOUNTY_PARAMS_HARBOR_EVERGLADES"
 msgstr "에버그레이즈항"
@@ -11370,7 +11369,7 @@ msgid "MISSION_VICECOUNTY_PARAMS_HARBOR_MIAMI"
 msgstr "마이애미항구"
 
 msgid "MISSION_VICECOUNTY_PARAMS_HAVANNA"
-msgstr "아바나"
+msgstr "하바나"
 
 msgid "MISSION_VICECOUNTY_PARAMS_KEYWEST"
 msgstr "키웨스트"
@@ -11401,8 +11400,8 @@ msgstr "시가를 나르는"
 
 msgid "MISSION_VICECOUNTY_TASK_BOOM_BUILDA_TASK"
 msgstr ""
-"[link=jump_conmatplant]건설자재[/link]를 ${conmat_amount_myers}라고 "
-"[link=jump_cigarfactory]엽권[/link]를 ${cigars_amount_myers}책 "
+"[link=jump_conmatplant]건설자재[/link]를 ${conmat_amount_myers}개 "
+"[link=jump_cigarfactory]시가[/link]를 ${cigars_amount_myers}개 "
 "[link=jump_fortmyers]고령자 거주지역[/link]으로 옮깁시다."
 
 msgid "MISSION_VICECOUNTY_TASK_BOOM_BUILDA_TEXT"
@@ -11505,13 +11504,13 @@ msgid "MISSION_VICECOUNTY_TASK_CARGO_PLANE_NAME"
 msgstr "공수에 의한 운반 실행"
 
 msgid "MISSION_VICECOUNTY_TASK_CARGO_PLANE_SUB1"
-msgstr "수송한 승객"
+msgstr "승객 수송완료"
 
 msgid "MISSION_VICECOUNTY_TASK_CARGO_PLANE_SUB2"
-msgstr "배달된 램"
+msgstr "럼주 배송완료"
 
 msgid "MISSION_VICECOUNTY_TASK_CARGO_PLANE_SUB3"
-msgstr "배달된 엽권"
+msgstr "시가 배송완료"
 
 msgid "MISSION_VICECOUNTY_TASK_CARGO_PLANE_TASK"
 msgstr ""
@@ -11563,24 +11562,24 @@ msgid "MISSION_VICECOUNTY_TASK_RUM_BOAT_NAME"
 msgstr "선박을 통한 운반 실행"
 
 msgid "MISSION_VICECOUNTY_TASK_RUM_BOAT_SUB1"
-msgstr "배달된 과일"
+msgstr "과일 배송완료"
 
 msgid "MISSION_VICECOUNTY_TASK_RUM_BOAT_SUB2"
-msgstr "배달된 램"
+msgstr "럼주 배송완료"
 
 msgid "MISSION_VICECOUNTY_TASK_RUM_BOAT_SUB3"
-msgstr "배달된 엽권"
+msgstr "시가 배송완료"
 
 msgid "MISSION_VICECOUNTY_TASK_RUM_BOAT_TASK"
 msgstr ""
-"배로 ${cigars_amount}의 [link=jump_cigarfactory]엽권[/link]과 ${rum_amount}"
+"배로 ${cigars_amount}의 [link=jump_cigarfactory]시가[/link]와 ${rum_amount}"
 "의 [link=jump_distillery]럼주[/link]를 쿠바에서, ${fruit_amount}의 "
 "[link=jump_farm]과일[/link]을 바하마에서 [link=jump_miami]마이애미[/link]로 "
 "옮깁시다."
 
 msgid "MISSION_VICECOUNTY_TASK_RUM_BOAT_TEXT"
 msgstr ""
-"시가를 권하고 람주를 미국으로 가져가는 동료를 도와줍시다.\n"
+"시가를 권하고 럼주를 미국으로 가져가는 동료를 도와줍시다.\n"
 "트로피컬 과일 수입사로 속여 사람들에게 이 비즈니스가 들키지 맙시다."
 
 msgid "MISSION_VICECOUNTY_TASK_RUM_CAUGHT_NAME"
@@ -11616,7 +11615,7 @@ msgstr ""
 "쿠바에서는 별의별 좋은 물건이 다 찾아옵니다!\n"
 "아쉽게도, 미국은 금수를 선언했기 때문에 공산주의의 섬인 쿠바에서는 아무것도 "
 "수입할 수 없습니다.\n"
-"미국 의회 의원들조차, 쿠바산 엽권과 람주는 높이 평가하고 있습니다.\n"
+"미국 의회 의원들조차, 쿠바산 시가와 럼주는 높이 평가하고 있습니다.\n"
 "상사는 카리브해에서 미국 본토로 상품을 이동시키고 싶다고 생각하고 있습니"
 "다.\n"
 "잡히지 않도록 조심합시다!"
@@ -11713,7 +11712,7 @@ msgstr ""
 "당신의 전문지식이 요구되고 있습니다."
 
 msgid "MISSION_VICECOUNTY_TASK_TOURISM_CULTURE_NAME"
-msgstr "트램의 운행"
+msgstr "노면전차의 운행"
 
 msgid "MISSION_VICECOUNTY_TASK_TOURISM_CULTURE_SUB1"
 msgstr "노면전철역 건설"
@@ -11898,7 +11897,7 @@ msgid "Modify terrain"
 msgstr "지형 수정"
 
 msgid "Modular bus/tram station."
-msgstr "모듈식 버스/트램역"
+msgstr "모듈식 버스/노면전차역"
 
 msgid "Modular harbor for cargo ships."
 msgstr "화물선용 모듈식 항구."
@@ -11976,7 +11975,7 @@ msgid "Oil"
 msgstr "석유"
 
 msgid "Oil refinery"
-msgstr "제유소"
+msgstr "정유소"
 
 msgid "Oil sand"
 msgstr "유사"
@@ -12075,7 +12074,7 @@ msgid "Roundabout"
 msgstr "라운드 어바웃"
 
 msgid "Rum"
-msgstr "람주"
+msgstr "럼주"
 
 msgid "Russian"
 msgstr "러시아어"
@@ -12159,7 +12158,7 @@ msgid "Small"
 msgstr "소형"
 
 msgid "Small bus/tram stop for passengers, to be placed on the sidewalk."
-msgstr "길가에 설치하는 여객용 소형 버스/트램 정류장"
+msgstr "길가에 설치하는 여객용 소형 버스/노면전차 정류장"
 
 msgid "Small country road"
 msgstr "소형 시골길"
@@ -12219,7 +12218,7 @@ msgid "Steel"
 msgstr "강철"
 
 msgid "Steel mill"
-msgstr "제강소"
+msgstr "철강공장"
 
 msgid "Stone"
 msgstr "석재"
@@ -12251,8 +12250,8 @@ msgstr ""
 
 msgid "TIP_CONSTRUCTION_11"
 msgstr ""
-"역 건설 중은<<constructOpt1>>와<<constructOpt2>>에서 회전,<Shift>에서 미조정"
-"을 수 있습니다."
+"역 건설 시에 <<constructOpt1>>와<<constructOpt2>>로 회전, <Shift>로 미세조정"
+"할 수 있습니다."
 
 msgid "TIP_CONSTRUCTION_2"
 msgstr "다리나 터널 건설과 보수에 드는 비용은 높이나 길이에 따라 달라집니다."
@@ -12282,7 +12281,7 @@ msgstr ""
 
 msgid "TIP_CONSTRUCTION_9"
 msgstr ""
-"도로 건설 중에<<constructOpt1>>와<<constructOpt2>>을 누르고 다리와 터널을 작"
+"도로 건설 중에 <<constructOpt1>>와 <<constructOpt2>>을 누르고 다리와 터널을 작"
 "성합시다."
 
 msgid "TIP_INDUSTRIES_1"
@@ -12398,13 +12397,13 @@ msgid "Train station"
 msgstr "열차역"
 
 msgid "Tram depot"
-msgstr "트램 차량기지"
+msgstr "노면전차 차량기지"
 
 msgid "Tram station"
-msgstr "트램역"
+msgstr "노면전차역"
 
 msgid "Tram track"
-msgstr "트램 선로"
+msgstr "노면전차 선로"
 
 msgid "Tree limit"
 msgstr "숲제한"
@@ -12449,7 +12448,7 @@ msgid "Used to buy/sell trains."
 msgstr "열차를 구입/매각할 때 사용."
 
 msgid "Used to buy/sell trams."
-msgstr "트램을 구매/매각할 때 사용."
+msgstr "노면전차을 구매/매각할 때 사용."
 
 msgid "VEHICLE_BUS_ABOAG_DESCRIPTION"
 msgstr ""
