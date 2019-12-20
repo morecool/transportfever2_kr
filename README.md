@@ -16,8 +16,7 @@
 	"UserConfig"
 	{
 		"language"		"english"   <<<<<< 이부분을 
-		"language"		"koreana"   <<<<<< 이렇게 수정 (오타 주의 korean 아님 koreana) 27560 패치 이후 안됨
-		"language"		"japanese"  <<<<<< **일본어로 셋팅하세요**
+		"language"		"japanese"  <<<<<< **일본어로 셋팅하세요. 27560 패치 이후 "koreana" 안됨**
 	}
 ```
  - **base-ko.mo, res-ko.mo** 파일을 다운로드 하세요
