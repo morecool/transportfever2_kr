@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-12-10 19:13+0100\n"
-"PO-Revision-Date: 2019-12-10 14:12+0100\n"
+"POT-Creation-Date: 2019-12-19 14:37+0100\n"
+"PO-Revision-Date: 2019-12-19 14:44+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: de\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Language: de_CH\n"
 "X-Source-Language: en_EN\n"
-"X-Generator: Poedit 2.2.2\n"
+"X-Generator: Poedit 2.2.4\n"
 
 msgid " stations left"
 msgstr " Stationen übrig"
@@ -176,6 +176,9 @@ msgstr "Asset"
 
 msgid "Asset builder"
 msgstr "Assetbautool"
+
+msgid "Auto upgrade"
+msgstr "Automatisches upgraden"
 
 msgid "Ballast"
 msgstr "Ballast"
@@ -403,6 +406,9 @@ msgstr "Wüste (nur Assets)"
 
 msgid "Destinations layer"
 msgstr "Reiseziele"
+
+msgid "Detail contour (2 m)"
+msgstr "Hilfshöhenlinien (2m)"
 
 msgid "Dirt"
 msgstr "Dreck"
@@ -1356,6 +1362,12 @@ msgstr "Industrienstatistik"
 
 msgid "Inner radius"
 msgstr "Innerer Radius"
+
+msgid "Input"
+msgstr "Zufuhr"
+
+msgid "Intermediate contour (10 m)"
+msgstr "Höhenlinien 10m"
 
 msgid "Iron bridge"
 msgstr "Eisenbrücke"
@@ -8663,7 +8675,7 @@ msgstr ""
 "Der Territorial Enterprise vermeldet: \n"
 "\"Der wilde Mann ist tot. Sein Leichnam wurde den Wassern des Lake Tahoe "
 "übergeben, wo er auf zweihundert Meter Tiefe sinken, bewegungslos in einen "
-"Eisblock eingeschlossen und aufgrund des hohen Drucks auf die Gösse eines "
+"Eisblock eingeschlossen und aufgrund des hohen Drucks auf die Grösse eines "
 "Kleinkinds schrumpfen wird.\" \n"
 "Nun ja, da lässt sich wohl nichts machen."
 
@@ -12582,6 +12594,9 @@ msgstr "Maschinenfabrik"
 msgid "Mainland"
 msgstr "Festland"
 
+msgid "Major contour (100 m)"
+msgstr "Haupthöhenlinien (100m)"
+
 msgid "Marble"
 msgstr "Marmor"
 
@@ -12617,6 +12632,9 @@ msgstr "Mittlere Strasse"
 
 msgid "Mesas"
 msgstr "Tafelberge"
+
+msgid "Minor contour (50 m)"
+msgstr "Höhenlinien 50m"
 
 msgid "Miscellaneous"
 msgstr "Diverses"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-12-10 16:42+0100\n"
+"POT-Creation-Date: 2019-12-19 14:43+0100\n"
 "PO-Revision-Date: 2019-12-10 14:31+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1511,9 +1511,6 @@ msgstr "Facile"
 msgid "Edge scrolling"
 msgstr "Défilement sur les bords"
 
-msgid "Edit vehicle"
-msgstr "Éditer véhicule"
-
 msgid "Editor"
 msgstr "Éditeur"
 
@@ -2216,9 +2213,6 @@ msgstr "Utilisation de la ligne"
 
 msgid "Line contains too few stations"
 msgstr "Cette ligne possède trop peu de gares"
-
-msgid "Line has no stops"
-msgstr "La ligne n'a pas d'arrêt"
 
 msgid "Line manager"
 msgstr "Assistant de gestion de ligne"
@@ -3097,14 +3091,8 @@ msgid_plural "Replace selected vehicles"
 msgstr[0] "Remplacer véhicule sélectionné"
 msgstr[1] "Remplacer véhicules sélectionnés"
 
-msgid "Replace vehicle"
-msgstr "Remplacer le véhicule"
-
 msgid "Replace vehicles"
 msgstr "Remplacer véhicules"
-
-msgid "Replacement vehicle not set"
-msgstr "Véhicule de remplacement non défini"
 
 msgid "Replacing vehicle"
 msgstr "Remplacer véhicule"

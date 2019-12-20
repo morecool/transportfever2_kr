@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-12-10 16:34+0100\n"
+"POT-Creation-Date: 2019-12-19 14:43+0100\n"
 "PO-Revision-Date: 2019-12-12 14:48+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1534,9 +1534,6 @@ msgstr "Легк."
 msgid "Edge scrolling"
 msgstr "Перемещение камеры при удержании указателя на краю экрана"
 
-msgid "Edit vehicle"
-msgstr "Редактировать транспортное средство"
-
 msgid "Editor"
 msgstr "Редактор"
 
@@ -2243,9 +2240,6 @@ msgstr "Загрузка линии"
 
 msgid "Line contains too few stations"
 msgstr "На маршруте слишком мало станций"
-
-msgid "Line has no stops"
-msgstr "На маршруте нет остановок"
 
 msgid "Line manager"
 msgstr "Менеджер линий"
@@ -3119,14 +3113,8 @@ msgstr[0] "Заменить выбранное транспортное сред
 msgstr[1] "Заменить выбранные транспортные средства"
 msgstr[2] "Заменить выбранные транспортные средства"
 
-msgid "Replace vehicle"
-msgstr "Заменить транспорт"
-
 msgid "Replace vehicles"
 msgstr "Заменить транспорт"
-
-msgid "Replacement vehicle not set"
-msgstr "Не указан транспорт для замены"
 
 msgid "Replacing vehicle"
 msgstr "Заменяем транспорт"

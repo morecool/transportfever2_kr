@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-12-10 18:59+0100\n"
-"PO-Revision-Date: 2019-12-02 11:49+0100\n"
+"POT-Creation-Date: 2019-12-19 14:37+0100\n"
+"PO-Revision-Date: 2019-12-19 14:39+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: de\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Language: de_CH\n"
 "X-Source-Language: C\n"
-"X-Generator: Poedit 2.2.2\n"
+"X-Generator: Poedit 2.2.4\n"
 
 msgid "  - activate your dedicated graphics card (if available)"
 msgstr "  - aktiviere die dedizierte Grafikkarte (falls vorhanden)"
@@ -28,6 +28,9 @@ msgstr " (Terminal %1%)"
 
 msgid "%1%"
 msgstr "%1%"
+
+msgid "%1% %%"
+msgstr "%1% %%"
 
 msgid "%1% %2%"
 msgstr "%1% %2%"
@@ -286,7 +289,7 @@ msgstr[1] "%d Jahre"
 msgid "%d building will be moved"
 msgid_plural "%d buildings will be moved"
 msgstr[0] "%d Gebäude wird verschoben"
-msgstr[1] "%d Gebäude werden entfernt"
+msgstr[1] "%d Gebäude werden verschoben"
 
 msgid "%d building will be removed"
 msgid_plural "%d buildings will be removed"
@@ -418,7 +421,7 @@ msgid "1:5"
 msgstr "1:5"
 
 msgid "1x"
-msgstr "1x1 x"
+msgstr "1x"
 
 msgid "2 x"
 msgstr "2 x"
@@ -1516,8 +1519,18 @@ msgstr "Einfach"
 msgid "Edge scrolling"
 msgstr "Scrollen am Bildrand"
 
+msgid "Edit all vehicles"
+msgstr "Alle Fahrzeug ändern"
+
+msgid "Edit selected vehicle"
+msgid_plural "Edit selected vehicles"
+msgstr[0] "Gewähltes Fahrzeug ändern"
+msgstr[1] "Gewählte Fahrzeuge ändern"
+
 msgid "Edit vehicle"
-msgstr "Fahrzeug ändern"
+msgid_plural "Edit vehicles"
+msgstr[0] "Fahrzeug ändern"
+msgstr[1] "Fahrzeuge ändern"
 
 msgid "Editor"
 msgstr "Editor"
@@ -2227,9 +2240,6 @@ msgstr "Linienbenutzung"
 msgid "Line contains too few stations"
 msgstr "Linie enthält zu wenig Haltestellen"
 
-msgid "Line has no stops"
-msgstr "Linie hat keine Haltestellen"
-
 msgid "Line manager"
 msgstr "Linienmanager"
 
@@ -2395,6 +2405,9 @@ msgstr "Kartenerstellung fehlgeschlagen"
 msgid "Map size"
 msgstr "Kartengrösse"
 
+msgid "Map size is experimental and may lead to unexpected results."
+msgstr "Das Laden von Karten dieser Grösse kann unerwartete Ergebnisse haben."
+
 msgid "Map size:"
 msgstr "Kartengrösse:"
 
@@ -2503,11 +2516,17 @@ msgstr "Maus-/Tastatureinstellungen"
 msgid "Move mode"
 msgstr "Bewegungsart"
 
+msgid "Move vehicle down"
+msgstr "Fahrzeug nach unten verschieben"
+
 msgid "Move vehicle left"
 msgstr "Fahrzeug nach links verschieben"
 
 msgid "Move vehicle right"
 msgstr "Fahrzeug nach rechts verschieben"
+
+msgid "Move vehicle up"
+msgstr "Fahrzeug nach oben verschieben"
 
 msgid "Multiple units"
 msgstr "Triebwagen"
@@ -2795,6 +2814,9 @@ msgstr "PR & Community Management"
 
 msgid "PR Assistant"
 msgstr "PR Assistent"
+
+msgid "Paint steep side"
+msgstr "Steigung invertieren"
 
 msgid "Paint tools"
 msgstr "Mal-Tools"
@@ -3108,13 +3130,12 @@ msgstr[0] "Ersetze gewähltes Fahrzeug"
 msgstr[1] "Ersetze gewählte Fahrzeuge"
 
 msgid "Replace vehicle"
-msgstr "Fahrzeug ersetzen"
+msgid_plural "Replace vehicles"
+msgstr[0] "Fahrzeug ersetzen"
+msgstr[1] "Fahrzeuge ersetzen"
 
 msgid "Replace vehicles"
 msgstr "Fahrzeuge ersetzen"
-
-msgid "Replacement vehicle not set"
-msgstr "Ersatzfahrzeug nicht festgelegt"
 
 msgid "Replacing vehicle"
 msgstr "Ersatzfahrzeug"
@@ -3480,6 +3501,12 @@ msgstr "Optionen ein- oder ausblenden"
 msgid "Show/hide quit dialog"
 msgstr "Zeige Beenden Dialog"
 
+msgid "Show/hide rail buildings menu"
+msgstr "Zeige Baumenu Eisenbahn-Gebäude"
+
+msgid "Show/hide road buildings menu"
+msgstr "Zeige Baumenu Strassen-Gebäude"
+
 msgid "Show/hide save game dialog"
 msgstr "Spiel speichern Dialog ein- oder ausblenden"
 
@@ -3843,6 +3870,9 @@ msgid ""
 msgstr ""
 "Das Format dieser Mod ist veraltet. Bitte kontaktiere den Autor, um eine "
 "aktuelle Version zu erhalten."
+
+msgid "This setting can only be changed in the main menu"
+msgstr "Diese Einstellung kann nur im Hauptmenu geändert werden"
 
 msgid "This warning can be deactivated in the settings Advanced tab."
 msgstr ""

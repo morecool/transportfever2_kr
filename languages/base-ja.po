@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-12-10 16:42+0100\n"
+"POT-Creation-Date: 2019-12-19 14:43+0100\n"
 "PO-Revision-Date: 2019-12-10 14:31+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1501,9 +1501,6 @@ msgstr "イージー"
 msgid "Edge scrolling"
 msgstr "エッジスクロール"
 
-msgid "Edit vehicle"
-msgstr "車両を編集"
-
 msgid "Editor"
 msgstr "エディター"
 
@@ -2200,9 +2197,6 @@ msgstr "路線の使用量"
 
 msgid "Line contains too few stations"
 msgstr "路線に駅が少なすぎます"
-
-msgid "Line has no stops"
-msgstr "路線に停留所がありません"
 
 msgid "Line manager"
 msgstr "路線マネージャー"
@@ -3076,14 +3070,8 @@ msgid_plural "Replace selected vehicles"
 msgstr[0] "選択した車両を交換"
 msgstr[1] "選択した車両を交換"
 
-msgid "Replace vehicle"
-msgstr "車両を交換"
-
 msgid "Replace vehicles"
 msgstr "車両を交換してください"
-
-msgid "Replacement vehicle not set"
-msgstr "交換する車両が設定されていません"
 
 msgid "Replacing vehicle"
 msgstr "車両を交換"
