@@ -179,6 +179,9 @@ msgstr "자산"
 msgid "Asset builder"
 msgstr "자산 빌더"
 
+msgid "Auto upgrade"
+msgstr "자동 업그레이드"
+
 msgid "Ballast"
 msgstr "밸러스트"
 
@@ -402,6 +405,9 @@ msgstr "사막 (자산 만)"
 
 msgid "Destinations layer"
 msgstr "목적지 레이어"
+
+msgid "Detail contour (2 m)"
+msgstr "상세 윤곽 (2 m)"
 
 msgid "Dirt"
 msgstr "흙"
@@ -1197,6 +1203,9 @@ msgstr "고속"
 msgid "High-speed tracks"
 msgstr "고속 철로"
 
+msgid "Highway ramp"
+msgstr "고속도로 교차로"
+
 msgid "Hilliness"
 msgstr "언덕"
 
@@ -1223,6 +1232,12 @@ msgstr "산업통계"
 
 msgid "Inner radius"
 msgstr "내연반경"
+
+msgid "Input"
+msgstr "입력"
+
+msgid "Intermediate contour (10 m)"
+msgstr "중간 윤곽 (10 m)"
 
 msgid "Iron bridge"
 msgstr "철교"
@@ -9485,7 +9500,7 @@ msgstr ""
 msgid "MISSION_STARFLIGHT_VEHICLE_TRAIN_ALCO_PA_NAME"
 msgstr "슈퍼 치프 기관차"
 
-msgid "MISSION_STARFLIGHT_VEHICLE_WAGON_STREAMLINED_SANTA_FE_NAME"
+msgid "MISSION_STARFLIGHT_VEHICLE_WAGGON_STREAMLINED_SANTA_FE_NAME"
 msgstr "슈퍼 치프인 왜건"
 
 msgid "MISSION_SWISSMADE_CAMPAIGNSCREEN"
@@ -11848,6 +11863,9 @@ msgstr "기계공장"
 msgid "Mainland"
 msgstr "본토"
 
+msgid "Major contour (100 m)"
+msgstr "주요 윤곽 (100 m)"
+
 msgid "Marble"
 msgstr "대리석"
 
@@ -11883,6 +11901,9 @@ msgstr "중형 도로"
 
 msgid "Mesas"
 msgstr "메사"
+
+msgid "Minor contour (50 m)"
+msgstr "작은 윤곽 (50 m)"
 
 msgid "Miscellaneous"
 msgstr "기타"
@@ -12434,6 +12455,11 @@ msgstr "제한 속도%2%의 2차로 도로."
 
 msgid "Unfortunate!"
 msgstr "불운!"
+
+msgid ""
+"Used as a normal path signal to regulate traffic or as a one-way signal."
+msgstr ""
+"트래픽을 조절하기위한 일반 경로 신호 또는 단방향 신호로 사용됩니다."
 
 msgid "Used for rerouting a line. Can be added to a line like a station."
 msgstr "경로 전환에 사용합니다.역과 같이 노선상에 추가할 수 있습니다."

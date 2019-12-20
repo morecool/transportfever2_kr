@@ -29,6 +29,9 @@ msgstr " (터미널 %1%)"
 msgid "%1%"
 msgstr "%1%"
 
+msgid "%1% %%"
+msgstr "%1% %%"
+
 msgid "%1% %2%"
 msgstr "%1% %2%"
 
@@ -1030,11 +1033,11 @@ msgstr "%1% 로 화물 공급"
 msgid "Cargo supply rating (average of last twelve months)"
 msgstr "화물 공급 평가(과거 12개월 평균)"
 
-msgid "Cargo transported (total)"
-msgstr "수송한 화물 (총 수)"
-
 msgid "Cargo transported (last 12 months)"
 msgstr "수송한 화물 (과거 12개월)"
+
+msgid "Cargo transported (total)"
+msgstr "수송한 화물 (총 수)"
 
 msgid "Cargo type"
 msgid_plural "Cargo types"
@@ -1497,11 +1500,24 @@ msgstr "쉬움"
 msgid "Edge scrolling"
 msgstr "가장자리 스크롤"
 
+msgid "Edit all vehicles"
+msgstr "모든 차량 변경"
+
+msgid "Edit selected vehicle"
+msgid_plural "Edit selected vehicles"
+msgstr[0] "선택 차량 변경"
+msgstr[1] "선택 차량 변경"
+
 msgid "Edit vehicle"
-msgstr "차량을 편집"
+msgid_plural "Edit vehicles"
+msgstr[0] "차량 변경"
+msgstr[1] "차량 변경"
 
 msgid "Editor"
 msgstr "편집기"
+
+msgid "Editor's note"
+msgstr "저자의 메모"
 
 msgid "Electric"
 msgstr "전기"
@@ -2195,9 +2211,6 @@ msgstr "노선 사용량"
 msgid "Line contains too few stations"
 msgstr "노선에 역이 너무 적음"
 
-msgid "Line has no stops"
-msgstr "노선에 정류장이 없음"
-
 msgid "Line manager"
 msgstr "노선 관리자"
 
@@ -2363,6 +2376,9 @@ msgstr "맵을 생성하지 못했어요"
 msgid "Map size"
 msgstr "맵의 사이즈"
 
+msgid "Map size is experimental and may lead to unexpected results."
+msgstr "이 맵 사이즈는 실험적이며 예상치 않은 결과가 발생할 수 있습니다."
+
 msgid "Map size:"
 msgstr "맵의 사이즈:"
 
@@ -2471,11 +2487,17 @@ msgstr "마우스/키보드 설정"
 msgid "Move mode"
 msgstr "이동 모드"
 
+msgid "Move vehicle down"
+msgstr "차량을 아래로 이동"
+
 msgid "Move vehicle left"
 msgstr "차량을 왼쪽으로 이동"
 
 msgid "Move vehicle right"
 msgstr "차량을 오른쪽으로 이동"
+
+msgid "Move vehicle up"
+msgstr "차량을 위로 이동"
 
 msgid "Multiple units"
 msgstr "복수의 단위"
@@ -2677,6 +2699,9 @@ msgstr "OK"
 msgid "Off"
 msgstr "꺼짐"
 
+msgid "Ok"
+msgstr "Ok"
+
 msgid "Old timer"
 msgstr "베테랑"
 
@@ -2760,6 +2785,9 @@ msgstr "홍보 & 커뮤니티 관리"
 
 msgid "PR Assistant"
 msgstr "홍보 도우미"
+
+msgid "Paint steep side"
+msgstr "경사면 칠하기"
 
 msgid "Paint tools"
 msgstr "페인트 툴"
@@ -3070,13 +3098,12 @@ msgstr[0] "선택한 차량을 교체."
 msgstr[1] "선택한 차량을 교체."
 
 msgid "Replace vehicle"
-msgstr "차량 교체"
+msgid_plural "Replace vehicles"
+msgstr[0] "차량 교체"
+msgstr[1] "차량 교체"
 
 msgid "Replace vehicles"
 msgstr "차량 교체"
-
-msgid "Replacement vehicle not set"
-msgstr "교체할 차량이 설정되어 있지 않아요"
 
 msgid "Replacing vehicle"
 msgstr "차량 교체"
@@ -3807,6 +3834,9 @@ msgid ""
 "This mod's format is deprecated. Please contact the author to obtain an up-"
 "to-date version."
 msgstr "이 MOD의 포맷은 비권장입니다.제작자에게 최신버전을 문의하시기 바랍니다"
+
+msgid "This setting can only be changed in the main menu"
+msgstr "이 설정은 주 메뉴에서만 변경할 수 있습니다"
 
 msgid "This warning can be deactivated in the settings Advanced tab."
 msgstr "이 경고 메시지는 설정의 \"상세\" 탭에서 비표시로 할 수 있습니다."
