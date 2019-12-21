@@ -4255,7 +4255,7 @@ msgid "MISSION_ICE_NAME"
 msgstr "해방된 시장"
 
 msgid "MISSION_ICE_PARAMS_ANSBACH"
-msgstr "안스바흐"
+msgstr "안스바흐 (BY)"
 
 msgid "MISSION_ICE_PARAMS_BADKISSINGEN"
 msgstr "글러브펠드"
@@ -4267,7 +4267,7 @@ msgid "MISSION_ICE_PARAMS_CONMATPLANT"
 msgstr "슈투트가르트 건설자재 공장"
 
 msgid "MISSION_ICE_PARAMS_CRAILSHEIM"
-msgstr "크라일스하임"
+msgstr "크라일스하임 (BY)"
 
 msgid "MISSION_ICE_PARAMS_FOODPROCESSING"
 msgstr "프랑크푸르트 식품가공 공장"
@@ -4285,37 +4285,37 @@ msgid "MISSION_ICE_PARAMS_GOODSFACTORY"
 msgstr "슈투트가르트 제품 공장"
 
 msgid "MISSION_ICE_PARAMS_GREDING"
-msgstr "그레이딩"
+msgstr "그레이딩 (BY)"
 
 msgid "MISSION_ICE_PARAMS_GRUIBINGEN"
-msgstr "글루이빙겐"
+msgstr "글루이빙겐 (BW)"
 
 msgid "MISSION_ICE_PARAMS_HEILBRONN"
-msgstr "하일브론"
+msgstr "하일브론 (BW)"
 
 msgid "MISSION_ICE_PARAMS_ICE_TEST_DESC"
 msgstr "ICE 시험열차"
 
 msgid "MISSION_ICE_PARAMS_INGOLSTADT"
-msgstr "잉골슈타트"
+msgstr "잉골슈타트 (BY)"
 
 msgid "MISSION_ICE_PARAMS_MACHINESFACTORY"
 msgstr "뉴른베르크 기계공장"
 
 msgid "MISSION_ICE_PARAMS_MANNHEIM"
-msgstr "맨하임"
+msgstr "맨하임 (BW)"
 
 msgid "MISSION_ICE_PARAMS_MUNDELSHEIM"
-msgstr "문델스하임"
+msgstr "문델스하임 (BW)"
 
 msgid "MISSION_ICE_PARAMS_NUREMBERG"
-msgstr "뉴른베르크"
+msgstr "뉴른베르크 (BY)"
 
 msgid "MISSION_ICE_PARAMS_ROHR"
-msgstr "롤"
+msgstr "롤 (BY)"
 
 msgid "MISSION_ICE_PARAMS_SINSHEIM"
-msgstr "진수하임"
+msgstr "진수하임 (BW)"
 
 msgid "MISSION_ICE_PARAMS_STATION_ANSBACH"
 msgstr "안스바흐 여객역"
@@ -4372,16 +4372,16 @@ msgid "MISSION_ICE_PARAMS_STATION_WUERZBURG"
 msgstr "뷔르츠부르크 여객역"
 
 msgid "MISSION_ICE_PARAMS_STUTTGART"
-msgstr "슈투트가르트"
+msgstr "슈투트가르트 (BW)"
 
 msgid "MISSION_ICE_PARAMS_TOOLSFACTORY"
 msgstr "뉴른베르크 공구공장"
 
 msgid "MISSION_ICE_PARAMS_ULM"
-msgstr "울름"
+msgstr "울름 (BW)"
 
 msgid "MISSION_ICE_PARAMS_WUERZBURG"
-msgstr "뷔르츠부르크"
+msgstr "뷔르츠부르크 (BY)"
 
 msgid "MISSION_ICE_TASK_BRANCH_NAME"
 msgstr "첫회 공공운행"
@@ -4598,15 +4598,15 @@ msgid "MISSION_ICE_TASK_REGIO_DECISION_NAME"
 msgstr "계약을 쟁취하다"
 
 msgid "MISSION_ICE_TASK_REGIO_DECISION_OPTION1"
-msgstr "바덴·뷔르템베르크"
+msgstr "바덴·뷔르템베르크 (BW)"
 
 msgid "MISSION_ICE_TASK_REGIO_DECISION_OPTION2"
-msgstr "바바리아"
+msgstr "바바리아 (BY)"
 
 msgid "MISSION_ICE_TASK_REGIO_DECISION_TASK"
 msgstr ""
-"지역대중교통을[link=jump_bw]바덴·뷔르템베르크[/link]또는 "
-"[link=jump_bayern]바바리아[/link]의 어느 쪽에 제공할지 결정합시다."
+"지역대중교통을[link=jump_bw]바덴·뷔르템베르크 (BW)[/link]또는 "
+"[link=jump_bayern]바바리아 (BY)[/link]의 어느 쪽에 제공할지 결정합시다."
 
 msgid "MISSION_ICE_TASK_REGIO_DECISION_TEXT"
 msgstr ""
@@ -12479,10 +12479,10 @@ msgstr "노면전차을 구매/매각할 때 사용."
 msgid "VEHICLE_BUS_ABOAG_DESCRIPTION"
 msgstr ""
 "베를린시의 버스회사, Allgemeine Berliner Omnibus AG(ABOAG)가 초기에 채용했"
-"던 \"데시트가 딸린 버스\""
+"던 \"덱시트 버스\""
 
 msgid "VEHICLE_BUS_ABOAG_NAME"
-msgstr "Daimler 사제 덱시트 부착 차량"
+msgstr "다임러 덱시트 차량"
 
 msgid "VEHICLE_BUS_AMERICAN_POST_COACH_DESCRIPTION"
 msgstr "일반적인 역마차.철도가 보급되기 전에 널리 이용되었습니다."
