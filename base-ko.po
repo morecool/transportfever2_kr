@@ -2302,10 +2302,10 @@ msgid "Low"
 msgstr "낮음"
 
 msgid "Lower"
-msgstr "내려감"
+msgstr "저지대"
 
 msgid "Lower %1%"
-msgstr "%1% 를 낮추었다"
+msgstr "%1% 저지대"
 
 msgid "Lower the terrain."
 msgstr "지형을 하강합니다."
@@ -3678,16 +3678,16 @@ msgid "Stocks"
 msgstr "재고"
 
 msgid "Stop"
-msgstr "정지"
+msgstr "정류장"
 
 msgid "Stop #%1%"
-msgstr "정류소 #%1%"
+msgstr "정류장 #%1%"
 
 msgid "Stop can not be used with current vehicles"
 msgstr "정류장은 현재 차량으로는 이용이 불가합니다"
 
 msgid "Stop preview"
-msgstr "프리뷰 정지"
+msgstr "정류장 미리보기"
 
 msgid "Stopped"
 msgstr "정지"
