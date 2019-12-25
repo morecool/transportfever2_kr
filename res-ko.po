@@ -9660,7 +9660,7 @@ msgstr "다음 단서를 찾읍시다."
 msgid "MISSION_SWISSMADE_MEDAL_PLOT_CLUE3B_TEXT"
 msgstr ""
 "이건 확실히 스캔들이에요.아무래도 음모에 동조하는 인간이 있는 것 같습니다.\n"
-"곳타르도 고개에서 파시스트와 스위스군 멤버들의 모임이 있습니다."
+"고타르 고개에서 파시스트와 스위스군 멤버들의 모임이 있습니다."
 
 msgid "MISSION_SWISSMADE_MEDAL_PLOT_DECISION"
 msgstr "음모를 지지합니까?"
@@ -9947,7 +9947,7 @@ msgstr ""
 
 msgid "MISSION_SWISSMADE_TASK_BOOM_REPAIR_TASK2"
 msgstr ""
-"[link=jump_constructionsite_tunnel]고탈드 터널[/link]을 개통하기 위해, "
+"[link=jump_constructionsite_tunnel]고타르 터널[/link]을 개통하기 위해, "
 "${machines_tunnel}대의 기계를 옮깁시다."
 
 msgid "MISSION_SWISSMADE_TASK_BOOM_REPAIR_TEXT1"
@@ -9957,7 +9957,7 @@ msgstr ""
 
 msgid "MISSION_SWISSMADE_TASK_BOOM_REPAIR_TEXT2"
 msgstr ""
-"추축국이 패배했기 때문에 잔해를 제거하면 남북을 잇는 고탈드 터널을 다시 사용"
+"추축국이 패배했기 때문에 잔해를 제거하면 남북을 잇는 고타르 터널을 다시 사용"
 "할 수 있습니다."
 
 msgid "MISSION_SWISSMADE_TASK_BOOM_TEXT"
@@ -9997,7 +9997,7 @@ msgstr ""
 
 msgid "MISSION_SWISSMADE_TASK_HARDTIMES_TRANSIT_TEXT"
 msgstr ""
-"추축국은, 고탈드 터널을 통한 화물 수송을 의지하고 있습니다.\n"
+"추축국은, 고타르 터널을 통한 화물 수송을 의지하고 있습니다.\n"
 "그들은 기일대로 통행료를 지불하지만, 당신에게 있어서는 그렇게 쉽게 받아들여"
 "지는 것은 아닙니다."
 
@@ -10032,14 +10032,14 @@ msgid "MISSION_SWISSMADE_TASK_MOBILE_RESERVES_NAME"
 msgstr "비축확립"
 
 msgid "MISSION_SWISSMADE_TASK_MOBILE_RESERVES_SUB1"
-msgstr "가에 공급완료"
+msgstr "마을에 공급완료"
 
 msgid "MISSION_SWISSMADE_TASK_MOBILE_RESERVES_SUB2"
 msgstr "비축 보급"
 
 msgid "MISSION_SWISSMADE_TASK_MOBILE_RESERVES_TASK"
 msgstr ""
-"적어도 ${coverage_towns_2b}부분의 마을에서 식량 공급을 ${coverage_2b}%로 하고 "
+"적어도 ${coverage_towns_2b}개 마을에서 식량 공급을 ${coverage_2b}%로 하고 "
 "[link=jump_storage_north]북쪽[/link]과 [link=jump_storage_south]남쪽[/link]에"
 "서 총 ${grain_2b}유닛의 곡물 비축을 달성합시다."
 
@@ -10069,9 +10069,9 @@ msgstr "철광석 운반"
 
 msgid "MISSION_SWISSMADE_TASK_MOBILE_TRANSIT_TASK"
 msgstr ""
-"${coal_4}개의[link=jump_coalmine]석탄[/link]를[link=jump_como]코모[/link]로,"
-"${iron_4}개의 [link=jump_ironoremine]철광석[/link]을"
-"[link=jump_friedrichshafen]프리드리히스하펜[/link]으로 옮겨갑시다."
+"${coal_4}개의 [link=jump_coalmine]석탄[/link]을 [link=jump_como]코모[/link]"
+"로, ${iron_4}개의 [link=jump_ironoremine]철광석[/link]"
+"을 [link=jump_friedrichshafen]프리드리히스하펜[/link]으로 옮겨갑시다."
 
 msgid "MISSION_SWISSMADE_TASK_PREWAR_NAME"
 msgstr "어두운 전망"
@@ -10084,12 +10084,12 @@ msgstr "지난달 손실"
 
 msgid "MISSION_SWISSMADE_TASK_PREWAR_OPTIMIZE_TASK"
 msgstr ""
-"비용을 줄이고 손실을 매달 최대${loss_1a_formated} 줄이기 때문에 노선을 최적"
+"비용을 줄이고 손실을 매달 최대 ${loss_1a_formated} 줄이기 때문에 노선을 최적"
 "화, 혹은 폐쇄합시다."
 
 msgid "MISSION_SWISSMADE_TASK_PREWAR_OPTIMIZE_TEXT"
 msgstr ""
-"아픔을 동반하지만, 그것 말고는 방법이 없습니다.유지관리의 감소와 이익이 되"
+"아픔을 동반하지만, 그것 말고는 방법이 없습니다. 유지관리의 감소와 이익이 되"
 "지 않는 서비스의 폐지를 요구받았습니다."
 
 msgid "MISSION_SWISSMADE_TASK_PREWAR_PASSENGERS_NAME"
@@ -10103,7 +10103,7 @@ msgstr "대중교통수단 접근가치"
 
 msgid "MISSION_SWISSMADE_TASK_PREWAR_PASSENGERS_TASK"
 msgstr ""
-"거리의 공공 교통 기관의 접근 가치를 총${public_transport_1b}올림,"
+"거리의 공공 교통 기관의 접근 가치를 총 ${public_transport_1b} 올리고,"
 "${passengers_1b}인 수송 합시다."
 
 msgid "MISSION_SWISSMADE_TASK_PREWAR_PASSENGERS_TEXT"
@@ -10134,7 +10134,7 @@ msgstr ""
 "버스를 그들을 위해 내줍시다."
 
 msgid "MISSION_SWISSMADE_TASK_REDUIT_GOTTHARD_NAME"
-msgstr "곳타르도"
+msgstr "고타르"
 
 msgid "MISSION_SWISSMADE_TASK_REDUIT_GOTTHARD_OPTION1"
 msgstr "폭파한다"
@@ -10147,7 +10147,7 @@ msgstr "터널을 폭파할지 결정하세요."
 
 msgid "MISSION_SWISSMADE_TASK_REDUIT_GOTTHARD_TEXT"
 msgstr ""
-"고탈드 터널을 폭파해 추축국의 분노를 살지, 아니면 북쪽과 남쪽의 중요한 통로"
+"고타르 터널을 폭파해 추축국의 분노를 살지, 아니면 북쪽과 남쪽의 중요한 통로"
 "를 그대로 둘지 결정해야 합니다."
 
 msgid "MISSION_SWISSMADE_TASK_REDUIT_NAME"
@@ -10160,12 +10160,12 @@ msgid "MISSION_SWISSMADE_TASK_REDUIT_RESERVES_SUB1"
 msgstr "식량을 거리로 수송"
 
 msgid "MISSION_SWISSMADE_TASK_REDUIT_RESERVES_SUB2"
-msgstr "비축을 사용한다"
+msgstr "비축품을 사용한다"
 
 msgid "MISSION_SWISSMADE_TASK_REDUIT_RESERVES_TASK"
 msgstr ""
-"거리의 평균 식량 공급을${coverage_3b}%로 하고, ${grain_3b}유닛의 곡물을"
-"[link=jump_storage_north]북[/link] 또는 [link=jump_storage_south]남쪽[/"
+"마을에 평균 ${coverage_3b}%의 식량 공급을 달성하고, ${grain_3b}유닛의 곡물"
+"을 [link=jump_storage_north]북쪽[/link] 또는 [link=jump_storage_south]남쪽[/"
 "link]의 저장고에서 가공합시다."
 
 msgid "MISSION_SWISSMADE_TASK_REDUIT_RESERVES_TEXT"
@@ -13304,7 +13304,7 @@ msgstr "BR E 94"
 
 msgid "VEHICLE_TRAIN_C6_8_DESCRIPTION"
 msgstr ""
-"스위스제 전기기관차.Gotthard \" GotthardRailway 등, 커브가 많은 노선에서의 "
+"스위스제 전기기관차. Gotthard \" GotthardRailway 등, 커브가 많은 노선에서의 "
 "중화물 수송을 상정하여 설계되었습니다.애칭인 \"Crocodile(악어)\"은,길고 평평"
 "한 마즐부와 녹색 컬러링에 빗대어 있습니다."
 
